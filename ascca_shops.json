@@ -1,0 +1,2874 @@
+[
+  {
+    "name": "1-800-Radiator",
+    "address": "888 Aldo Ave, Santa Clara, CA 95054",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 567-8052",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A & E Automotive",
+    "address": "1869 E Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 795-9825",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A & M Automotive Inc",
+    "address": "31760 Mission Trail Suite B, Lake Elsinore, CA 92530",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "phone": "(951) 245-1562",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A R Transmission",
+    "address": "1910 West McKinley Ave Unit 104, Fresno, CA 93728",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 485-8476",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A Street Auto Service",
+    "address": "1263 State St, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 239-8600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A+ Automotive",
+    "address": "345 W College Ave STE B, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 843-4756",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A+ Japanese Auto Repair",
+    "address": "780 Industrial Road, San Carlos, CA 94070",
+    "city": "San Carlos",
+    "state": "CA",
+    "phone": "(650) 595-2277",
+    "source": "ASCCA"
+  },
+  {
+    "name": "A-1 Lube & Tune",
+    "address": "4141 State St, Montclair, CA 91763",
+    "city": "Montclair",
+    "state": "CA",
+    "phone": "(909) 590-0466",
+    "source": "ASCCA"
+  },
+  {
+    "name": "ABC Smog Inc",
+    "address": "40851 Albrae St, Fremont, CA 94538",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 657-8988",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Accurate Autoworks",
+    "address": "28 North Hill Ave, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 584-6632",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ace Automotive & Fuel Systems",
+    "address": "975 Richard Ave, Santa Clara, CA 95050",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 727-2838",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ackerman's Servicing Volvo",
+    "address": "2220 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 549-9330",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Action Auto Inc",
+    "address": "9052 Walker St, Cypress, CA 90630",
+    "city": "Cypress",
+    "state": "CA",
+    "phone": "(714) 826-1880",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Acurit Imports Inc",
+    "address": "5677 Redwood Dr #A-B, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-1424",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Advance Muffler",
+    "address": "1234 East Walnut St, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-5656",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Advanced Automotive",
+    "address": "3110 Railroad Ave, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 244-4423",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Aero Auto Repair",
+    "address": "9756 Aero Drive, San Diego, CA 92123",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 467-9999",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Affordable Auto Repair",
+    "address": "41604 Date St STE A, Murrieta, CA 92562",
+    "city": "Murrieta",
+    "state": "CA",
+    "phone": "(951) 677-2373",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ak Auto Repair",
+    "address": "814 East Cota Street, Santa Barbara, CA 93103",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 869-6233",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Alex Romo Auto & Truck Repair",
+    "address": "1409 East Huntington Dr, Duarte, CA 91010",
+    "city": "Duarte",
+    "state": "CA",
+    "phone": "(626) 357-2631",
+    "source": "ASCCA"
+  },
+  {
+    "name": "All Flow Muffler & Auto Repair",
+    "address": "3900 Pacheco Blvd, Martinez, CA 94553",
+    "city": "Martinez",
+    "state": "CA",
+    "phone": "(925) 229-3044",
+    "source": "ASCCA"
+  },
+  {
+    "name": "All Time Gas & Diesel Repair",
+    "address": "610 South Vecino Dr, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 335-7427",
+    "source": "ASCCA"
+  },
+  {
+    "name": "All Wheel Auto Truck & RV Repair",
+    "address": "18730 Old Oasis Road, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 241-1010",
+    "source": "ASCCA"
+  },
+  {
+    "name": "All-Car Specialist Inc",
+    "address": "330 South Del Mar, San Gabriel, CA 91776",
+    "city": "San Gabriel",
+    "state": "CA",
+    "phone": "(626) 285-2205",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Allied Auto Works Inc",
+    "address": "2073 Grant Road, Los Altos, CA 94024",
+    "city": "Los Altos",
+    "state": "CA",
+    "phone": "(650) 947-7228",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Al's Jaguar and Land Rover",
+    "address": "3735 Newton Street, Torrance, CA 90505",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 373-8266",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ambassador Automotive Center",
+    "address": "4730 East Wesley Dr, Anaheim, CA 92807",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 970-2525",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Anderson Automotive",
+    "address": "2966 Oak Street, Anderson, CA 96007",
+    "city": "Anderson",
+    "state": "CA",
+    "phone": "(530) 356-2134",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Angels's Auto Repair Inc",
+    "address": "450 Agostino Road, San Gabriel, CA 91776",
+    "city": "San Gabriel",
+    "state": "CA",
+    "phone": "(626) 286-6202",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Antelope Auto Repair",
+    "address": "195 South Main Street, Red Bluff, CA 96080",
+    "city": "Red Bluff",
+    "state": "CA",
+    "phone": "(530) 527-2270",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Antonio's Custom Auto Body & Paint",
+    "address": "8484 Commerce Ave Suite B, San Diego, CA 92121",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 368-9249",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Arcadia Ultimate Auto",
+    "address": "418 North First, Arcadia, CA 91006",
+    "city": "Arcadia",
+    "state": "CA",
+    "phone": "(626) 821-0262",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Richard's Automotive (Arnerich)",
+    "address": "12345 Lake Blvd, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-2994",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Art's Automotive",
+    "address": "2871 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 540-7093",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Associated Auto Air & Radiator",
+    "address": "746 North Barranca Ave, Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 967-7341",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Auto Glass Geeks",
+    "address": "3330 Reynard Way, San Diego, CA 92103",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 694-7728",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Auto Precision",
+    "address": "1024 Service Place STE 101, Vista, CA 92084",
+    "city": "Vista",
+    "state": "CA",
+    "phone": "(760) 630-3377",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Automax Service Center Newport Beach",
+    "address": "1081 Camelback Street, Newport Beach, CA 92660",
+    "city": "Newport Beach",
+    "state": "CA",
+    "phone": "(949) 756-3393",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Autotrend Diagnostics",
+    "address": "2885 S Winchester Blvd Ste F, Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 866-5140",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Autoworks",
+    "address": "2040 Eureka Way, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 605-1200",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ayers Automotive Repairs",
+    "address": "1301 Chapala St, Santa Barbara, CA 93101",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 962-7316",
+    "source": "ASCCA"
+  },
+  {
+    "name": "B & F Auto Air Specialist",
+    "address": "1601 Placentia Ave, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 646-4238",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bagge & Son Inc",
+    "address": "10417 Washington Blvd, Culver City, CA 90232",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 838-8485",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bauer German Car Repair",
+    "address": "322 West Foothill Blvd, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 963-5775",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bavaria Auto Center",
+    "address": "4441 North Rosemead Blvd, Rosemead, CA 91770",
+    "city": "Rosemead",
+    "state": "CA",
+    "phone": "(626) 287-5745",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Belmont Auto Repair",
+    "address": "3720 East 4th St, Long Beach, CA 90814",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 439-0291",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Berkeley Bob's",
+    "address": "2705 San Pablo Avenue, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 548-7140",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Berkeley Minicar",
+    "address": "2498 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 841-1221",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Best Valley Smog and Auto",
+    "address": "23952 Alessandro Blvd Suite B, Moreno Valley, CA 92553",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "phone": "(951) 656-8281",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Big O Tires and Services",
+    "address": "742 S Main Street, Sebastopol, CA 95472",
+    "city": "Sebastopol",
+    "state": "CA",
+    "phone": "(707) 398-5200",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bill's Auto Electric and Repair Inc",
+    "address": "356 West College Ave, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 546-2851",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bimmer & Benz Specialists",
+    "address": "1998 Placentia Ave, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 642-1410",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bimmer PhD",
+    "address": "1539 E Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-9222",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bistagne Bros Body Shop",
+    "address": "1400 East Chevy Chase Dr, Glendale, CA 91206",
+    "city": "Glendale",
+    "state": "CA",
+    "phone": "(818) 242-6876",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bob Lee's Automotive",
+    "address": "4623 Artesia Blvd Suite #1, Lawndale, CA 90260",
+    "city": "Lawndale",
+    "state": "CA",
+    "phone": "(310) 542-4239",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bob's Auto Repair",
+    "address": "4631 W Rosecrans Ave, Hawthorne, CA 90250",
+    "city": "Hawthorne",
+    "state": "CA",
+    "phone": "(310) 676-7770",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bonita Point Auto Care",
+    "address": "1495 East H Street, Chula Vista, CA 91910",
+    "city": "Chula Vista",
+    "state": "CA",
+    "phone": "(619) 421-7600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bosch Automotive Inc",
+    "address": "821 North Petaluma Blvd, Petaluma, CA 94952",
+    "city": "Petaluma",
+    "state": "CA",
+    "phone": "(707) 763-5951",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bowman's College Center Garage",
+    "address": "4622 College Ave, San Diego, CA 92115",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 582-5258",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Brad's Motor Werke's",
+    "address": "2635 Lavery Ct #7, Newbury Park, CA 91320",
+    "city": "Newbury Park",
+    "state": "CA",
+    "phone": "(805) 499-0083",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Brake & Wheel Center",
+    "address": "1805 Washington Ave, San Leandro, CA 94577",
+    "city": "San Leandro",
+    "state": "CA",
+    "phone": "(510) 483-4575",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Braun's Automotive Inc",
+    "address": "24660 Narbonne Ave, Lomita, CA 90717",
+    "city": "Lomita",
+    "state": "CA",
+    "phone": "(310) 325-4303",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Brian Wood Automotive",
+    "address": "500 South Vermont St, Glendora, CA 91741",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 852-3700",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bryant Automotive",
+    "address": "2354 Churn Creek Road, Redding, CA 96002",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 222-3313",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Burrough & Sons Automotive Inc",
+    "address": "5154 Sobrante Ave, El Sobrante, CA 94803",
+    "city": "El Sobrante",
+    "state": "CA",
+    "phone": "(510) 222-3330",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Bussard's All Pro",
+    "address": "5312 York Blvd, Los Angeles, CA 90042",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 255-5566",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Butte Valley Automotive",
+    "address": "29 Ridgeview Lane, Oroville, CA 95966",
+    "city": "Oroville",
+    "state": "CA",
+    "phone": "(530) 712-1105",
+    "source": "ASCCA"
+  },
+  {
+    "name": "BVA Inc",
+    "address": "1522 Broadway, Santa Monica, CA 90404",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 393-9889",
+    "source": "ASCCA"
+  },
+  {
+    "name": "C & T Auto Toyota Specialist",
+    "address": "1950 Leslie St, San Mateo, CA 94403",
+    "city": "San Mateo",
+    "state": "CA",
+    "phone": "(650) 341-3815",
+    "source": "ASCCA"
+  },
+  {
+    "name": "C H Topping & Co",
+    "address": "520 West Esther St, Long Beach, CA 90813",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 432-0901",
+    "source": "ASCCA"
+  },
+  {
+    "name": "California Coast Truck Repair",
+    "address": "11366 N Woodside Ave, Santee, CA 92071",
+    "city": "Santee",
+    "state": "CA",
+    "phone": "(858) 449-5494",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Callas Rennsport",
+    "address": "19080 Hawthorne Blvd, Torrance, CA 90503",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 370-7038",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Camara Auto Service Inc",
+    "address": "440 South K St, Tulare, CA 93274",
+    "city": "Tulare",
+    "state": "CA",
+    "phone": "(559) 688-5721",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Camarillo Car Care Center",
+    "address": "2739 Daily Dr, Camarillo, CA 93010",
+    "city": "Camarillo",
+    "state": "CA",
+    "phone": "(805) 482-2853",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Campbell Automotive",
+    "address": "28 East Rincon Ave, Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 378-0244",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Campbell's Automotive",
+    "address": "3840 Foothill Blvd, La Crescenta, CA 91214",
+    "city": "La Crescenta",
+    "state": "CA",
+    "phone": "(818) 541-9288",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Carlsbad Auto Service",
+    "address": "3181 Tyler Street, Carlsbad, CA 92008",
+    "city": "Carlsbad",
+    "state": "CA",
+    "phone": "(760) 924-9600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Castner's Auto Service Inc",
+    "address": "214 South Bradford Ave, Placentia, CA 92670",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 528-1311",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Cecil's Hi-Tech Auto Care",
+    "address": "799 Davis St, Vacaville, CA 95687",
+    "city": "Vacaville",
+    "state": "CA",
+    "phone": "(707) 448-0861",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Center Cities Automotive Inc",
+    "address": "16561 Leffingwell Road, Whittier, CA 90603",
+    "city": "Whittier",
+    "state": "CA",
+    "phone": "(562) 947-2919",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Central Automotive Service Center",
+    "address": "1425 Autocenter Drive, Walnut Creek, CA 94597",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 932-6604",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Certified Auto Repair Specialists",
+    "address": "1280 E Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-2220",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Certified Automotive Specialists",
+    "address": "1825 E Route 66, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 963-0814",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Certified Smog Test & Repair",
+    "address": "1220 S State St Ste A, Hemet, CA 92543",
+    "city": "Hemet",
+    "state": "CA",
+    "phone": "(951) 836-4451",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Charlie's Foreign Car",
+    "address": "751 2nd Street, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(760) 753-4969",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Chico Car Care",
+    "address": "1369 E 19th St, Chico, CA 95928",
+    "city": "Chico",
+    "state": "CA",
+    "phone": "(530) 343-1130",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Chino Autotech Inc",
+    "address": "4702 Chino Avenue Ste #1, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 627-0919",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Classic German Motors",
+    "address": "1818 East Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 557-2240",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Coastal Auto Repair",
+    "address": "1625 Garnet Avenue, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 220-1680",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Complete Car Care Encinitas",
+    "address": "318A North El Camino Real, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(619) 977-7774",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Connie & Dick's Service Center",
+    "address": "150 Olive Street, Claremont, CA 91711",
+    "city": "Claremont",
+    "state": "CA",
+    "phone": "(909) 626-5653",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Continental Motor Works",
+    "address": "1101 Laurel Lane, San Luis Obispo, CA 93401",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "phone": "(805) 441-1051",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Contra Costa Auto Service",
+    "address": "1410 Concord Ave Suite A, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 798-1205",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Convoy Auto Repair",
+    "address": "3909 Convoy St, San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 560-9131",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Coogler's Auto Repair",
+    "address": "990 Piner Rd, Santa Rosa, CA 95403",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 544-7277",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Craig Johnson Automotive",
+    "address": "19140 E San Jose Avenue, Rowland Heights, CA 91748",
+    "city": "Rowland Heights",
+    "state": "CA",
+    "phone": "(626) 810-2281",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Crestview Service Inc",
+    "address": "9201 Pico Blvd, Los Angeles, CA 90035",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 274-5845",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Crown City Tire",
+    "address": "80 W Bellvue Drive, Pasadena, CA 91105",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 676-0659",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Custom Alignment",
+    "address": "2599 Wyandotte St #A, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 961-5311",
+    "source": "ASCCA"
+  },
+  {
+    "name": "D & E Auto Repair",
+    "address": "3328 Esplanade D, Chico, CA 95973",
+    "city": "Chico",
+    "state": "CA",
+    "phone": "(530) 513-6053",
+    "source": "ASCCA"
+  },
+  {
+    "name": "D & H Enterprises Auto Repair",
+    "address": "2689 Monument Boulevard, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 356-0683",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dale Bright's Auto Service",
+    "address": "5180 G St, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 628-0600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dana Meyer Auto Care",
+    "address": "660 San Pablo Ave, Albany, CA 94706",
+    "city": "Albany",
+    "state": "CA",
+    "phone": "(510) 527-1938",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dan's Auto Center",
+    "address": "49329 Golden Oak Loop, Oakhurst, CA 93644",
+    "city": "Oakhurst",
+    "state": "CA",
+    "phone": "(559) 683-6006",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Datsonville Automotive",
+    "address": "927 Howard Ave, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 348-8856",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Davies Auto Care",
+    "address": "68300 Perez Rd, Cathedral City, CA 92234",
+    "city": "Cathedral City",
+    "state": "CA",
+    "phone": "(760) 328-6198",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Del Mar Automotive",
+    "address": "2201 San Dieguito Dr, Del Mar, CA 92014",
+    "city": "Del Mar",
+    "state": "CA",
+    "phone": "(858) 755-2404",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dennis' Auto Repair",
+    "address": "1817 East Hammond, Fresno, CA 93703",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 264-6443",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dick & Ryan's Auto Repair",
+    "address": "1679 First St, Livermore, CA 94550",
+    "city": "Livermore",
+    "state": "CA",
+    "phone": "(925) 373-9055",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dick's Automotive Inc",
+    "address": "1550 Tollhouse Road, Clovis, CA 93611",
+    "city": "Clovis",
+    "state": "CA",
+    "phone": "(559) 299-2226",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Diesel Tune",
+    "address": "10780 Fairford Avenue, Downey, CA 90241",
+    "city": "Downey",
+    "state": "CA",
+    "phone": "(562) 929-6554",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dieter's Independent Porsche",
+    "address": "1633 Market Street, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 234-8106",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Domestic Diesel & Auto Service",
+    "address": "4588 Carter St, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 627-0500",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Don & John's Auto Repair",
+    "address": "1080 East El Camino Real, Sunnyvale, CA 94086",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "phone": "(408) 739-1119",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Doral's Auto Repair",
+    "address": "2000 Merced Street, San Leandro, CA 94577",
+    "city": "San Leandro",
+    "state": "CA",
+    "phone": "(510) 352-4221",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dorso's Auto Repair",
+    "address": "3750 Bonde Way #1, Fremont, CA 94536",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 792-5315",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dragonfly Automotive",
+    "address": "4055 Pacific Highway, San Diego, CA 92110",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 704-2280",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Drive Rite Automotive Repair Inc",
+    "address": "2674 Old Redwood Highway, Windsor, CA 95492",
+    "city": "Windsor",
+    "state": "CA",
+    "phone": "(707) 838-0123",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Driven Auto Care",
+    "address": "40931 Albrae St, Fremont, CA 94538",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 659-9718",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dualtone Automotive Inc",
+    "address": "4745 Mission Bay Dr, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 273-8745",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Dublin Car Tek",
+    "address": "6008 Dougherty Road, Dublin, CA 94568",
+    "city": "Dublin",
+    "state": "CA",
+    "phone": "(925) 829-9300",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Earthling Automotive",
+    "address": "615 Bayshore Blvd, San Francisco, CA 94124",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 875-9030",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Economy Auto Center",
+    "address": "850 West Tenth Street, Azusa, CA 91702",
+    "city": "Azusa",
+    "state": "CA",
+    "phone": "(626) 334-8221",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ed Little Auto Service",
+    "address": "4318 South Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 390-7772",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ed's Automotive",
+    "address": "11637 Sherman Way #A, North Hollywood, CA 91605",
+    "city": "North Hollywood",
+    "state": "CA",
+    "phone": "(818) 982-5589",
+    "source": "ASCCA"
+  },
+  {
+    "name": "El Cajon Tire Pros",
+    "address": "1253 N 2nd Street, El Cajon, CA 92021",
+    "city": "El Cajon",
+    "state": "CA",
+    "phone": "(619) 440-8635",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Essential Fleet Services LLC",
+    "address": "1435 Baechtel Rd Suite B, Willits, CA 95490",
+    "city": "Willits",
+    "state": "CA",
+    "phone": "(707) 841-3080",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Euro Clinic",
+    "address": "3465 Victor Street, Santa Clara, CA 95054",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 703-8226",
+    "source": "ASCCA"
+  },
+  {
+    "name": "EuroFix FlatSix",
+    "address": "328 N El Camino Real Suite A, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(760) 452-6260",
+    "source": "ASCCA"
+  },
+  {
+    "name": "European Auto Repair",
+    "address": "1573 Third Avenue, Walnut Creek, CA 94597",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 944-5606",
+    "source": "ASCCA"
+  },
+  {
+    "name": "European Auto Service",
+    "address": "18520 Wyandotte St, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(818) 343-7284",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Eye Street Automotive",
+    "address": "2429 Eye Street, Bakersfield, CA 93301",
+    "city": "Bakersfield",
+    "state": "CA",
+    "phone": "(661) 631-5765",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Family Auto Service",
+    "address": "2417 Alpine Blvd, Alpine, CA 91910",
+    "city": "Alpine",
+    "state": "CA",
+    "phone": "(619) 383-2682",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fastlane Auto Repair Inc",
+    "address": "687 N Benson Ave Suite D, Upland, CA 91786",
+    "city": "Upland",
+    "state": "CA",
+    "phone": "(909) 608-7473",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Finwall's Diagnostic Auto",
+    "address": "1532 South Oregon St, Yreka, CA 96097",
+    "city": "Yreka",
+    "state": "CA",
+    "phone": "(530) 842-3435",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fitzgeralds Auto Care",
+    "address": "2066 Placentia Avenue, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 548-8877",
+    "source": "ASCCA"
+  },
+  {
+    "name": "FNP Auto",
+    "address": "11762 Western Ave Unit A, Stanton, CA 90680",
+    "city": "Stanton",
+    "state": "CA",
+    "phone": "(714) 898-7600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fontes Auto Repair",
+    "address": "11580 West Pico Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 473-6480",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fort Bragg Transmission & Auto",
+    "address": "701 S Franklin St, Fort Bragg, CA 95437",
+    "city": "Fort Bragg",
+    "state": "CA",
+    "phone": "(707) 964-7960",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Four Car Garage Inc",
+    "address": "609 California Drive, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 342-1406",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fox Service Center",
+    "address": "1018 West Orangethorpe Ave, Fullerton, CA 92833",
+    "city": "Fullerton",
+    "state": "CA",
+    "phone": "(714) 525-3239",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Frank's Auto Service & Repair Inc",
+    "address": "1255 Boulevard Way, Walnut Creek, CA 94595",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 942-3677",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Frank's Automotive",
+    "address": "1520 South J Street, Tulare, CA 93274",
+    "city": "Tulare",
+    "state": "CA",
+    "phone": "(559) 688-7384",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fred's Foreign and Domestic Car Repair",
+    "address": "16875 Joleen Way #100, Morgan Hill, CA 95037",
+    "city": "Morgan Hill",
+    "state": "CA",
+    "phone": "(408) 779-8480",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fremont & Purdon Inc",
+    "address": "836 East Orange Grove, Pasadena, CA 91104",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 795-6282",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fremont Auto Center",
+    "address": "320 Mowry Avenue, Fremont, CA 94536",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 744-1800",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Fritz's Auto Repair",
+    "address": "22060 Palo Way, Palo Cedro, CA 96073",
+    "city": "Palo Cedro",
+    "state": "CA",
+    "phone": "(530) 547-4446",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Future Auto Service",
+    "address": "820 S Victory Blvd, Burbank, CA 91502",
+    "city": "Burbank",
+    "state": "CA",
+    "phone": "(213) 479-7997",
+    "source": "ASCCA"
+  },
+  {
+    "name": "G & G Auto Repair",
+    "address": "3410 Fruitvale Ave Ste B, Bakersfield, CA 93308",
+    "city": "Bakersfield",
+    "state": "CA",
+    "phone": "(661) 769-7957",
+    "source": "ASCCA"
+  },
+  {
+    "name": "G. Roman's Transmission Service",
+    "address": "922 North Dutton Avenue, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 566-4662",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Garage 47",
+    "address": "4701 El Camino Ave, Carmichael, CA 95608",
+    "city": "Carmichael",
+    "state": "CA",
+    "phone": "(916) 972-1872",
+    "source": "ASCCA"
+  },
+  {
+    "name": "GDA Enterprises",
+    "address": "1801 West Arrow Route, Upland, CA 91786",
+    "city": "Upland",
+    "state": "CA",
+    "phone": "(909) 946-2282",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gene's Auto Repair",
+    "address": "37 Tennessee Street, Vallejo, CA 94590",
+    "city": "Vallejo",
+    "state": "CA",
+    "phone": "(707) 642-1900",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gerber's Auto Services",
+    "address": "2421 Village Lane #E, Cambria, CA 93428",
+    "city": "Cambria",
+    "state": "CA",
+    "phone": "(805) 927-8444",
+    "source": "ASCCA"
+  },
+  {
+    "name": "German Auto Repair Inc",
+    "address": "6622 N. Blackstone Avenue, Fresno, CA 93710",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 438-6508",
+    "source": "ASCCA"
+  },
+  {
+    "name": "German Auto Sport LLC",
+    "address": "2396 San Pablo Avenue, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 525-6000",
+    "source": "ASCCA"
+  },
+  {
+    "name": "German Sport",
+    "address": "1400 Auto Center Drive, Walnut Creek, CA 94597",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 934-6665",
+    "source": "ASCCA"
+  },
+  {
+    "name": "GIC Car Clinic",
+    "address": "375 Bird Avenue, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 279-5510",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gilbert Motor Service",
+    "address": "2100 W Valley, Alhambra, CA 91803",
+    "city": "Alhambra",
+    "state": "CA",
+    "phone": "(626) 282-0644",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gilmores Auto Service",
+    "address": "2151 N Broadway, Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 939-9430",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Glenn's Auto",
+    "address": "12441 Woodruff Avenue, Downey, CA 90241",
+    "city": "Downey",
+    "state": "CA",
+    "phone": "(562) 861-5111",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Golden Gear Automotive",
+    "address": "282 South Main Street, Sebastopol, CA 95472",
+    "city": "Sebastopol",
+    "state": "CA",
+    "phone": "(707) 329-6105",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Golden Hammer",
+    "address": "2231 Butler Ave., Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 479-4311",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Golden Wrench Automotive",
+    "address": "241 Emerald Dr Suite B, Vista, CA 92083",
+    "city": "Vista",
+    "state": "CA",
+    "phone": "(760) 940-6060",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Greg Solow's Engine Room",
+    "address": "125 Front St, Santa Cruz, CA 95060",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "phone": "(831) 429-1800",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gregg's Mission Viejo Mobile",
+    "address": "23002 Alicia Parkway, Mission Viejo, CA 92692",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "phone": "(949) 586-7902",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Greg's Automotive",
+    "address": "1641 N. Magnolia Avenue, El Cajon, CA 92020",
+    "city": "El Cajon",
+    "state": "CA",
+    "phone": "(619) 440-4337",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Griffin's Auto Truck-Air",
+    "address": "1542 State St, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 234-7991",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Gustafson Bros Inc",
+    "address": "19161 Gothard St, Huntington Beach, CA 92648",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "phone": "(714) 847-5600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Hamilton Alignment & Brake Service",
+    "address": "424 North East St, Anaheim, CA 92805",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 535-4100",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Hans Auto Repair",
+    "address": "384 Olympia Avenue, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 583-9820",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Harbor Brakes LLC",
+    "address": "13692 Harbor Blvd, Garden Grove, CA 92843",
+    "city": "Garden Grove",
+    "state": "CA",
+    "phone": "(714) 539-1503",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Hartzel Automotive",
+    "address": "510 California St, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 394-6002",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Homer's Auto Services",
+    "address": "148 East Lemon, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 358-6259",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Howard Brown & Sons",
+    "address": "11758 West Olympic Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 477-3934",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Hudson Automotive",
+    "address": "186 South Blvd, San Mateo, CA 94402",
+    "city": "San Mateo",
+    "state": "CA",
+    "phone": "(650) 344-4800",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Import Auto Clinic",
+    "address": "3401 East La Palma Ave, Anaheim, CA 92806",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 632-0100",
+    "source": "ASCCA"
+  },
+  {
+    "name": "International Motors",
+    "address": "68-795 Ramon Road, Cathedral City, CA 92234",
+    "city": "Cathedral City",
+    "state": "CA",
+    "phone": "(760) 328-6646",
+    "source": "ASCCA"
+  },
+  {
+    "name": "J and K Automotive",
+    "address": "335 North Dawson Drive, Camarillo, CA 93012",
+    "city": "Camarillo",
+    "state": "CA",
+    "phone": "(805) 482-7857",
+    "source": "ASCCA"
+  },
+  {
+    "name": "J S Auto Service",
+    "address": "2028-30 South San Pedro St, Los Angeles, CA 90011",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(213) 749-9750",
+    "source": "ASCCA"
+  },
+  {
+    "name": "James Automotive",
+    "address": "2208 Imperial Ave, San Diego, CA 92102",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 239-2208",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Japanese Automotive Center",
+    "address": "1846 Del Amo Blvd., Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 618-0777",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Jasper's Auto Service Inc",
+    "address": "11648 Artesia Blvd, Artesia, CA 90701",
+    "city": "Artesia",
+    "state": "CA",
+    "phone": "(562) 865-1761",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Jenkins Automotive",
+    "address": "809 East Center, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 732-0843",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Jerry's Auto Repair",
+    "address": "11881 Magnolia Ave Suite 25, Riverside, CA 92503",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 351-4400",
+    "source": "ASCCA"
+  },
+  {
+    "name": "JJ Auto Repair",
+    "address": "6300 Brentwood Blvd., Brentwood, CA 94513",
+    "city": "Brentwood",
+    "state": "CA",
+    "phone": "(925) 513-5927",
+    "source": "ASCCA"
+  },
+  {
+    "name": "JM Garage",
+    "address": "1536 W Marinette Ave Unit A, Exeter, CA 93221",
+    "city": "Exeter",
+    "state": "CA",
+    "phone": "(559) 786-0137",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Joe Gallardo's Auto Service",
+    "address": "6305 Pacific St, Rocklin, CA 95677",
+    "city": "Rocklin",
+    "state": "CA",
+    "phone": "(916) 782-5776",
+    "source": "ASCCA"
+  },
+  {
+    "name": "John's Automotive Care",
+    "address": "6267 Riverdale Street, San Diego, CA 92120",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 280-9315",
+    "source": "ASCCA"
+  },
+  {
+    "name": "John's Automotive Care - La Mesa",
+    "address": "7445 University Ave., La Mesa, CA 91941",
+    "city": "La Mesa",
+    "state": "CA",
+    "phone": "(619) 461-3600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "John's Automotive Electrical",
+    "address": "51 Bresciani Ln, Quincy, CA 95971",
+    "city": "Quincy",
+    "state": "CA",
+    "phone": "(530) 283-5555",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Jo's Garage Inc",
+    "address": "120 E. Valley Blvd., Alhambra, CA 91801",
+    "city": "Alhambra",
+    "state": "CA",
+    "phone": "(626) 872-0705",
+    "source": "ASCCA"
+  },
+  {
+    "name": "JT's PRO Smog",
+    "address": "2786 S. Market Street, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-2278",
+    "source": "ASCCA"
+  },
+  {
+    "name": "K&S Automotive LLC",
+    "address": "8159 Lindley Ave, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(323) 447-0199",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Karco Specialties",
+    "address": "721 North Batavia St, Orange, CA 92868",
+    "city": "Orange",
+    "state": "CA",
+    "phone": "(714) 532-6893",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Karsten Imports",
+    "address": "5538 Fulton Ave, Van Nuys, CA 91401",
+    "city": "Van Nuys",
+    "state": "CA",
+    "phone": "(818) 994-3311",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ken Daniels Auto Service",
+    "address": "3507 Oceanview, Glendale, CA 91208",
+    "city": "Glendale",
+    "state": "CA",
+    "phone": "(818) 249-2886",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Kuma Automotive Inc",
+    "address": "1618 Sacramento St., Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 215-0224",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Larry's Union Service",
+    "address": "1100 Mission Street, South Pasadena, CA 91030",
+    "city": "South Pasadena",
+    "state": "CA",
+    "phone": "(626) 799-2497",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Larsen Auto Care",
+    "address": "940 Petaluma Hill Road, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 535-0720",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Larsen Automotive",
+    "address": "10707 Jefferson Blvd., Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 838-7395",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Leonardi Automotive",
+    "address": "7426 Redwood Blvd., Novato, CA 94945",
+    "city": "Novato",
+    "state": "CA",
+    "phone": "(415) 408-5904",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Lex Mastertech",
+    "address": "1551 E. Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 765-6190",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Liebsack & Son Auto",
+    "address": "1928 Redondo Beach Blvd, Gardena, CA 90247",
+    "city": "Gardena",
+    "state": "CA",
+    "phone": "(310) 324-0463",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Lightfoot's Garage",
+    "address": "24727 Narbonne Ave, Lomita, CA 90717",
+    "city": "Lomita",
+    "state": "CA",
+    "phone": "(310) 326-4657",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Lima Auto Repair",
+    "address": "1136 S. Myrtle Ave., Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 408-5036",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Locus Street Auto Repair",
+    "address": "905 Locust Street, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 215-3112",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Los Gatos Auto Service",
+    "address": "1460 White Oaks Rd., Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 377-1751",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Loyola Automotive",
+    "address": "8314 Lincoln Blvd, Los Angeles, CA 90045",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 670-0822",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Luis Lopez Automotive Inc",
+    "address": "2751 Fletcher Drive, Los Angeles, CA 90039",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 665-0166",
+    "source": "ASCCA"
+  },
+  {
+    "name": "M Service",
+    "address": "2008 Mt. Diablo Blvd, Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 932-8744",
+    "source": "ASCCA"
+  },
+  {
+    "name": "M&M Alternators & Batteries Auto Care",
+    "address": "121 N Mt Vernon Ave, San Bernardino, CA 92410",
+    "city": "San Bernardino",
+    "state": "CA",
+    "phone": "(909) 888-0907",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mahneke Motors",
+    "address": "5727 Thornwood Dr, Goleta, CA 93117",
+    "city": "Goleta",
+    "state": "CA",
+    "phone": "(805) 681-0021",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Marin Automotive",
+    "address": "1810 Sir Francis Drake Blvd, Fairfax, CA 94930",
+    "city": "Fairfax",
+    "state": "CA",
+    "phone": "(415) 785-7658",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Marty Vanich Auto Repair",
+    "address": "2629 Juniper Lane, Sacramento, CA 95825",
+    "city": "Sacramento",
+    "state": "CA",
+    "phone": "(916) 483-7988",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mastertech",
+    "address": "2801 Industry St, Oceanside, CA 92054",
+    "city": "Oceanside",
+    "state": "CA",
+    "phone": "(760) 433-5760",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Maxed Performance",
+    "address": "7281 Autopark Dr, Huntington Beach, CA 92648",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "phone": "(714) 848-1730",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mazda's Plus LLC",
+    "address": "1400 North 9th Street Ste 21, Modesto, CA 95350",
+    "city": "Modesto",
+    "state": "CA",
+    "phone": "(209) 571-8664",
+    "source": "ASCCA"
+  },
+  {
+    "name": "MCM Jobes",
+    "address": "1824 Yajome St, Napa, CA 94559",
+    "city": "Napa",
+    "state": "CA",
+    "phone": "(707) 252-8802",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Meissner Automotive",
+    "address": "811 East Charleston Road, Palo Alto, CA 94303",
+    "city": "Palo Alto",
+    "state": "CA",
+    "phone": "(650) 494-3804",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Metric Motors",
+    "address": "3046 West Center Street, Anderson, CA 96007",
+    "city": "Anderson",
+    "state": "CA",
+    "phone": "(530) 365-3327",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Michael & Co Inc",
+    "address": "380 Lincoln Ave, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 286-2988",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mike Larbre Automotive",
+    "address": "18155 Sonoma Hwy, Sonoma, CA 95476",
+    "city": "Sonoma",
+    "state": "CA",
+    "phone": "(707) 996-3365",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mike's Foreign Car Inc",
+    "address": "2818 East Miraloma Ave, Anaheim, CA 92806",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 630-7113",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Minsky Mercedes & BMW",
+    "address": "3727 Convoy St Suite B, San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 467-1304",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Miramar Auto Repair - Japanese Auto Plus",
+    "address": "6696 Miramar Rd Ste I, San Diego, CA 92121",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 549-1600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Miramar Automotive and Transmission",
+    "address": "9499 Kearny Villa Road Ste 109, San Diego, CA 92126",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 578-2651",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Mission Auto Care",
+    "address": "3596 Mission Ave, Oceanside, CA 92058",
+    "city": "Oceanside",
+    "state": "CA",
+    "phone": "(760) 722-0231",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Modderman Service Inc",
+    "address": "2599 Wyandotte Street Unit B, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 967-3213",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Modesti's Car Care Center",
+    "address": "12121 Jefferson Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 827-2400",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Monkey Wrenches Inc",
+    "address": "8130 Brentwood Blvd, Brentwood, CA 94513",
+    "city": "Brentwood",
+    "state": "CA",
+    "phone": "(925) 634-4145",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Morris Automotive",
+    "address": "1331 Colorado Ave, Santa Monica, CA 90404",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 451-3149",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Motoring Specialists Inc",
+    "address": "742 East Main Street, Vacaville, CA 95688",
+    "city": "Vacaville",
+    "state": "CA",
+    "phone": "(707) 448-1282",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Munoz's Auto Repair",
+    "address": "401-B Old Coast Highway, Santa Barbara, CA 93103",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 963-1121",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Murrieta Auto Repair",
+    "address": "26540 Jefferson Avenue Suite F, Murrieta, CA 92562",
+    "city": "Murrieta",
+    "state": "CA",
+    "phone": "(951) 698-4222",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Nishikawa Auto Service",
+    "address": "510 South Fair Oaks, Pasadena, CA 91105",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-4372",
+    "source": "ASCCA"
+  },
+  {
+    "name": "North Hollywood Auto Repair",
+    "address": "5451 Tujunga Avenue, North Hollywood, CA 91601",
+    "city": "North Hollywood",
+    "state": "CA",
+    "phone": "(818) 769-2334",
+    "source": "ASCCA"
+  },
+  {
+    "name": "North Star Motors Inc",
+    "address": "3200 Railroad Ave., Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 244-5050",
+    "source": "ASCCA"
+  },
+  {
+    "name": "O.C. Automotive and Diagnostics",
+    "address": "731 West Whittier Blvd Suite A, La Habra, CA 90631",
+    "city": "La Habra",
+    "state": "CA",
+    "phone": "(562) 448-3497",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Okimoto's Automotive Center Inc",
+    "address": "16400 South Pioneer Blvd, Norwalk, CA 90650",
+    "city": "Norwalk",
+    "state": "CA",
+    "phone": "(562) 926-7317",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Omega Automotive",
+    "address": "8601 Reseda Blvd., Northridge, CA 91324",
+    "city": "Northridge",
+    "state": "CA",
+    "phone": "(818) 701-4061",
+    "source": "ASCCA"
+  },
+  {
+    "name": "One Stop Auto Care",
+    "address": "4695 Eagle Rock Blvd, Los Angeles, CA 90041",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 257-5876",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Orinda Motors Inc",
+    "address": "63 Orinda Way, Orinda, CA 94563",
+    "city": "Orinda",
+    "state": "CA",
+    "phone": "(925) 519-2371",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Our King Auto Repair",
+    "address": "930 E. Arrow Hwy, Covina, CA 91724",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 915-1657",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Outwest Auto",
+    "address": "53 Nove Way, Valley Springs, CA 95252",
+    "city": "Valley Springs",
+    "state": "CA",
+    "phone": "(209) 772-9662",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pacific Automotive",
+    "address": "5181 Santa Fe Street, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 483-1565",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pacific Motor Service",
+    "address": "550 East Franklin Street, Monterey, CA 93940",
+    "city": "Monterey",
+    "state": "CA",
+    "phone": "(831) 375-9571",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pasadena Automotive Repair",
+    "address": "2364 E. Foothill Blvd, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-1800",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pat's Garage",
+    "address": "1090 26th St, San Francisco, CA 94107",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 647-4500",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Paul's Automotive Service Center",
+    "address": "5146 Van Nuys Blvd., Sherman Oaks, CA 91403",
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "phone": "(818) 783-3997",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Payless Transmission & Clutch",
+    "address": "1550 North Effie St #101, Fresno, CA 93703",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 226-3000",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Perry's Automotive Inc",
+    "address": "660 Twin View Blvd, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 241-8544",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pete's Autohaus",
+    "address": "1725 Border Ave., Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 320-3033",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Pete's Precision Auto",
+    "address": "310 Trousdale Suite A, Chula Vista, CA 91910",
+    "city": "Chula Vista",
+    "state": "CA",
+    "phone": "(619) 426-2880",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Placentia Super Service",
+    "address": "643 South Melrose St, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 528-1828",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Popular Mechanix",
+    "address": "252 14th Street, San Francisco, CA 94103",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 621-0376",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Portola Valley Garage",
+    "address": "4170 Alpine Road, Portola Valley, CA 94028",
+    "city": "Portola Valley",
+    "state": "CA",
+    "phone": "(650) 851-7442",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Poway Auto Repair",
+    "address": "13907 Poway Rd, Poway, CA 92064",
+    "city": "Poway",
+    "state": "CA",
+    "phone": "(858) 748-0561",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Poway Transmission Corp",
+    "address": "13933 Poway Rd. #A, Poway, CA 92064",
+    "city": "Poway",
+    "state": "CA",
+    "phone": "(858) 679-8000",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Power Muffler & Brakes Inc",
+    "address": "808 E. Huntington Dr Suite B, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 256-4752",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Precision Auto Repair",
+    "address": "164-A Wyoming Street, Pleasanton, CA 94566",
+    "city": "Pleasanton",
+    "state": "CA",
+    "phone": "(925) 462-7440",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Preferred Auto Centre",
+    "address": "3111 Thousand Oaks Blvd #6, Chatsworth, CA 91312",
+    "city": "Chatsworth",
+    "state": "CA",
+    "phone": "(805) 373-1223",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Prestige Autowash & Automotive",
+    "address": "7860 Othello Ave., San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 277-6131",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Protrans Automotive & Transmission",
+    "address": "3420 Gato Court, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(909) 367-7400",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Quinn's Automotive",
+    "address": "1501 W. Acacia Avenue 106, Hemet, CA 92543",
+    "city": "Hemet",
+    "state": "CA",
+    "phone": "(951) 929-4442",
+    "source": "ASCCA"
+  },
+  {
+    "name": "R & R Auto Truck Repair",
+    "address": "2010 Twin View Blvd., Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 768-1050",
+    "source": "ASCCA"
+  },
+  {
+    "name": "R & S Automotive",
+    "address": "24773 Valley St, Newhall, CA 91321",
+    "city": "Newhall",
+    "state": "CA",
+    "phone": "(661) 254-4589",
+    "source": "ASCCA"
+  },
+  {
+    "name": "R A E Automotive Service Company",
+    "address": "415 9th Street, Ramona, CA 92065",
+    "city": "Ramona",
+    "state": "CA",
+    "phone": "(760) 788-4912",
+    "source": "ASCCA"
+  },
+  {
+    "name": "R.M. Automotive",
+    "address": "19248 Roscoe Boulevard, Northridge, CA 91324",
+    "city": "Northridge",
+    "state": "CA",
+    "phone": "(818) 709-4343",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rancho Smog and Auto Repair",
+    "address": "43062 Via Dos Picos Suite A, Temecula, CA 92590",
+    "city": "Temecula",
+    "state": "CA",
+    "phone": "(951) 308-1722",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Randy's Mobile Mechanical Service",
+    "address": "2750 Cloverdale Ave, Concord, CA 94518",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 288-0766",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rare Parts Inc",
+    "address": "621 Wilshire Ave, Stockton, CA 95203",
+    "city": "Stockton",
+    "state": "CA",
+    "phone": "(209) 948-6005",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rasmussen Auto Repair",
+    "address": "1023 North Maple Ave, Fresno, CA 93702",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 251-0669",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rauls Auto Repair",
+    "address": "767 East Arrow Highway #1C, Azusa, CA 91702",
+    "city": "Azusa",
+    "state": "CA",
+    "phone": "(626) 339-7566",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Raul's Auto Repair",
+    "address": "520 E Rue Royale St, Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 257-3066",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ray-A-Motive",
+    "address": "9844 Artesia Blvd, Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 866-2169",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Red Carpet Quick Lube",
+    "address": "4411 N. Blackstone, Fresno, CA 93726",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 227-6221",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Redwood General Tire",
+    "address": "1630 Broadway Street, Redwood City, CA 94063",
+    "city": "Redwood City",
+    "state": "CA",
+    "phone": "(650) 369-0351",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Reyes Smog Check and Repair",
+    "address": "8228 Live Oak Ave, Fontana, CA 92335",
+    "city": "Fontana",
+    "state": "CA",
+    "phone": "(909) 889-7300",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rick's Automotive Service Inc",
+    "address": "14929 Prairie Ave., Lawndale, CA 90260",
+    "city": "Lawndale",
+    "state": "CA",
+    "phone": "(424) 255-3781",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Riverside Tire",
+    "address": "2958 Rubidoux Blvd Unit A, Jurupa Valley, CA 92509",
+    "city": "Jurupa Valley",
+    "state": "CA",
+    "phone": "(951) 248-1297",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Asmar's Auto Care",
+    "address": "8621 Troy St., Spring Valley, CA 91977",
+    "city": "Spring Valley",
+    "state": "CA",
+    "phone": "(619) 589-1188",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Robert's Auto Repair",
+    "address": "234 Ramona Ave, Monterey, CA 93940",
+    "city": "Monterey",
+    "state": "CA",
+    "phone": "(831) 373-1534",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rob's Automotive",
+    "address": "7589 El Cajon Blvd Suite E, La Mesa, CA 91941",
+    "city": "La Mesa",
+    "state": "CA",
+    "phone": "(619) 698-0767",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rohnert Park Transmission",
+    "address": "305 Laguna Drive, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-7727",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rony's Car Pros",
+    "address": "4232 Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 559-6463",
+    "source": "ASCCA"
+  },
+  {
+    "name": "RPM Automotive",
+    "address": "560 Martin Avenue, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-8230",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ruppel's Auto Fixation",
+    "address": "260 East Lane, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 342-3568",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Rusty's Automotive",
+    "address": "9681 Alondra Blvd., Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 916-7660",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ryan's Automotive",
+    "address": "10010 Old Redwood Hwy, Windsor, CA 95492",
+    "city": "Windsor",
+    "state": "CA",
+    "phone": "(707) 837-5324",
+    "source": "ASCCA"
+  },
+  {
+    "name": "S n S Motor Works",
+    "address": "141 W Foothill Blvd, Pomona, CA 91767",
+    "city": "Pomona",
+    "state": "CA",
+    "phone": "(909) 392-8402",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Saddleback Cars",
+    "address": "25701 Taladro Cir Ste F, Mission Viejo, CA 92691",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "phone": "(949) 855-6700",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Salerno's Auto Service Center",
+    "address": "609 3rd Street, Redlands, CA 92374",
+    "city": "Redlands",
+    "state": "CA",
+    "phone": "(909) 792-3453",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Santa Monica Motors",
+    "address": "2318 Pico Blvd., Santa Monica, CA 90405",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 936-1548",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Santa Monica Volvo",
+    "address": "12411 Santa Monica Blvd, Los Angeles, CA 90025",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 826-4113",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Santa Rosa Transmission",
+    "address": "1015 Santa Rosa Ave, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 570-2500",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Schneider Autohaus",
+    "address": "2703 De La Vina St., Santa Barbara, CA 93105",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 962-8015",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Scotty's Auto Repair",
+    "address": "6240 #C Box Springs Blvd, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 697-7708",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Sean's Auto Care",
+    "address": "15713 Saticoy St, Van Nuys, CA 91406",
+    "city": "Van Nuys",
+    "state": "CA",
+    "phone": "(310) 770-2720",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Seiko's Auto Service Inc",
+    "address": "804 E. Huntington Drive Ste A, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 359-0589",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Silicon Valley Performance",
+    "address": "2570 Leghorn St. #2, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(408) 207-7171",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Smog Man",
+    "address": "646 Auzerais Avenue, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 999-0699",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Solano Way Auto Repair",
+    "address": "2197 Solano Way, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 676-2890",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Solorio Auto Tech",
+    "address": "1735 3rd Street, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 784-1090",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Southbay Euro Car",
+    "address": "22400 S. Western Ave, Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 328-5786",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Spence & Frye",
+    "address": "1847 E. Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-2351",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Spiteri's Complete Auto Service & Repair",
+    "address": "292 Old County Road, Belmont, CA 94002",
+    "city": "Belmont",
+    "state": "CA",
+    "phone": "(650) 593-4758",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Spring St Auto",
+    "address": "729 Spring St, Paso Robles, CA 93446",
+    "city": "Paso Robles",
+    "state": "CA",
+    "phone": "(805) 237-9593",
+    "source": "ASCCA"
+  },
+  {
+    "name": "SS Diesel Repair Inc",
+    "address": "2428 West Beverly Boulevard, Montebello, CA 90640",
+    "city": "Montebello",
+    "state": "CA",
+    "phone": "(818) 266-7940",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Strong Automotive",
+    "address": "11114 Rhyolite Drive, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-5878",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Stuart Terry Auto Repair",
+    "address": "4858 El Cajon Boulevard, San Diego, CA 92115",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 287-9626",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Stuttcar Service Inc",
+    "address": "1320 E. Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 321-2736",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Sunland Tire Co",
+    "address": "202 W Badillo St., Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(714) 904-1191",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Sunnyside Auto Repair Inc",
+    "address": "5977 East Clinton Ave, Fresno, CA 93727",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 292-1986",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Sunnyvale Foreign Car Service",
+    "address": "15 Pioneer Way, Mountain View, CA 94041",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 960-6988",
+    "source": "ASCCA"
+  },
+  {
+    "name": "SunRay Auto Service",
+    "address": "10300 East Artesia Blvd, Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 867-5296",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Swiss Motors",
+    "address": "3929 Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 398-5111",
+    "source": "ASCCA"
+  },
+  {
+    "name": "T&L Elite Auto Repair",
+    "address": "1007 Decoto Rd, Union City, CA 94587",
+    "city": "Union City",
+    "state": "CA",
+    "phone": "(510) 489-8756",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tech Transmission Specialists",
+    "address": "1818 Palm Ave., San Diego, CA 92154",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 575-4348",
+    "source": "ASCCA"
+  },
+  {
+    "name": "TechZone Auto",
+    "address": "1300 Galaxy Way Ste 3, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 465-4966",
+    "source": "ASCCA"
+  },
+  {
+    "name": "The Auto Shop",
+    "address": "2044 East Main St, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 734-2886",
+    "source": "ASCCA"
+  },
+  {
+    "name": "The Dyno Shop",
+    "address": "10042 Prospect Ave, Santee, CA 92071",
+    "city": "Santee",
+    "state": "CA",
+    "phone": "(619) 562-3933",
+    "source": "ASCCA"
+  },
+  {
+    "name": "The North Bay Differentials",
+    "address": "54 Maxwell Ct, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 360-0628",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Thorr Auto & Tire",
+    "address": "4701 E Arrow Hwy Suite B, Montclair, CA 91763",
+    "city": "Montclair",
+    "state": "CA",
+    "phone": "(909) 625-8963",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Titan Automotive",
+    "address": "939 West Chapman Ave, Orange, CA 92868",
+    "city": "Orange",
+    "state": "CA",
+    "phone": "(714) 997-2311",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tl Tilletts Automotive",
+    "address": "1426 Petaluma Hill Road, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 527-7615",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tokyo Automotive",
+    "address": "380 E. Orangethorpe Avenue, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 993-7300",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tony's Motor Service",
+    "address": "11722 Gateway Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 231-0123",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Toole's Garage",
+    "address": "1065 Washington Street, San Carlos, CA 94070",
+    "city": "San Carlos",
+    "state": "CA",
+    "phone": "(650) 594-1128",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Topline Automotive",
+    "address": "11742 E Imperial Hwy, Norwalk, CA 90650",
+    "city": "Norwalk",
+    "state": "CA",
+    "phone": "(562) 807-2266",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Transco Transmission and Auto",
+    "address": "1470 Santa Rosa Avenue, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 544-6722",
+    "source": "ASCCA"
+  },
+  {
+    "name": "TransPlus Complete Auto Repair",
+    "address": "793 Redondo Ave, Long Beach, CA 90804",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 434-8469",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tri Alliance Automotive Group Inc",
+    "address": "2160 Montgomery St, Oroville, CA 95965",
+    "city": "Oroville",
+    "state": "CA",
+    "phone": "(530) 534-1672",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tri Star Automotive",
+    "address": "484 Kenwood Ct, Santa Rosa, CA 95407",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 571-8866",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tri Star Motorsports",
+    "address": "1250 Plumber Way, Roseville, CA 95678",
+    "city": "Roseville",
+    "state": "CA",
+    "phone": "(916) 791-8001",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Trident Auto Performance",
+    "address": "23510 Valencia Blvd, Valencia, CA 91355",
+    "city": "Valencia",
+    "state": "CA",
+    "phone": "(661) 254-7664",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Twin Peaks Auto Service",
+    "address": "P.O. Box 191, Twin Peaks, CA 92391",
+    "city": "Twin Peaks",
+    "state": "CA",
+    "phone": "(909) 337-0082",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Tyerman's Wheel Alignment",
+    "address": "1420 West Magnolia Blvd, Burbank, CA 91506",
+    "city": "Burbank",
+    "state": "CA",
+    "phone": "(818) 846-7291",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Unique Engines & Auto Repair",
+    "address": "44A Street, Hayward, CA 94541",
+    "city": "Hayward",
+    "state": "CA",
+    "phone": "(510) 538-4720",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Veterans Diesel & Auto",
+    "address": "4991 East Side Road, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 782-4155",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Villa Automotive",
+    "address": "34 South Street, San Luis Obispo, CA 93401",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "phone": "(805) 781-3925",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Villa Marina Auto Care Inc",
+    "address": "4300 Lincoln Blvd, Marina del Rey, CA 90292",
+    "city": "Marina del Rey",
+    "state": "CA",
+    "phone": "(310) 821-5676",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Vince's Auto Service",
+    "address": "3230 East Colorado Blvd, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-5853",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Vince's Automotive",
+    "address": "18401 Vanowen Street, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(818) 343-6477",
+    "source": "ASCCA"
+  },
+  {
+    "name": "VJ's Auto Service",
+    "address": "400 North First Avenue, Arcadia, CA 91006",
+    "city": "Arcadia",
+    "state": "CA",
+    "phone": "(626) 446-4900",
+    "source": "ASCCA"
+  },
+  {
+    "name": "W. E. Harding Co",
+    "address": "502 South 2nd St, San Jose, CA 95112",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 286-8989",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Walker's Automotive",
+    "address": "407 14th St, Modesto, CA 95354",
+    "city": "Modesto",
+    "state": "CA",
+    "phone": "(209) 527-5577",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Walnut Creek Automotive",
+    "address": "1532 Mt. Diablo Blvd., Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 934-8600",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Ward Service",
+    "address": "130 Railroad Avenue, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 357-8080",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Water Star Motors",
+    "address": "318 River Street Suite A, Santa Cruz, CA 95060",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "phone": "(831) 457-0996",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Wayne and Sons Automotive Repair",
+    "address": "1845 Piner Road Unit B, Santa Rosa, CA 95403",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 546-3492",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Wayside Garage",
+    "address": "2003 Del Monte Blvd, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 899-2425",
+    "source": "ASCCA"
+  },
+  {
+    "name": "West Coast Diesels",
+    "address": "2835 Sebastopol Road, Santa Rosa, CA 95407",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 595-3026",
+    "source": "ASCCA"
+  },
+  {
+    "name": "West Coast Muffler Inc",
+    "address": "2090 Market Street, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 676-8376",
+    "source": "ASCCA"
+  },
+  {
+    "name": "West Coast Tire and Service Auto Repair",
+    "address": "2239 Pontius Avenue, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 477-7057",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Westside Transmission & Automotive",
+    "address": "2050 Cotner Ave, Los Angeles, CA 90025",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 925-8505",
+    "source": "ASCCA"
+  },
+  {
+    "name": "White Automotive",
+    "address": "250 East Whittier Blvd, La Habra, CA 90631",
+    "city": "La Habra",
+    "state": "CA",
+    "phone": "(562) 697-2612",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Yorba Linda Auto Service",
+    "address": "801 Lakeview Ave Unit G, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 970-8774",
+    "source": "ASCCA"
+  },
+  {
+    "name": "Zylstra Automotive",
+    "address": "2230 E. Main St, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 739-7303",
+    "source": "ASCCA"
+  }
+]

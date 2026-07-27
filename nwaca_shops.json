@@ -1,0 +1,3170 @@
+[
+  {
+    "name": "A Street Automotive",
+    "address": "225 A Street SE",
+    "city": "Auburn",
+    "state": "WA",
+    "zip": "98002",
+    "phone": "(253) 833-1000",
+    "source": "NWACA"
+  },
+  {
+    "name": "ABC Auto Repair",
+    "address": "12602 1ST AVE S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98168",
+    "phone": "(206) 395-5300",
+    "source": "NWACA"
+  },
+  {
+    "name": "Absolute ADAS",
+    "address": "3304 104th Ave NE",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258",
+    "phone": "1-844-349-2327",
+    "source": "NWACA"
+  },
+  {
+    "name": "Absolute Air AND Auto Repair",
+    "address": "214 N 42nd Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97478",
+    "phone": "(541) 726-7766",
+    "source": "NWACA"
+  },
+  {
+    "name": "ACE Commercial Tire LLC",
+    "address": "21904 84th Ave S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "(253) 449-8600",
+    "source": "NWACA"
+  },
+  {
+    "name": "Action Auto Repair of Medford Inc",
+    "address": "2708 N Pacific Hwy",
+    "city": "Medford",
+    "state": "OR",
+    "zip": "97501-1647",
+    "phone": "541-776-3330",
+    "source": "NWACA"
+  },
+  {
+    "name": "Advanced Auto Care",
+    "address": "14708 Pacific Avenue S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444",
+    "phone": "253-535-1550",
+    "source": "NWACA"
+  },
+  {
+    "name": "Advanced Automotive",
+    "address": "10430 SARATOGA DRIVE",
+    "city": "Stanwood",
+    "state": "WA",
+    "zip": "98292",
+    "phone": "(360) 629-2611",
+    "source": "NWACA"
+  },
+  {
+    "name": "Advanced European Service",
+    "address": "17511 68th Avenue NE",
+    "city": "Kenmore",
+    "state": "WA",
+    "zip": "98028",
+    "phone": "425-482-6695",
+    "source": "NWACA"
+  },
+  {
+    "name": "AG Automotive and Diesel",
+    "address": "12410 NE Whitaker Way",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97230",
+    "phone": "(503) 253-1747",
+    "source": "NWACA"
+  },
+  {
+    "name": "AIR Import Repair Inc",
+    "address": "8016 27th Street W",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98466",
+    "phone": "253-565-3049",
+    "source": "NWACA"
+  },
+  {
+    "name": "Alki Auto Repair",
+    "address": "2938 SW Avalon Way",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-935-8059",
+    "source": "NWACA"
+  },
+  {
+    "name": "All About Transmissions & Automotive",
+    "address": "5221 1st Street",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "360-377-2426",
+    "source": "NWACA"
+  },
+  {
+    "name": "All Automotive Service & Repair",
+    "address": "8611 W. Clearwater",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 735-0700",
+    "source": "NWACA"
+  },
+  {
+    "name": "All City Autobody",
+    "address": "518 Logan Street",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "(360) 385-0634",
+    "source": "NWACA"
+  },
+  {
+    "name": "All City Transmission and Drive Train",
+    "address": "6624 West Brinkley Suite A",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-585-7074",
+    "source": "NWACA"
+  },
+  {
+    "name": "Alley Auto Inc",
+    "address": "365 D Street",
+    "city": "Blaine",
+    "state": "WA",
+    "zip": "98230",
+    "phone": "(360) 332-7018",
+    "source": "NWACA"
+  },
+  {
+    "name": "Allied Automotive",
+    "address": "834 W. Kalmath Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 585-7777",
+    "source": "NWACA"
+  },
+  {
+    "name": "Allview Services Inc",
+    "address": "2215 S Castle Way",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "425-483-6103",
+    "source": "NWACA"
+  },
+  {
+    "name": "Alpine Automotive Service Inc",
+    "address": "213 S 3rd Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-248-9921",
+    "source": "NWACA"
+  },
+  {
+    "name": "Anacortes Automotive Inc",
+    "address": "2602 Commercial Avenue",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-2450",
+    "source": "NWACA"
+  },
+  {
+    "name": "Anderson Mobile Mechanics LLC",
+    "address": "109 North Ennis St",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 809-9973",
+    "source": "NWACA"
+  },
+  {
+    "name": "Angeles Collision Repair, Inc.",
+    "address": "72 Mount Pleasant Rd",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 452-6055",
+    "source": "NWACA"
+  },
+  {
+    "name": "Art Erickson Tire & Auto, Inc.",
+    "address": "517 N. Molalla Ave.",
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038",
+    "phone": "",
+    "source": "NWACA"
+  },
+  {
+    "name": "Art's Automotive",
+    "address": "1320 Industrial Way",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "360-423-0890",
+    "source": "NWACA"
+  },
+  {
+    "name": "Atomic Auto Inc",
+    "address": "610 NE 102nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97220",
+    "phone": "(503) 969-3134",
+    "source": "NWACA"
+  },
+  {
+    "name": "Auto Dynamix LLC",
+    "address": "13245 NE 20TH ST",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-283-5766",
+    "source": "NWACA"
+  },
+  {
+    "name": "Auto Tech Services of Centralia",
+    "address": "1417 Kresky Street, Suite 2",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "360-736-0123",
+    "source": "NWACA"
+  },
+  {
+    "name": "Auto Tech Services of Rochester",
+    "address": "18225 Pendleton Street SW",
+    "city": "Rochester",
+    "state": "WA",
+    "zip": "98579",
+    "phone": "(360) 273-8306",
+    "source": "NWACA"
+  },
+  {
+    "name": "Auto Truck Service",
+    "address": "3921 Smith Avenue",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201",
+    "phone": "(425) 258-3634",
+    "source": "NWACA"
+  },
+  {
+    "name": "Autocraft of Spokane Inc",
+    "address": "16911 E Sprague",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037",
+    "phone": "509-924-8738",
+    "source": "NWACA"
+  },
+  {
+    "name": "Autometrics - Moses Lake",
+    "address": "216 West Valley Road",
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837",
+    "phone": "(509) 766-2002",
+    "source": "NWACA"
+  },
+  {
+    "name": "AutoMetrics - Yakima",
+    "address": "813 North Front Street",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98901",
+    "phone": "509-457-3739",
+    "source": "NWACA"
+  },
+  {
+    "name": "Autoworks - Port Townsend",
+    "address": "2313 3rd Street",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "360-385-5682",
+    "source": "NWACA"
+  },
+  {
+    "name": "Autoworks of Issaquah",
+    "address": "1590 NW Mall Street",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027",
+    "phone": "425-392-4568",
+    "source": "NWACA"
+  },
+  {
+    "name": "Axton Automotive LLC",
+    "address": "1372 W Axton Rd",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248-9101",
+    "phone": "(360) 389-5444",
+    "source": "NWACA"
+  },
+  {
+    "name": "B & B Auto Repair Inc",
+    "address": "299 National Avenue S",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "(360) 377-0682",
+    "source": "NWACA"
+  },
+  {
+    "name": "B & B Automotive Inc",
+    "address": "301 W Market",
+    "city": "Aberdeen",
+    "state": "WA",
+    "zip": "98520",
+    "phone": "360-533-4113",
+    "source": "NWACA"
+  },
+  {
+    "name": "B & H Body Repair",
+    "address": "9516 Airport Way",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98296",
+    "phone": "(360) 568-7676",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bainbridge Island Auto Repair",
+    "address": "8890-B Miller Road NE",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "zip": "98110",
+    "phone": "206-842-1067",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bandon Auto Repair, LLC",
+    "address": "385 Grand Avenue SE",
+    "city": "Bandon",
+    "state": "OR",
+    "zip": "97411",
+    "phone": "(541) 347-1707",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bellingham Automotive",
+    "address": "4116 Hannegan Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-738-2909",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bob's Lil Car Hospital",
+    "address": "1508 West Side Hwy",
+    "city": "Kelso",
+    "state": "WA",
+    "zip": "98626",
+    "phone": "360-577-1187",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bob's Service Center",
+    "address": "618 W. Francis Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205",
+    "phone": "(509) 467-5493",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bob Dickman Tire Center, Inc.",
+    "address": "222 W. First",
+    "city": "Junction City",
+    "state": "OR",
+    "zip": "97448",
+    "phone": "(541) 998-3319",
+    "source": "NWACA"
+  },
+  {
+    "name": "Box K Auto Repair Inc",
+    "address": "PO Box K",
+    "city": "Seaview",
+    "state": "WA",
+    "zip": "98644",
+    "phone": "360-642-4753",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bremerton Collision Repair",
+    "address": "708 Pacific Ave",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98337-1920",
+    "phone": "(360) 440-1383",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bristow's Exclusive Auto Repair Inc",
+    "address": "4731 S Washington",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-471-1663",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bron's Automotive Inc",
+    "address": "2021 Harrison Ave NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "360-943-5993",
+    "source": "NWACA"
+  },
+  {
+    "name": "Brooks Auto Doctor",
+    "address": "33947 B Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "phone": "(541) 321-0002",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bryan's Automotive",
+    "address": "6940 Martin Way East",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "(360) 493-8300",
+    "source": "NWACA"
+  },
+  {
+    "name": "Buckley Automotive",
+    "address": "336 South River Ave",
+    "city": "Buckley",
+    "state": "WA",
+    "zip": "98321",
+    "phone": "360-829-2886",
+    "source": "NWACA"
+  },
+  {
+    "name": "Bud's Auto Repair and Transmission",
+    "address": "707 Beach Ave",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270",
+    "phone": "(360) 658-8600",
+    "source": "NWACA"
+  },
+  {
+    "name": "Buttera Motors Inc",
+    "address": "14235 100th Avenue NE",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98034",
+    "phone": "425-821-1222",
+    "source": "NWACA"
+  },
+  {
+    "name": "C&H Foreign Auto Repair",
+    "address": "620 E North Foothills DR",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "509-487-9683",
+    "source": "NWACA"
+  },
+  {
+    "name": "Capital Collision Center Inc",
+    "address": "2104 Carriage Drive SW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 357-5210",
+    "source": "NWACA"
+  },
+  {
+    "name": "Car Care Specialists Inc.",
+    "address": "2185 NW HWY 101",
+    "city": "Lincoln City",
+    "state": "OR",
+    "zip": "97367",
+    "phone": "(541) 996-6099",
+    "source": "NWACA"
+  },
+  {
+    "name": "Car Smart Auto Service, LLC",
+    "address": "15532 Main Street E",
+    "city": "Sumner",
+    "state": "WA",
+    "zip": "98390",
+    "phone": "(253) 735-3349",
+    "source": "NWACA"
+  },
+  {
+    "name": "Car Tender",
+    "address": "16622 Aurora Avenue N Ste A",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-324-0345",
+    "source": "NWACA"
+  },
+  {
+    "name": "Cascade Automotive Repair",
+    "address": "2420 NW Campus Dr. Suite C",
+    "city": "Estacada",
+    "state": "OR",
+    "zip": "97023",
+    "phone": "503-630-2277",
+    "source": "NWACA"
+  },
+  {
+    "name": "Cascade Pro Auto",
+    "address": "9694 Golf Club Rd SE",
+    "city": "Aumsville",
+    "state": "OR",
+    "zip": "97325",
+    "phone": "(503) 769-3203",
+    "source": "NWACA"
+  },
+  {
+    "name": "Center Collision",
+    "address": "1111 Center Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-779-8342",
+    "source": "NWACA"
+  },
+  {
+    "name": "Charlie's Automotive Inc",
+    "address": "1031 W Columbia Drive",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-586-8237",
+    "source": "NWACA"
+  },
+  {
+    "name": "Chehalis Collision Center",
+    "address": "926 NW Maryland Ave",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532",
+    "phone": "(360) 996-4263",
+    "source": "NWACA"
+  },
+  {
+    "name": "Circle & Square Auto Care",
+    "address": "10953 Rhody Drive",
+    "city": "Port Hadlock",
+    "state": "WA",
+    "zip": "98339",
+    "phone": "360-385-2070",
+    "source": "NWACA"
+  },
+  {
+    "name": "Clark's Tire & Automotive",
+    "address": "16010 E Sprague Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037",
+    "phone": "509-924-1681",
+    "source": "NWACA"
+  },
+  {
+    "name": "Coast Auto Repair",
+    "address": "1932 S Main Ave",
+    "city": "Warrenton",
+    "state": "OR",
+    "zip": "97146",
+    "phone": "(971) 704-4681",
+    "source": "NWACA"
+  },
+  {
+    "name": "Coopers Collision",
+    "address": "2612 North Adams Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98407",
+    "phone": "(253) 759-5354",
+    "source": "NWACA"
+  },
+  {
+    "name": "Cooper's NW Inc",
+    "address": "3236 Wheaton Way",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98310",
+    "phone": "(360) 377-2894",
+    "source": "NWACA"
+  },
+  {
+    "name": "Courtesy Auto Service & Tire Inc",
+    "address": "4504 Pacific Avenue SE",
+    "city": "Lacey",
+    "state": "WA",
+    "zip": "98503",
+    "phone": "360-491-3030",
+    "source": "NWACA"
+  },
+  {
+    "name": "Courtesy Auto Service & Tire of Tacoma",
+    "address": "4502 S. Steel Street #701 Tacoma Mall N Parking Lot",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-473-5556",
+    "source": "NWACA"
+  },
+  {
+    "name": "Courtesy Automotive and Tire",
+    "address": "124 Woods Street",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272",
+    "phone": "360-794-6343",
+    "source": "NWACA"
+  },
+  {
+    "name": "Crowell Brothers Inc",
+    "address": "3125 Simpson Avenue",
+    "city": "Hoquiam",
+    "state": "WA",
+    "zip": "98550",
+    "phone": "360-532-4840",
+    "source": "NWACA"
+  },
+  {
+    "name": "Cruise Control LLC",
+    "address": "1846 N Bennett St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98406",
+    "phone": "(253) 234-4188",
+    "source": "NWACA"
+  },
+  {
+    "name": "D & M Motors and Towing",
+    "address": "205 N Main",
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926",
+    "phone": "509-925-4151",
+    "source": "NWACA"
+  },
+  {
+    "name": "D & W Automotive Repair, LLC",
+    "address": "2616 SE Mile Hill Drive",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366",
+    "phone": "(360) 876-8273",
+    "source": "NWACA"
+  },
+  {
+    "name": "Daisywagen Foreign Car Service Inc",
+    "address": "5701 Roosevelt Way NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105",
+    "phone": "206-522-4664",
+    "source": "NWACA"
+  },
+  {
+    "name": "Danny's Automotive Service",
+    "address": "301 Wynoochee Ave. E",
+    "city": "Montesano",
+    "state": "WA",
+    "zip": "98563",
+    "phone": "(360) 249-5432",
+    "source": "NWACA"
+  },
+  {
+    "name": "Davis Diesel Automotive",
+    "address": "7711 E Sprague Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "509-892-3836",
+    "source": "NWACA"
+  },
+  {
+    "name": "Del's OK Tire Factory",
+    "address": "35359 Business 101",
+    "city": "Astoria",
+    "state": "OR",
+    "zip": "97103",
+    "phone": "(503) 325-2861",
+    "source": "NWACA"
+  },
+  {
+    "name": "Denny's Auto Service",
+    "address": "123 North Front Street",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "360-426-2271",
+    "source": "NWACA"
+  },
+  {
+    "name": "Dick's Tire Factory Inc.",
+    "address": "P.O. Box 458",
+    "city": "Battle Ground",
+    "state": "WA",
+    "zip": "98604",
+    "phone": "(360) 687-5131",
+    "source": "NWACA"
+  },
+  {
+    "name": "Dick's Tire Haus",
+    "address": "320 E Main",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272",
+    "phone": "(360) 794-7103",
+    "source": "NWACA"
+  },
+  {
+    "name": "Dilk Tire Factory",
+    "address": "120 Third St.",
+    "city": "Raymond",
+    "state": "WA",
+    "zip": "98577",
+    "phone": "(360) 942-2184",
+    "source": "NWACA"
+  },
+  {
+    "name": "DK Diesel Performance & Off Road",
+    "address": "2432 E Bakerview Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-815-2098",
+    "source": "NWACA"
+  },
+  {
+    "name": "Doctor Don's Automotive",
+    "address": "1136 NW 50th Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "206-782-6303",
+    "source": "NWACA"
+  },
+  {
+    "name": "Downtown Automotive Center",
+    "address": "407 E 11th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "541-343-4225",
+    "source": "NWACA"
+  },
+  {
+    "name": "Doyle's Automotive Service",
+    "address": "4607 37th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-935-2600",
+    "source": "NWACA"
+  },
+  {
+    "name": "Dr. John's Auto Clinic",
+    "address": "1420 Kentucky Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-733-5646",
+    "source": "NWACA"
+  },
+  {
+    "name": "Dynamic Diesel Performance",
+    "address": "9911 Airport Way",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98296",
+    "phone": "360-862-9009",
+    "source": "NWACA"
+  },
+  {
+    "name": "Earl's Garage Inc",
+    "address": "14515 15th Avenue NE",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-364-7400",
+    "source": "NWACA"
+  },
+  {
+    "name": "Eastside Autoworks Auto Repair",
+    "address": "14320 NE 21st Ste E #5",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98007",
+    "phone": "425-746-0162",
+    "source": "NWACA"
+  },
+  {
+    "name": "Easy Street Auto Repair - Puyallup",
+    "address": "10217 128th Street E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98374",
+    "phone": "(253) 848-5787",
+    "source": "NWACA"
+  },
+  {
+    "name": "Easy Street Auto Repair - Tacoma",
+    "address": "8425 Pacific Hwy E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98422",
+    "phone": "(206) 304-9849",
+    "source": "NWACA"
+  },
+  {
+    "name": "Edwards Automotive Service Inc",
+    "address": "950 N 128th",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-362-1960",
+    "source": "NWACA"
+  },
+  {
+    "name": "Emerald Car Care & Tire",
+    "address": "10615 Bald Hill Rd SE 1",
+    "city": "Yelm",
+    "state": "WA",
+    "zip": "98597",
+    "phone": "(253) 367-4567",
+    "source": "NWACA"
+  },
+  {
+    "name": "Erkers Service",
+    "address": "2311 Pacific Hwy E",
+    "city": "Fife",
+    "state": "WA",
+    "zip": "98424",
+    "phone": "253-922-8344",
+    "source": "NWACA"
+  },
+  {
+    "name": "Ernie's, Inc",
+    "address": "2600 21st Avenue SW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98512",
+    "phone": "(360) 456-6100",
+    "source": "NWACA"
+  },
+  {
+    "name": "Esty's Auto Center",
+    "address": "1064 15th Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "(360) 423-0890",
+    "source": "NWACA"
+  },
+  {
+    "name": "European AutoHaus",
+    "address": "6510 W Thorpe Rd.",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99224",
+    "phone": "(509) 535-4506",
+    "source": "NWACA"
+  },
+  {
+    "name": "Europro Automotive",
+    "address": "11905 E Sprague Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99206",
+    "phone": "(509) 922-2258",
+    "source": "NWACA"
+  },
+  {
+    "name": "Eurotech Auto Service",
+    "address": "221 170th Street S, Suite B",
+    "city": "Spanaway",
+    "state": "WA",
+    "zip": "98387",
+    "phone": "253-536-5577",
+    "source": "NWACA"
+  },
+  {
+    "name": "EV Mobile Repair Service",
+    "address": "7100 Fort Dent Way #100",
+    "city": "Tukwila",
+    "state": "WA",
+    "zip": "98188",
+    "phone": "(206) 397-2119",
+    "source": "NWACA"
+  },
+  {
+    "name": "Evergreen Auto Repair",
+    "address": "10115 4th Ave W",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98204",
+    "phone": "(425) 353-1765",
+    "source": "NWACA"
+  },
+  {
+    "name": "Evergreen Collision Center - Port Angeles",
+    "address": "820 E Front Street",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-4484",
+    "source": "NWACA"
+  },
+  {
+    "name": "Evergreen Collision Center - Sequim",
+    "address": "703 E Washington Street",
+    "city": "Sequim",
+    "state": "WA",
+    "zip": "98382",
+    "phone": "360-683-1128",
+    "source": "NWACA"
+  },
+  {
+    "name": "Expert Muffler & Auto Repair",
+    "address": "1240 S. Sprague Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "253-573-0422",
+    "source": "NWACA"
+  },
+  {
+    "name": "Extreme Collision Center",
+    "address": "1383 E Shelton Springs Rd",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "(360) 432-3625",
+    "source": "NWACA"
+  },
+  {
+    "name": "Fast Eddie's Tire Pros",
+    "address": "8810 Evergreen Way",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98208",
+    "phone": "(425) 355-7110",
+    "source": "NWACA"
+  },
+  {
+    "name": "Fat Boys Fleet Services",
+    "address": "720 N California Ave Suite D",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-5044",
+    "source": "NWACA"
+  },
+  {
+    "name": "Flat Black Automotive",
+    "address": "1918 Iowa St 101A",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98229",
+    "phone": "(360) 393-8984",
+    "source": "NWACA"
+  },
+  {
+    "name": "Fleet Service Auto & Truck",
+    "address": "7511 Beverly Blvd",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98203",
+    "phone": "425-355-4440",
+    "source": "NWACA"
+  },
+  {
+    "name": "Fleury's Collision Center - Lynnwood",
+    "address": "6326 196th Street SW",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "(425) 697-4322",
+    "source": "NWACA"
+  },
+  {
+    "name": "Fleury's Collision Center - Seattle",
+    "address": "1484 North West 90th",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98117",
+    "phone": "206-789-6930",
+    "source": "NWACA"
+  },
+  {
+    "name": "Foreign Car Workshop",
+    "address": "4601 - 37th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-938-3972",
+    "source": "NWACA"
+  },
+  {
+    "name": "Frank's Auto Repair & Parts",
+    "address": "1416 E Front Street",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-7937",
+    "source": "NWACA"
+  },
+  {
+    "name": "Frank's Point S Tire and Auto Service",
+    "address": "2612 Main St.",
+    "city": "Union Gap",
+    "state": "WA",
+    "zip": "98903",
+    "phone": "509-248-3523",
+    "source": "NWACA"
+  },
+  {
+    "name": "Friendly Automotive West",
+    "address": "5812 Summitview Ave",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98908",
+    "phone": "(509) 966-1090",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gary's Olympia Auto Service",
+    "address": "616 Legion Way SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "360-754-5533",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gateway Autohaus",
+    "address": "715 S. Spruce St.",
+    "city": "Burlington",
+    "state": "WA",
+    "zip": "98233",
+    "phone": "(360) 755-0541",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gateway Automotive Experts - Mount Vernon",
+    "address": "1301 E. College Way",
+    "city": "Mount Vernon",
+    "state": "WA",
+    "zip": "98273",
+    "phone": "360-424-3100",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gateway Automotive Experts - Oak Harbor",
+    "address": "1100 Goldie St.",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277",
+    "phone": "360-679-0700",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gateway Automotive Experts - Sedro Woolley",
+    "address": "487 Metcalf Street",
+    "city": "Sedro Woolley",
+    "state": "WA",
+    "zip": "98284",
+    "phone": "(360) 855-1111",
+    "source": "NWACA"
+  },
+  {
+    "name": "Genesis Automotive & RV Repair Inc",
+    "address": "6220 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-473-2336",
+    "source": "NWACA"
+  },
+  {
+    "name": "Genuine Auto Repair",
+    "address": "1603 W. Lewis St.",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "(509) 410-0737",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gere Auto Repair LLC",
+    "address": "9025 Meadowbrook Way SE",
+    "city": "Snoqualmie",
+    "state": "WA",
+    "zip": "98065",
+    "phone": "425-292-0515",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gig Harbor Automotive Service",
+    "address": "4101 Harborview Drive",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "zip": "98332",
+    "phone": "253-851-8501",
+    "source": "NWACA"
+  },
+  {
+    "name": "Global Car Care",
+    "address": "1840 N. Wenatchee Avenue",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "509-662-2121",
+    "source": "NWACA"
+  },
+  {
+    "name": "Goods Automotive - Lakewood",
+    "address": "6124 Lake Grove Street SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(253) 948-2269",
+    "source": "NWACA"
+  },
+  {
+    "name": "Goods Automotive - Puyallup",
+    "address": "16318 Meridian Ave E Ste 300",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "(253) 948-2269",
+    "source": "NWACA"
+  },
+  {
+    "name": "GP Automotive Inc.",
+    "address": "524 132nd St SW #109",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98204",
+    "phone": "(425) 742-5838",
+    "source": "NWACA"
+  },
+  {
+    "name": "Graham Auto Repair",
+    "address": "22217 Meridian Avenue E",
+    "city": "Graham",
+    "state": "WA",
+    "zip": "98338",
+    "phone": "253-847-2221",
+    "source": "NWACA"
+  },
+  {
+    "name": "Graham Auto Repair - Yelm",
+    "address": "412 E Yelm Avenue",
+    "city": "Yelm",
+    "state": "WA",
+    "zip": "98597",
+    "phone": "(360) 245-0388",
+    "source": "NWACA"
+  },
+  {
+    "name": "Green Tech Garage",
+    "address": "611 S. Dishman Mica Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206",
+    "phone": "(509) 443-4970",
+    "source": "NWACA"
+  },
+  {
+    "name": "Greene's Point S Tire",
+    "address": "1410 E Yakima Valley Hwy",
+    "city": "Sunnyside",
+    "state": "WA",
+    "zip": "98944",
+    "phone": "(509) 837-8473",
+    "source": "NWACA"
+  },
+  {
+    "name": "Gresham Muffler",
+    "address": "731 NE Division Street",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030",
+    "phone": "(503) 756-0349",
+    "source": "NWACA"
+  },
+  {
+    "name": "H.I.S. Automotive Services LLC",
+    "address": "1721 S.E. Stephens St.",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97470",
+    "phone": "(541) 492-1599",
+    "source": "NWACA"
+  },
+  {
+    "name": "Hawthorne Auto Clinic",
+    "address": "4307 SE Hawthorne Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97215",
+    "phone": "503-234-2119",
+    "source": "NWACA"
+  },
+  {
+    "name": "Henderson's Line-up Brake & RV",
+    "address": "417 SW Henderson Lane",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97527",
+    "phone": "(541) 479-2882",
+    "source": "NWACA"
+  },
+  {
+    "name": "High Road Automotive",
+    "address": "1531 NW Leary Way",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "206-789-7521",
+    "source": "NWACA"
+  },
+  {
+    "name": "High-Tech Automotive",
+    "address": "1230 McKittrick Street",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "509-662-4426",
+    "source": "NWACA"
+  },
+  {
+    "name": "Hi-Land Garage",
+    "address": "215 N Union st",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-783-2512",
+    "source": "NWACA"
+  },
+  {
+    "name": "Hi-Line Auto Electric",
+    "address": "823 SW 148TH",
+    "city": "Burien",
+    "state": "WA",
+    "zip": "98166-1860",
+    "phone": "206-243-8910",
+    "source": "NWACA"
+  },
+  {
+    "name": "Honest-1 Auto Care - Portland",
+    "address": "2002 SE Stark Street",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "(503) 233-4003",
+    "source": "NWACA"
+  },
+  {
+    "name": "Imhof Automotive",
+    "address": "2869 W 63rd Lane",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-393-8938",
+    "source": "NWACA"
+  },
+  {
+    "name": "Import Autosport Inc",
+    "address": "7391 Miller Road",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-7551",
+    "source": "NWACA"
+  },
+  {
+    "name": "Integrity Automotive Maintenance & Repair",
+    "address": "80 NE Gilman Blvd",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027",
+    "phone": "(425) 557-8665",
+    "source": "NWACA"
+  },
+  {
+    "name": "Ishii Motor Industries",
+    "address": "638 116th Ave NE Ste B",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98004",
+    "phone": "(425) 450-0498",
+    "source": "NWACA"
+  },
+  {
+    "name": "Island Import Garage",
+    "address": "3319 Commercial",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-4188",
+    "source": "NWACA"
+  },
+  {
+    "name": "J & J Autobody Repair Inc",
+    "address": "8322 S Tacoma Way",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-983-1718",
+    "source": "NWACA"
+  },
+  {
+    "name": "Jackson's Body Shop Inc",
+    "address": "3353 Silverton Road NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97303",
+    "phone": "(503) 363-1990",
+    "source": "NWACA"
+  },
+  {
+    "name": "Jackson's Complete Auto Care",
+    "address": "660 W 6th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-344-7366",
+    "source": "NWACA"
+  },
+  {
+    "name": "Jay's Kirkland Autocare",
+    "address": "817 7th Ave",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033",
+    "phone": "(425) 822-3333",
+    "source": "NWACA"
+  },
+  {
+    "name": "Jim's Pacific Garages Inc",
+    "address": "2708 N Commercial Avenue",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-7770",
+    "source": "NWACA"
+  },
+  {
+    "name": "Joe's Garage",
+    "address": "888 W 1st Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-343-1814",
+    "source": "NWACA"
+  },
+  {
+    "name": "JR Transmission",
+    "address": "1601 Pine Ave",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "(509) 888-1522",
+    "source": "NWACA"
+  },
+  {
+    "name": "K&M Automotive",
+    "address": "13910 NE NORTH WOODINVILLE WAY",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "phone": "(425) 481-9496",
+    "source": "NWACA"
+  },
+  {
+    "name": "Kassel Motorsports LLC",
+    "address": "2301 E. Pioneer, Ste A",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "(253) 864-4955",
+    "source": "NWACA"
+  },
+  {
+    "name": "KC Martin Automotive Service",
+    "address": "4829 196th SW",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "425-778-1177",
+    "source": "NWACA"
+  },
+  {
+    "name": "Kennewick Motoring Services",
+    "address": "8920 W Victoria Avenue",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 374-2222",
+    "source": "NWACA"
+  },
+  {
+    "name": "Kimball's Collisions Center",
+    "address": "10111 Pacific Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444",
+    "phone": "253-537-0276",
+    "source": "NWACA"
+  },
+  {
+    "name": "Klahanie Service Center",
+    "address": "4598 Klahanie Drive SE",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip": "98029",
+    "phone": "425-313-3057",
+    "source": "NWACA"
+  },
+  {
+    "name": "Kresky Auto Repair & Electric",
+    "address": "1134 Kresky Rd",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "360-736-8264",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lacey Collision Center",
+    "address": "1215 Carpenter Road SE",
+    "city": "Lacey",
+    "state": "WA",
+    "zip": "98503",
+    "phone": "(360) 456-5400",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lake Stevens Automotive",
+    "address": "9015 Vernon Rd Ste 8",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258",
+    "phone": "(425) 397-9830",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lake Street Automotive - Ponderosa",
+    "address": "11211 E Dishman Mica Road",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "(509) 368-9672",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lakes Body Shop",
+    "address": "4724 Steilacoom Blvd SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-584-3749",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lamorna Garage",
+    "address": "9400 Aurora Ave N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "206-361-7002",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lance's Superior Auto Service",
+    "address": "30775 SW BoonesFerry Rd Ste D",
+    "city": "Wilsonville",
+    "state": "OR",
+    "zip": "97070",
+    "phone": "(503) 682-8522",
+    "source": "NWACA"
+  },
+  {
+    "name": "Larry's Volvo Repair & Service Inc",
+    "address": "6301 Beacon Avenue S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98108",
+    "phone": "206-722-4070",
+    "source": "NWACA"
+  },
+  {
+    "name": "Larsen's Auto Repair",
+    "address": "310 S Bay Rd NE Ste.G",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "360-352-7065",
+    "source": "NWACA"
+  },
+  {
+    "name": "Legacy Auto Repair Service",
+    "address": "5078 SE Mile Hill Drive",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366",
+    "phone": "(360) 443-9260",
+    "source": "NWACA"
+  },
+  {
+    "name": "Len's Automotive Inc",
+    "address": "1620 136th Place NE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-641-4880",
+    "source": "NWACA"
+  },
+  {
+    "name": "Liberty Bay Auto Center",
+    "address": "20201 Front Street NE",
+    "city": "Poulsbo",
+    "state": "WA",
+    "zip": "98370",
+    "phone": "360-697-4066",
+    "source": "NWACA"
+  },
+  {
+    "name": "Liberty Tire Pros",
+    "address": "3253 E 1st Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "509-535-8008",
+    "source": "NWACA"
+  },
+  {
+    "name": "LK'S Auto Repair",
+    "address": "5921 Street Hwy 303 NE # 100",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98311",
+    "phone": "360-373-6790",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lloyd's Automotive",
+    "address": "8517 E Sprague Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "509-927-9034",
+    "source": "NWACA"
+  },
+  {
+    "name": "Local Wrench",
+    "address": "23530 NE SR 3",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "98528",
+    "phone": "360-277-0977",
+    "source": "NWACA"
+  },
+  {
+    "name": "Longview Auto & Tire",
+    "address": "655 Commerce Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 425-3933",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lucky's Speed Shop LLC",
+    "address": "503 W. Laurel Rd",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "(360) 656-6570",
+    "source": "NWACA"
+  },
+  {
+    "name": "Luttrell's Auto Center",
+    "address": "927 W Rose Street",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362",
+    "phone": "509-529-7491",
+    "source": "NWACA"
+  },
+  {
+    "name": "Lynden Service Center",
+    "address": "700 Grover St",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "360-354-2611",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mark's Auto Repair",
+    "address": "181 NE Midway Blvd.",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277-2652",
+    "phone": "(360) 279-8928",
+    "source": "NWACA"
+  },
+  {
+    "name": "Marque Motors",
+    "address": "7310 S Macadam Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219",
+    "phone": "503-293-5386",
+    "source": "NWACA"
+  },
+  {
+    "name": "Marqueen Garage",
+    "address": "1506 Queen Anne Ave North",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109",
+    "phone": "206-285-9100",
+    "source": "NWACA"
+  },
+  {
+    "name": "Master Tech Automotive",
+    "address": "1315 Lee Blvd",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352",
+    "phone": "(509) 545-6165",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mathews Auto Body",
+    "address": "614 W Columbia Drive",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-582-9713",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mathewson's Automotive",
+    "address": "271 Rainier Ave N",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98057",
+    "phone": "425-226-2965",
+    "source": "NWACA"
+  },
+  {
+    "name": "Matt's Greenwood Auto Care",
+    "address": "7900 Greenwood Ave N.",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "(206) 257-5748",
+    "source": "NWACA"
+  },
+  {
+    "name": "Matt's Import Haven",
+    "address": "6446 S Harding Avenue",
+    "city": "Clinton",
+    "state": "WA",
+    "zip": "98236",
+    "phone": "360-341-3504",
+    "source": "NWACA"
+  },
+  {
+    "name": "Maximilian Motorsports",
+    "address": "1983 Bishop Rd",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532",
+    "phone": "(360) 748-8578",
+    "source": "NWACA"
+  },
+  {
+    "name": "Maximum Performance",
+    "address": "16603 Meridian East",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "(253) 845-2441",
+    "source": "NWACA"
+  },
+  {
+    "name": "McCabe's Automotive Specialist",
+    "address": "3147 Bridgeport Way W",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98466",
+    "phone": "253-565-5173",
+    "source": "NWACA"
+  },
+  {
+    "name": "McCue's Repair & Towing",
+    "address": "295 Williams Blvd",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99354",
+    "phone": "509-943-2179",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mechanic Northwest",
+    "address": "30402 Pacific Hwy S.",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003",
+    "phone": "(206) 212-6970",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mechanics Pride (Spokane Valley)",
+    "address": "523 N. Pines Suite E",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206",
+    "phone": "(509) 321-7243",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mechanic's Pride Tire & Automotive Inc",
+    "address": "1126 W 2nd Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99201",
+    "phone": "(509) 747-5371",
+    "source": "NWACA"
+  },
+  {
+    "name": "Meridian Collision Center Inc",
+    "address": "15724 Meridian East",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "253-848-2364",
+    "source": "NWACA"
+  },
+  {
+    "name": "Metro Metric Automotive",
+    "address": "715 SE 10th Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "503-233-0272",
+    "source": "NWACA"
+  },
+  {
+    "name": "Meyers Auto Tech",
+    "address": "1120 North Grant Place",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-735-8436",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midas Bellingham",
+    "address": "4043 Guide Meridian Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "(360) 647-1111",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midas Total Car Care",
+    "address": "801 Ohio Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-733-1880",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midland Automotive",
+    "address": "1624 90th Street E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98445",
+    "phone": "253-531-4331",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midland Automotive of South Tacoma",
+    "address": "3912 S 56th Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "(253) 475-7405",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midvalley Automotive LLC",
+    "address": "270 E Penny Rd",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "(509) 663-1545",
+    "source": "NWACA"
+  },
+  {
+    "name": "Midway Automotive & Tire",
+    "address": "726 NE Midway Blvd",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277",
+    "phone": "360-679-2292",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mike's Tire and Auto Center",
+    "address": "56841 Venture Lane",
+    "city": "Sunriver",
+    "state": "OR",
+    "zip": "97707",
+    "phone": "(541) 593-2554",
+    "source": "NWACA"
+  },
+  {
+    "name": "Miller's Auto Repair",
+    "address": "380 Tangent Street",
+    "city": "Lebanon",
+    "state": "OR",
+    "zip": "97355",
+    "phone": "541-451-1583",
+    "source": "NWACA"
+  },
+  {
+    "name": "Mission Motors",
+    "address": "9922 SR 532",
+    "city": "Stanwood",
+    "state": "WA",
+    "zip": "98292",
+    "phone": "(360) 939-2617",
+    "source": "NWACA"
+  },
+  {
+    "name": "Modern Collision Rebuild & Service",
+    "address": "9270 Miller Road NE",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "zip": "98110",
+    "phone": "(206) 842-8053",
+    "source": "NWACA"
+  },
+  {
+    "name": "Moses Lake Tire Factory",
+    "address": "11958 Wheeler Rd NE",
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837",
+    "phone": "(509) 820-4266",
+    "source": "NWACA"
+  },
+  {
+    "name": "Moss Alley Motors Inc",
+    "address": "932 12th Avenue",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98122",
+    "phone": "(206) 325-3992",
+    "source": "NWACA"
+  },
+  {
+    "name": "Nedrow's Complete Automotive Repair",
+    "address": "730 N 16th Ave #5",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "(509) 902-8080",
+    "source": "NWACA"
+  },
+  {
+    "name": "Newport Hills Chevron Service",
+    "address": "5804 119th Avenue SE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98006",
+    "phone": "425-747-6991",
+    "source": "NWACA"
+  },
+  {
+    "name": "Nisqually Automotive & Towing",
+    "address": "10246 Martin Way E",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "360-491-1755",
+    "source": "NWACA"
+  },
+  {
+    "name": "Norm's Auto Repair",
+    "address": "295 West 1st Avenue",
+    "city": "Colville",
+    "state": "WA",
+    "zip": "99114",
+    "phone": "509-685-9653",
+    "source": "NWACA"
+  },
+  {
+    "name": "North Eugene Automotive",
+    "address": "1048 River Rd",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404",
+    "phone": "(541) 688-1917",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northshore Automotive",
+    "address": "35406 21st Ave SW",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98023-3050",
+    "phone": "253-952-2330",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northwest Auto Center",
+    "address": "13910 NE 20th Street",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-747-3402",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northwest Automotive Inc",
+    "address": "12300 Lake City Way NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98125",
+    "phone": "(206) 526-5979",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northwest Collision Automotive",
+    "address": "1390 W Poplar Street",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362",
+    "phone": "509-529-9638",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northwest Dieselworks",
+    "address": "15919 E Trent Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99216",
+    "phone": "(509) 279-2423",
+    "source": "NWACA"
+  },
+  {
+    "name": "Northwest Radiator Works Inc",
+    "address": "2120 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-474-9432",
+    "source": "NWACA"
+  },
+  {
+    "name": "Olsen Auto Body & Collision Inc",
+    "address": "1919 Humboldt Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-733-0463",
+    "source": "NWACA"
+  },
+  {
+    "name": "Olympia Autoworks",
+    "address": "410 Ronlee Ln NW Suite B",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 786-5676",
+    "source": "NWACA"
+  },
+  {
+    "name": "Olympic Transmissions & Auto Care",
+    "address": "7011 Martin Way East, Suite A",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "360-456-2266",
+    "source": "NWACA"
+  },
+  {
+    "name": "Orcas Auto Tech",
+    "address": "35 Hope Ln",
+    "city": "Eastsound",
+    "state": "WA",
+    "zip": "98245",
+    "phone": "(360) 376-5400",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pacific Auto Body",
+    "address": "2400 Airport Way So",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98134",
+    "phone": "206-682-1005",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pacific Motor Company Inc",
+    "address": "1408 M L King JR Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "253-572-7214",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pacific Rim Automotive Inc",
+    "address": "3810 Stone Way N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "206-632-1175",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pacific Tire & Brake",
+    "address": "1027 N Coast Hwy",
+    "city": "Newport",
+    "state": "OR",
+    "zip": "97365",
+    "phone": "541-265-8896",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pasco Tire Factory",
+    "address": "1324 N 4th Ave",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-1724",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pasco Tire Factory - 2nd Location",
+    "address": "3306 N Commercial Ave",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "(509) 547-8998",
+    "source": "NWACA"
+  },
+  {
+    "name": "PastPower Automotive",
+    "address": "730 Urban Industrial Way #7",
+    "city": "East Wenatchee",
+    "state": "WA",
+    "zip": "98802",
+    "phone": "(509) 492-3888",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pat's Auto Care",
+    "address": "274 Otto St Unit P",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "(425) 996-3535",
+    "source": "NWACA"
+  },
+  {
+    "name": "Pete's Auto Repair",
+    "address": "6209 Portal Way",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-380-2277",
+    "source": "NWACA"
+  },
+  {
+    "name": "PJM Auto LLC",
+    "address": "3211 S Coast Hwy Unit 2",
+    "city": "South Beach",
+    "state": "OR",
+    "zip": "97366",
+    "phone": "(541) 265-8229",
+    "source": "NWACA"
+  },
+  {
+    "name": "Plateau Diesel Performance",
+    "address": "2551 Cole Street, Suite J",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022",
+    "phone": "(206) 953-3971",
+    "source": "NWACA"
+  },
+  {
+    "name": "Plateau Motors Auto Repair",
+    "address": "625 228th Ave NE #B",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip": "98074",
+    "phone": "(425) 898-9900",
+    "source": "NWACA"
+  },
+  {
+    "name": "Platinum Automotive Services",
+    "address": "8504 W Clearwater Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 528-5115",
+    "source": "NWACA"
+  },
+  {
+    "name": "PNW Automotive",
+    "address": "1050 Olney Ave",
+    "city": "Astoria",
+    "state": "OR",
+    "zip": "97103",
+    "phone": "(503) 298-9956",
+    "source": "NWACA"
+  },
+  {
+    "name": "Point S Creswell Tire & Auto",
+    "address": "25 South Mill",
+    "city": "Creswell",
+    "state": "OR",
+    "zip": "97426",
+    "phone": "541-895-4840",
+    "source": "NWACA"
+  },
+  {
+    "name": "Portland Motor Works Inc",
+    "address": "9032 SE Woodstock Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266",
+    "phone": "(503) 360-6658",
+    "source": "NWACA"
+  },
+  {
+    "name": "Prairie Road Automotive",
+    "address": "89925 Prairie Road",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 688-3346",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision Automotive Calibration",
+    "address": "4727 Kean Blvd",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "(360) 728-2580",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision Automotive Repair",
+    "address": "825 East 2nd Street",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058",
+    "phone": "(541) 296-5153",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision Body & Paint",
+    "address": "14145 SW Canyon Road",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005",
+    "phone": "503-641-5634",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision German Garage",
+    "address": "2310 N Mckinzie Ln",
+    "city": "Liberty Lake",
+    "state": "WA",
+    "zip": "99019",
+    "phone": "(509) 242-3444",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision Performance",
+    "address": "93976 Ocean Way",
+    "city": "Gold Beach",
+    "state": "OR",
+    "zip": "97444",
+    "phone": "541-247-2232",
+    "source": "NWACA"
+  },
+  {
+    "name": "Precision Tune Auto Care - Marysville",
+    "address": "9113 State Avenue, Suite A",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270",
+    "phone": "360-653-1650",
+    "source": "NWACA"
+  },
+  {
+    "name": "Preedy Brothers Tires Inc",
+    "address": "703 E Pacific Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "509-534-0417",
+    "source": "NWACA"
+  },
+  {
+    "name": "Premier Automotive Services",
+    "address": "25009 Pacific Highway S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "253-839-1480",
+    "source": "NWACA"
+  },
+  {
+    "name": "Premium Mechanics Automotive",
+    "address": "815 B ST, Unit B",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "(360) 669-0779",
+    "source": "NWACA"
+  },
+  {
+    "name": "Quality Auto Electric Inc",
+    "address": "2802 Kent Des Moines Road",
+    "city": "Des Moines",
+    "state": "WA",
+    "zip": "98198",
+    "phone": "206-878-0228",
+    "source": "NWACA"
+  },
+  {
+    "name": "Quality Foreign Auto Inc",
+    "address": "18002 Bothell-Everett Hwy #7",
+    "city": "Mill Creek",
+    "state": "WA",
+    "zip": "98012-6844",
+    "phone": "425-481-1200",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rainbow Auto Service LLC",
+    "address": "2729 Jensen Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-734-6117",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rainier Automotive - Auto Repair & Service",
+    "address": "23933 SE 264th Street",
+    "city": "Maple Valley",
+    "state": "WA",
+    "zip": "98038",
+    "phone": "(425) 310-1100",
+    "source": "NWACA"
+  },
+  {
+    "name": "Ray & Roy's Repair, Inc.",
+    "address": "13524 E. Sprague Ave, Suite 6",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99216-0888",
+    "phone": "509-926-2967",
+    "source": "NWACA"
+  },
+  {
+    "name": "Re-Born Automotive",
+    "address": "1800 SE M.L. King Jr BLVD",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "503-231-4947",
+    "source": "NWACA"
+  },
+  {
+    "name": "Richland Tire Factory",
+    "address": "2761 Duportail St",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352",
+    "phone": "(509) 493-3301",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rob's Automotive Repair",
+    "address": "11955 SE Hwy 212",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015",
+    "phone": "(503) 650-6101",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rockford Auto Inc",
+    "address": "23 S. First St.",
+    "city": "Rockford",
+    "state": "WA",
+    "zip": "99030",
+    "phone": "509-291-5211",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rod's Japanese Auto Care",
+    "address": "5292 Guide Meridian",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-398-2944",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rod's Master Auto Tech",
+    "address": "3709 Bennett Drive",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "(360) 733-3043",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rolf's Auto Service - Tacoma",
+    "address": "6423 6th Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98406",
+    "phone": "(253) 655-0889",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rolf's Import Auto Service - Lakewood",
+    "address": "3122 96th Street S",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(253) 584-7770",
+    "source": "NWACA"
+  },
+  {
+    "name": "Ruggles Auto Repair",
+    "address": "108 Washington Avenue",
+    "city": "Toppenish",
+    "state": "WA",
+    "zip": "98948",
+    "phone": "509-865-4626",
+    "source": "NWACA"
+  },
+  {
+    "name": "Rusty's Import Auto Repair",
+    "address": "141 Kemp St",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-5267",
+    "source": "NWACA"
+  },
+  {
+    "name": "Saggu Automotive Repair",
+    "address": "10314 SE 244th St",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98030",
+    "phone": "(253) 277-1810",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sameday Auto Scratch & Dent Repair",
+    "address": "2002 1/2 South Bay Road",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "360-357-6196",
+    "source": "NWACA"
+  },
+  {
+    "name": "Save More Automotive",
+    "address": "2605 N Hamilton Street",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 482-7283",
+    "source": "NWACA"
+  },
+  {
+    "name": "Scanwest Autosport",
+    "address": "9520 Greenwood Avenue N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-789-2819",
+    "source": "NWACA"
+  },
+  {
+    "name": "Scotties Auto Body Repair Inc",
+    "address": "503 SW Baseline St",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "phone": "503-648-4275",
+    "source": "NWACA"
+  },
+  {
+    "name": "Scott's Automotive",
+    "address": "2600 NE McDonald Lane",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "phone": "(503) 472-9622",
+    "source": "NWACA"
+  },
+  {
+    "name": "Service Pro Inc",
+    "address": "208 Nooksack Avenue",
+    "city": "Nooksack",
+    "state": "WA",
+    "zip": "98247",
+    "phone": "(360) 966-4664",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sherwood Auto Repair",
+    "address": "9965 SW Tualatin-Sherwood Road",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062",
+    "phone": "503-692-4000",
+    "source": "NWACA"
+  },
+  {
+    "name": "Silver Star Automotive",
+    "address": "3320 E Springfield",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "(509) 835-5334",
+    "source": "NWACA"
+  },
+  {
+    "name": "Silverdale Autoworks",
+    "address": "3342 NW Byron",
+    "city": "Silverdale",
+    "state": "WA",
+    "zip": "98383",
+    "phone": "360-692-5201",
+    "source": "NWACA"
+  },
+  {
+    "name": "Simmonson Automotive Inc",
+    "address": "627 W Columbia Street",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-1659",
+    "source": "NWACA"
+  },
+  {
+    "name": "Small World Auto Center Inc",
+    "address": "2090 W 11th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-683-6475",
+    "source": "NWACA"
+  },
+  {
+    "name": "Smart Service Inc",
+    "address": "20309-B Ballinger Way NE",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-417-0880",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sound Auto Care",
+    "address": "18451 Des Moines Memorial Dr. A",
+    "city": "SeaTac",
+    "state": "WA",
+    "zip": "98148",
+    "phone": "(206) 246-3888",
+    "source": "NWACA"
+  },
+  {
+    "name": "South End Auto Care",
+    "address": "8318 Pacific Hwy E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98422",
+    "phone": "253-922-9922",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sparks Car Care",
+    "address": "32627 Pacific Hwy S",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003",
+    "phone": "(253) 874-1070",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sports Car Shop",
+    "address": "288 W 6th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "541-342-1520",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sterling Automotive Service",
+    "address": "10218 24th Street E.",
+    "city": "Edgewood",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "253-927-9300",
+    "source": "NWACA"
+  },
+  {
+    "name": "Steve's Auto Service",
+    "address": "112 N Meridian Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "phone": "503-554-1778",
+    "source": "NWACA"
+  },
+  {
+    "name": "Steve's Tire & Auto Repair",
+    "address": "6509 W Rio Grande",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 783-3120",
+    "source": "NWACA"
+  },
+  {
+    "name": "Stillbuilt Automotive",
+    "address": "3315 T Ave",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "(360) 299-8252",
+    "source": "NWACA"
+  },
+  {
+    "name": "Strictly BMW Independent Service",
+    "address": "2111 140th Avenue NE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-747-6044",
+    "source": "NWACA"
+  },
+  {
+    "name": "Stroh's Automotive Services",
+    "address": "4905 128th Street E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98446",
+    "phone": "(253) 531-5310",
+    "source": "NWACA"
+  },
+  {
+    "name": "Suburb Service Inc",
+    "address": "15017 Bothell Way NE",
+    "city": "Lake Forest Park",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-364-8089",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sun Automotive - Campus",
+    "address": "1905 Agate Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97403",
+    "phone": "(541) 344-0869",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sun Automotive - Junction City",
+    "address": "490 Ivy Street",
+    "city": "Junction City",
+    "state": "OR",
+    "zip": "97448",
+    "phone": "(541) 998-3717",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sun Automotive - Oakway",
+    "address": "391 Rustic Place",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 344-2219",
+    "source": "NWACA"
+  },
+  {
+    "name": "Sun Automotive - Springfield",
+    "address": "255 South A Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97477",
+    "phone": "(541) 746-6430",
+    "source": "NWACA"
+  },
+  {
+    "name": "Superior Auto Service",
+    "address": "4333 Leary Way NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "(206) 782-6474",
+    "source": "NWACA"
+  },
+  {
+    "name": "Superior Tire Service - Longview",
+    "address": "660 14th Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "(360) 425-5020",
+    "source": "NWACA"
+  },
+  {
+    "name": "Superior Tire Service - Portland",
+    "address": "7932 N Upland Drive",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97203",
+    "phone": "(503) 595-5470",
+    "source": "NWACA"
+  },
+  {
+    "name": "Superior Tire Service - Salem",
+    "address": "4230 27th Ct SE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97302",
+    "phone": "(503) 585-1955",
+    "source": "NWACA"
+  },
+  {
+    "name": "Swedish Automotive Inc",
+    "address": "7901 35th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 938-8685",
+    "source": "NWACA"
+  },
+  {
+    "name": "TechMotive Auto Service LLC",
+    "address": "1616 US Hwy 12",
+    "city": "Ethel",
+    "state": "WA",
+    "zip": "98542",
+    "phone": "(360) 978-4397",
+    "source": "NWACA"
+  },
+  {
+    "name": "Terry's Automotive Inc",
+    "address": "2203 Harrison Avenue NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "360-943-0410",
+    "source": "NWACA"
+  },
+  {
+    "name": "The 509 Garage",
+    "address": "3620 N Nevada ST",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 598-8244",
+    "source": "NWACA"
+  },
+  {
+    "name": "The Carr Shop",
+    "address": "1319 O Ave",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "(360) 422-4154",
+    "source": "NWACA"
+  },
+  {
+    "name": "The Garage In Renton",
+    "address": "4233 NE Sunset Blvd",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98059",
+    "phone": "(425) 277-5068",
+    "source": "NWACA"
+  },
+  {
+    "name": "The Master Wrench Inc",
+    "address": "9803 SW Barbur Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219",
+    "phone": "503-244-0467",
+    "source": "NWACA"
+  },
+  {
+    "name": "The Service Center At 1-5 Motors",
+    "address": "3151 20th Street E",
+    "city": "Fife",
+    "state": "WA",
+    "zip": "98424",
+    "phone": "253-248-1080",
+    "source": "NWACA"
+  },
+  {
+    "name": "Thurston County Collision",
+    "address": "410 Ronlee Lane NW Suite C",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 972-2989",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tier 1 Automotive",
+    "address": "7045 Seawitch LN NW",
+    "city": "Seabeck",
+    "state": "WA",
+    "zip": "98380",
+    "phone": "(253) 509-3612",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tiny's Tire Pros",
+    "address": "10805 Pacific Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444-5735",
+    "phone": "253-531-4535",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tire Nation Point S - Arlington",
+    "address": "315 N West Ave",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(360) 435-9982",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tire Nation Point S - Clinton",
+    "address": "6423 Humphrey Road",
+    "city": "Clinton",
+    "state": "WA",
+    "zip": "98236",
+    "phone": "360-341-5274",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tire Nation Point S - Mall Way",
+    "address": "406 SE Everett Mall Way, Ste 101",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98208",
+    "phone": "(425) 355-2900",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tires Direct Seattle",
+    "address": "8124 S 208th St. Bld 1, STE 101",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "(253) 656-3265",
+    "source": "NWACA"
+  },
+  {
+    "name": "TNT Tire Point S Auto Service",
+    "address": "3711 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "(253) 475-6777",
+    "source": "NWACA"
+  },
+  {
+    "name": "Todd's Tire Factory",
+    "address": "4215 SE 82nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266",
+    "phone": "(503) 771-0121",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tom's Automotive Service",
+    "address": "3616 SW Oregon Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 937-1144",
+    "source": "NWACA"
+  },
+  {
+    "name": "Town Center Automotive",
+    "address": "14725 SE 82nd Dr",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015",
+    "phone": "(503) 770-8787",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tri-Cities Automotive Repair",
+    "address": "106002 East Wiser Parkway",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99338",
+    "phone": "509-735-1616",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tru-Line Frame & Wheel Inc",
+    "address": "312 Boren Ave S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98144",
+    "phone": "(206) 325-3340",
+    "source": "NWACA"
+  },
+  {
+    "name": "Turner Automotive",
+    "address": "111 Binghampton Street",
+    "city": "Rainier",
+    "state": "WA",
+    "zip": "98576",
+    "phone": "360-446-1418",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tveten's Auto Clinic",
+    "address": "5425 Lakewood Towne Ctr Blvd SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-588-5201",
+    "source": "NWACA"
+  },
+  {
+    "name": "Tyler's Automotive",
+    "address": "12485 SW Main Street",
+    "city": "Tigard",
+    "state": "OR",
+    "zip": "97223",
+    "phone": "503-639-5588",
+    "source": "NWACA"
+  },
+  {
+    "name": "Unlimited Service - Bakerview",
+    "address": "2325 E Bakerview Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-734-2828",
+    "source": "NWACA"
+  },
+  {
+    "name": "Unlimited Service - Downtown",
+    "address": "1515 North Forest Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-734-4610",
+    "source": "NWACA"
+  },
+  {
+    "name": "Valley Automotive",
+    "address": "17621 SE 272nd Street",
+    "city": "Covington",
+    "state": "WA",
+    "zip": "98042",
+    "phone": "(425) 432-5476",
+    "source": "NWACA"
+  },
+  {
+    "name": "Van Loo's Auto Service, Inc",
+    "address": "205 Liberty Street",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "360-354-4277",
+    "source": "NWACA"
+  },
+  {
+    "name": "Vander Wal's Garage Inc",
+    "address": "321 S 2nd Street",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "(360) 426-8208",
+    "source": "NWACA"
+  },
+  {
+    "name": "Vic's Auto Center Inc",
+    "address": "15880 SW Boones Ferry Road",
+    "city": "Lake Oswego",
+    "state": "OR",
+    "zip": "97035",
+    "phone": "(503) 636-7896",
+    "source": "NWACA"
+  },
+  {
+    "name": "Village Autocare and Tires",
+    "address": "2724 NE 45th Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105",
+    "phone": "(206) 526-2345",
+    "source": "NWACA"
+  },
+  {
+    "name": "Warren Secord Automotive & Tire",
+    "address": "1127 West Smith Street",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "253-852-1492",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wayne's Garage",
+    "address": "333 Q Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97477",
+    "phone": "(541) 342-3941",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wenatchee Euro, LLC",
+    "address": "3781 N Clemons Street",
+    "city": "East Wenatchee",
+    "state": "WA",
+    "zip": "98802",
+    "phone": "(509) 888-7696",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wespaul's Automotive",
+    "address": "910 26th Street",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-6010",
+    "source": "NWACA"
+  },
+  {
+    "name": "West Seattle Autoworks",
+    "address": "7501 35th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 257-5344",
+    "source": "NWACA"
+  },
+  {
+    "name": "Westside Car Care",
+    "address": "1019 S 26th Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-457-1688",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wheatland Repair, LLC",
+    "address": "27496 McInnis Road",
+    "city": "Davenport",
+    "state": "WA",
+    "zip": "99122",
+    "phone": "(509) 690-0013",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wilderness Auto Service",
+    "address": "23701 Maple Valley Hwy",
+    "city": "Maple Valley",
+    "state": "WA",
+    "zip": "98038",
+    "phone": "425-432-1636",
+    "source": "NWACA"
+  },
+  {
+    "name": "Willand's Tech Auto",
+    "address": "2040 Vista Drive",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-384-1584",
+    "source": "NWACA"
+  },
+  {
+    "name": "Will's Auto & Truck Repair",
+    "address": "1105 2nd St SE",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98290",
+    "phone": "(360) 799-6933",
+    "source": "NWACA"
+  },
+  {
+    "name": "Wise Automotive LLC",
+    "address": "6936 Canyon Rd",
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926",
+    "phone": "(509) 962-2456",
+    "source": "NWACA"
+  },
+  {
+    "name": "Yakima Automotive Inc",
+    "address": "1 S 12th Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-248-7218",
+    "source": "NWACA"
+  },
+  {
+    "name": "Z Sport",
+    "address": "3532 Smith Ave",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201",
+    "phone": "(425) 259-4691",
+    "source": "NWACA"
+  },
+  {
+    "name": "Zahntech Automotive",
+    "address": "15215 NE 90th Street",
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98059-4568",
+    "phone": "425-861-8060",
+    "source": "NWACA"
+  },
+  {
+    "name": "Z's Car Care Inc",
+    "address": "402 SW Walnut Street",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "phone": "503-648-3552",
+    "source": "NWACA"
+  },
+  {
+    "name": "Zylstra Tire Factory",
+    "address": "501 Grover Street",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "(360) 354-4493",
+    "source": "NWACA"
+  },
+  {
+    "name": "15th Street Automotive",
+    "address": "116 10th Street SE",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "253-840-2250",
+    "source": "NWACA"
+  },
+  {
+    "name": "34th Street Garage",
+    "address": "2410 34th Ave W",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98199",
+    "phone": "206-283-3448",
+    "source": "NWACA"
+  },
+  {
+    "name": "360 Automotive & Repair",
+    "address": "6200 W Clearwater Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 572-2769",
+    "source": "NWACA"
+  },
+  {
+    "name": "360 Collision",
+    "address": "3833 168th Street NE Ste 8",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98223",
+    "phone": "(360) 515-7500",
+    "source": "NWACA"
+  },
+  {
+    "name": "808 Automotive, Inc.",
+    "address": "3954 Pacific Hwy E",
+    "city": "Hubbard",
+    "state": "OR",
+    "zip": "97032",
+    "phone": "(503) 852-2637",
+    "source": "NWACA"
+  }
+]

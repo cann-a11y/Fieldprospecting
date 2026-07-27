@@ -1,0 +1,6608 @@
+[
+  {
+    "name": "1-800-Radiator",
+    "address": "888 Aldo Ave, Santa Clara, CA 95054",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 567-8052",
+    "source": "ASCCA",
+    "id": 1
+  },
+  {
+    "name": "A & E Automotive",
+    "address": "1869 E Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 795-9825",
+    "source": "ASCCA",
+    "id": 2
+  },
+  {
+    "name": "A & M Automotive Inc",
+    "address": "31760 Mission Trail Suite B, Lake Elsinore, CA 92530",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "phone": "(951) 245-1562",
+    "source": "ASCCA",
+    "id": 3
+  },
+  {
+    "name": "A R Transmission",
+    "address": "1910 West McKinley Ave Unit 104, Fresno, CA 93728",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 485-8476",
+    "source": "ASCCA",
+    "id": 4
+  },
+  {
+    "name": "A Street Auto Service",
+    "address": "1263 State St, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 239-8600",
+    "source": "ASCCA",
+    "id": 5
+  },
+  {
+    "name": "A+ Automotive",
+    "address": "345 W College Ave STE B, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 843-4756",
+    "source": "ASCCA",
+    "id": 6
+  },
+  {
+    "name": "A+ Japanese Auto Repair",
+    "address": "780 Industrial Road, San Carlos, CA 94070",
+    "city": "San Carlos",
+    "state": "CA",
+    "phone": "(650) 595-2277",
+    "source": "ASCCA",
+    "id": 7
+  },
+  {
+    "name": "A-1 Lube & Tune",
+    "address": "4141 State St, Montclair, CA 91763",
+    "city": "Montclair",
+    "state": "CA",
+    "phone": "(909) 590-0466",
+    "source": "ASCCA",
+    "id": 8
+  },
+  {
+    "name": "ABC Smog Inc",
+    "address": "40851 Albrae St, Fremont, CA 94538",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 657-8988",
+    "source": "ASCCA",
+    "id": 9
+  },
+  {
+    "name": "Accurate Autoworks",
+    "address": "28 North Hill Ave, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 584-6632",
+    "source": "ASCCA",
+    "id": 10
+  },
+  {
+    "name": "Ace Automotive & Fuel Systems",
+    "address": "975 Richard Ave, Santa Clara, CA 95050",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 727-2838",
+    "source": "ASCCA",
+    "id": 11
+  },
+  {
+    "name": "Ackerman's Servicing Volvo",
+    "address": "2220 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 549-9330",
+    "source": "ASCCA",
+    "id": 12
+  },
+  {
+    "name": "Action Auto Inc",
+    "address": "9052 Walker St, Cypress, CA 90630",
+    "city": "Cypress",
+    "state": "CA",
+    "phone": "(714) 826-1880",
+    "source": "ASCCA",
+    "id": 13
+  },
+  {
+    "name": "Acurit Imports Inc",
+    "address": "5677 Redwood Dr #A-B, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-1424",
+    "source": "ASCCA",
+    "id": 14
+  },
+  {
+    "name": "Advance Muffler",
+    "address": "1234 East Walnut St, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-5656",
+    "source": "ASCCA",
+    "id": 15
+  },
+  {
+    "name": "Advanced Automotive",
+    "address": "3110 Railroad Ave, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 244-4423",
+    "source": "ASCCA",
+    "id": 16
+  },
+  {
+    "name": "Aero Auto Repair",
+    "address": "9756 Aero Drive, San Diego, CA 92123",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 467-9999",
+    "source": "ASCCA",
+    "id": 17
+  },
+  {
+    "name": "Affordable Auto Repair",
+    "address": "41604 Date St STE A, Murrieta, CA 92562",
+    "city": "Murrieta",
+    "state": "CA",
+    "phone": "(951) 677-2373",
+    "source": "ASCCA",
+    "id": 18
+  },
+  {
+    "name": "Ak Auto Repair",
+    "address": "814 East Cota Street, Santa Barbara, CA 93103",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 869-6233",
+    "source": "ASCCA",
+    "id": 19
+  },
+  {
+    "name": "Alex Romo Auto & Truck Repair",
+    "address": "1409 East Huntington Dr, Duarte, CA 91010",
+    "city": "Duarte",
+    "state": "CA",
+    "phone": "(626) 357-2631",
+    "source": "ASCCA",
+    "id": 20
+  },
+  {
+    "name": "All Flow Muffler & Auto Repair",
+    "address": "3900 Pacheco Blvd, Martinez, CA 94553",
+    "city": "Martinez",
+    "state": "CA",
+    "phone": "(925) 229-3044",
+    "source": "ASCCA",
+    "id": 21
+  },
+  {
+    "name": "All Time Gas & Diesel Repair",
+    "address": "610 South Vecino Dr, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 335-7427",
+    "source": "ASCCA",
+    "id": 22
+  },
+  {
+    "name": "All Wheel Auto Truck & RV Repair",
+    "address": "18730 Old Oasis Road, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 241-1010",
+    "source": "ASCCA",
+    "id": 23
+  },
+  {
+    "name": "All-Car Specialist Inc",
+    "address": "330 South Del Mar, San Gabriel, CA 91776",
+    "city": "San Gabriel",
+    "state": "CA",
+    "phone": "(626) 285-2205",
+    "source": "ASCCA",
+    "id": 24
+  },
+  {
+    "name": "Allied Auto Works Inc",
+    "address": "2073 Grant Road, Los Altos, CA 94024",
+    "city": "Los Altos",
+    "state": "CA",
+    "phone": "(650) 947-7228",
+    "source": "ASCCA",
+    "id": 25
+  },
+  {
+    "name": "Al's Jaguar and Land Rover",
+    "address": "3735 Newton Street, Torrance, CA 90505",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 373-8266",
+    "source": "ASCCA",
+    "id": 26
+  },
+  {
+    "name": "Ambassador Automotive Center",
+    "address": "4730 East Wesley Dr, Anaheim, CA 92807",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 970-2525",
+    "source": "ASCCA",
+    "id": 27
+  },
+  {
+    "name": "Anderson Automotive",
+    "address": "2966 Oak Street, Anderson, CA 96007",
+    "city": "Anderson",
+    "state": "CA",
+    "phone": "(530) 356-2134",
+    "source": "ASCCA",
+    "id": 28
+  },
+  {
+    "name": "Angels's Auto Repair Inc",
+    "address": "450 Agostino Road, San Gabriel, CA 91776",
+    "city": "San Gabriel",
+    "state": "CA",
+    "phone": "(626) 286-6202",
+    "source": "ASCCA",
+    "id": 29
+  },
+  {
+    "name": "Antelope Auto Repair",
+    "address": "195 South Main Street, Red Bluff, CA 96080",
+    "city": "Red Bluff",
+    "state": "CA",
+    "phone": "(530) 527-2270",
+    "source": "ASCCA",
+    "id": 30
+  },
+  {
+    "name": "Antonio's Custom Auto Body & Paint",
+    "address": "8484 Commerce Ave Suite B, San Diego, CA 92121",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 368-9249",
+    "source": "ASCCA",
+    "id": 31
+  },
+  {
+    "name": "Arcadia Ultimate Auto",
+    "address": "418 North First, Arcadia, CA 91006",
+    "city": "Arcadia",
+    "state": "CA",
+    "phone": "(626) 821-0262",
+    "source": "ASCCA",
+    "id": 32
+  },
+  {
+    "name": "Richard's Automotive (Arnerich)",
+    "address": "12345 Lake Blvd, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-2994",
+    "source": "ASCCA",
+    "id": 33
+  },
+  {
+    "name": "Art's Automotive",
+    "address": "2871 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 540-7093",
+    "source": "ASCCA",
+    "id": 34
+  },
+  {
+    "name": "Associated Auto Air & Radiator",
+    "address": "746 North Barranca Ave, Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 967-7341",
+    "source": "ASCCA",
+    "id": 35
+  },
+  {
+    "name": "Auto Glass Geeks",
+    "address": "3330 Reynard Way, San Diego, CA 92103",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 694-7728",
+    "source": "ASCCA",
+    "id": 36
+  },
+  {
+    "name": "Auto Precision",
+    "address": "1024 Service Place STE 101, Vista, CA 92084",
+    "city": "Vista",
+    "state": "CA",
+    "phone": "(760) 630-3377",
+    "source": "ASCCA",
+    "id": 37
+  },
+  {
+    "name": "Automax Service Center Newport Beach",
+    "address": "1081 Camelback Street, Newport Beach, CA 92660",
+    "city": "Newport Beach",
+    "state": "CA",
+    "phone": "(949) 756-3393",
+    "source": "ASCCA",
+    "id": 38
+  },
+  {
+    "name": "Autotrend Diagnostics",
+    "address": "2885 S Winchester Blvd Ste F, Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 866-5140",
+    "source": "ASCCA",
+    "id": 39
+  },
+  {
+    "name": "Autoworks",
+    "address": "2040 Eureka Way, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 605-1200",
+    "source": "ASCCA",
+    "id": 40
+  },
+  {
+    "name": "Ayers Automotive Repairs",
+    "address": "1301 Chapala St, Santa Barbara, CA 93101",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 962-7316",
+    "source": "ASCCA",
+    "id": 41
+  },
+  {
+    "name": "B & F Auto Air Specialist",
+    "address": "1601 Placentia Ave, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 646-4238",
+    "source": "ASCCA",
+    "id": 42
+  },
+  {
+    "name": "Bagge & Son Inc",
+    "address": "10417 Washington Blvd, Culver City, CA 90232",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 838-8485",
+    "source": "ASCCA",
+    "id": 43
+  },
+  {
+    "name": "Bauer German Car Repair",
+    "address": "322 West Foothill Blvd, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 963-5775",
+    "source": "ASCCA",
+    "id": 44
+  },
+  {
+    "name": "Bavaria Auto Center",
+    "address": "4441 North Rosemead Blvd, Rosemead, CA 91770",
+    "city": "Rosemead",
+    "state": "CA",
+    "phone": "(626) 287-5745",
+    "source": "ASCCA",
+    "id": 45
+  },
+  {
+    "name": "Belmont Auto Repair",
+    "address": "3720 East 4th St, Long Beach, CA 90814",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 439-0291",
+    "source": "ASCCA",
+    "id": 46
+  },
+  {
+    "name": "Berkeley Bob's",
+    "address": "2705 San Pablo Avenue, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 548-7140",
+    "source": "ASCCA",
+    "id": 47
+  },
+  {
+    "name": "Berkeley Minicar",
+    "address": "2498 San Pablo Ave, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 841-1221",
+    "source": "ASCCA",
+    "id": 48
+  },
+  {
+    "name": "Best Valley Smog and Auto",
+    "address": "23952 Alessandro Blvd Suite B, Moreno Valley, CA 92553",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "phone": "(951) 656-8281",
+    "source": "ASCCA",
+    "id": 49
+  },
+  {
+    "name": "Big O Tires and Services",
+    "address": "742 S Main Street, Sebastopol, CA 95472",
+    "city": "Sebastopol",
+    "state": "CA",
+    "phone": "(707) 398-5200",
+    "source": "ASCCA",
+    "id": 50
+  },
+  {
+    "name": "Bill's Auto Electric and Repair Inc",
+    "address": "356 West College Ave, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 546-2851",
+    "source": "ASCCA",
+    "id": 51
+  },
+  {
+    "name": "Bimmer & Benz Specialists",
+    "address": "1998 Placentia Ave, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 642-1410",
+    "source": "ASCCA",
+    "id": 52
+  },
+  {
+    "name": "Bimmer PhD",
+    "address": "1539 E Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-9222",
+    "source": "ASCCA",
+    "id": 53
+  },
+  {
+    "name": "Bistagne Bros Body Shop",
+    "address": "1400 East Chevy Chase Dr, Glendale, CA 91206",
+    "city": "Glendale",
+    "state": "CA",
+    "phone": "(818) 242-6876",
+    "source": "ASCCA",
+    "id": 54
+  },
+  {
+    "name": "Bob Lee's Automotive",
+    "address": "4623 Artesia Blvd Suite #1, Lawndale, CA 90260",
+    "city": "Lawndale",
+    "state": "CA",
+    "phone": "(310) 542-4239",
+    "source": "ASCCA",
+    "id": 55
+  },
+  {
+    "name": "Bob's Auto Repair",
+    "address": "4631 W Rosecrans Ave, Hawthorne, CA 90250",
+    "city": "Hawthorne",
+    "state": "CA",
+    "phone": "(310) 676-7770",
+    "source": "ASCCA",
+    "id": 56
+  },
+  {
+    "name": "Bonita Point Auto Care",
+    "address": "1495 East H Street, Chula Vista, CA 91910",
+    "city": "Chula Vista",
+    "state": "CA",
+    "phone": "(619) 421-7600",
+    "source": "ASCCA",
+    "id": 57
+  },
+  {
+    "name": "Bosch Automotive Inc",
+    "address": "821 North Petaluma Blvd, Petaluma, CA 94952",
+    "city": "Petaluma",
+    "state": "CA",
+    "phone": "(707) 763-5951",
+    "source": "ASCCA",
+    "id": 58
+  },
+  {
+    "name": "Bowman's College Center Garage",
+    "address": "4622 College Ave, San Diego, CA 92115",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 582-5258",
+    "source": "ASCCA",
+    "id": 59
+  },
+  {
+    "name": "Brad's Motor Werke's",
+    "address": "2635 Lavery Ct #7, Newbury Park, CA 91320",
+    "city": "Newbury Park",
+    "state": "CA",
+    "phone": "(805) 499-0083",
+    "source": "ASCCA",
+    "id": 60
+  },
+  {
+    "name": "Brake & Wheel Center",
+    "address": "1805 Washington Ave, San Leandro, CA 94577",
+    "city": "San Leandro",
+    "state": "CA",
+    "phone": "(510) 483-4575",
+    "source": "ASCCA",
+    "id": 61
+  },
+  {
+    "name": "Braun's Automotive Inc",
+    "address": "24660 Narbonne Ave, Lomita, CA 90717",
+    "city": "Lomita",
+    "state": "CA",
+    "phone": "(310) 325-4303",
+    "source": "ASCCA",
+    "id": 62
+  },
+  {
+    "name": "Brian Wood Automotive",
+    "address": "500 South Vermont St, Glendora, CA 91741",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 852-3700",
+    "source": "ASCCA",
+    "id": 63
+  },
+  {
+    "name": "Bryant Automotive",
+    "address": "2354 Churn Creek Road, Redding, CA 96002",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 222-3313",
+    "source": "ASCCA",
+    "id": 64
+  },
+  {
+    "name": "Burrough & Sons Automotive Inc",
+    "address": "5154 Sobrante Ave, El Sobrante, CA 94803",
+    "city": "El Sobrante",
+    "state": "CA",
+    "phone": "(510) 222-3330",
+    "source": "ASCCA",
+    "id": 65
+  },
+  {
+    "name": "Bussard's All Pro",
+    "address": "5312 York Blvd, Los Angeles, CA 90042",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 255-5566",
+    "source": "ASCCA",
+    "id": 66
+  },
+  {
+    "name": "BVA Inc",
+    "address": "1522 Broadway, Santa Monica, CA 90404",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 393-9889",
+    "source": "ASCCA",
+    "id": 67
+  },
+  {
+    "name": "C & T Auto Toyota Specialist",
+    "address": "1950 Leslie St, San Mateo, CA 94403",
+    "city": "San Mateo",
+    "state": "CA",
+    "phone": "(650) 341-3815",
+    "source": "ASCCA",
+    "id": 68
+  },
+  {
+    "name": "C H Topping & Co",
+    "address": "520 West Esther St, Long Beach, CA 90813",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 432-0901",
+    "source": "ASCCA",
+    "id": 69
+  },
+  {
+    "name": "California Coast Truck Repair",
+    "address": "11366 N Woodside Ave, Santee, CA 92071",
+    "city": "Santee",
+    "state": "CA",
+    "phone": "(858) 449-5494",
+    "source": "ASCCA",
+    "id": 70
+  },
+  {
+    "name": "Callas Rennsport",
+    "address": "19080 Hawthorne Blvd, Torrance, CA 90503",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 370-7038",
+    "source": "ASCCA",
+    "id": 71
+  },
+  {
+    "name": "Camara Auto Service Inc",
+    "address": "440 South K St, Tulare, CA 93274",
+    "city": "Tulare",
+    "state": "CA",
+    "phone": "(559) 688-5721",
+    "source": "ASCCA",
+    "id": 72
+  },
+  {
+    "name": "Camarillo Car Care Center",
+    "address": "2739 Daily Dr, Camarillo, CA 93010",
+    "city": "Camarillo",
+    "state": "CA",
+    "phone": "(805) 482-2853",
+    "source": "ASCCA",
+    "id": 73
+  },
+  {
+    "name": "Campbell Automotive",
+    "address": "28 East Rincon Ave, Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 378-0244",
+    "source": "ASCCA",
+    "id": 74
+  },
+  {
+    "name": "Campbell's Automotive",
+    "address": "3840 Foothill Blvd, La Crescenta, CA 91214",
+    "city": "La Crescenta",
+    "state": "CA",
+    "phone": "(818) 541-9288",
+    "source": "ASCCA",
+    "id": 75
+  },
+  {
+    "name": "Carlsbad Auto Service",
+    "address": "3181 Tyler Street, Carlsbad, CA 92008",
+    "city": "Carlsbad",
+    "state": "CA",
+    "phone": "(760) 924-9600",
+    "source": "ASCCA",
+    "id": 76
+  },
+  {
+    "name": "Castner's Auto Service Inc",
+    "address": "214 South Bradford Ave, Placentia, CA 92670",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 528-1311",
+    "source": "ASCCA",
+    "id": 77
+  },
+  {
+    "name": "Cecil's Hi-Tech Auto Care",
+    "address": "799 Davis St, Vacaville, CA 95687",
+    "city": "Vacaville",
+    "state": "CA",
+    "phone": "(707) 448-0861",
+    "source": "ASCCA",
+    "id": 78
+  },
+  {
+    "name": "Center Cities Automotive Inc",
+    "address": "16561 Leffingwell Road, Whittier, CA 90603",
+    "city": "Whittier",
+    "state": "CA",
+    "phone": "(562) 947-2919",
+    "source": "ASCCA",
+    "id": 79
+  },
+  {
+    "name": "Central Automotive Service Center",
+    "address": "1425 Autocenter Drive, Walnut Creek, CA 94597",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 932-6604",
+    "source": "ASCCA",
+    "id": 80
+  },
+  {
+    "name": "Certified Auto Repair Specialists",
+    "address": "1280 E Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-2220",
+    "source": "ASCCA",
+    "id": 81
+  },
+  {
+    "name": "Certified Automotive Specialists",
+    "address": "1825 E Route 66, Glendora, CA 91740",
+    "city": "Glendora",
+    "state": "CA",
+    "phone": "(626) 963-0814",
+    "source": "ASCCA",
+    "id": 82
+  },
+  {
+    "name": "Certified Smog Test & Repair",
+    "address": "1220 S State St Ste A, Hemet, CA 92543",
+    "city": "Hemet",
+    "state": "CA",
+    "phone": "(951) 836-4451",
+    "source": "ASCCA",
+    "id": 83
+  },
+  {
+    "name": "Charlie's Foreign Car",
+    "address": "751 2nd Street, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(760) 753-4969",
+    "source": "ASCCA",
+    "id": 84
+  },
+  {
+    "name": "Chico Car Care",
+    "address": "1369 E 19th St, Chico, CA 95928",
+    "city": "Chico",
+    "state": "CA",
+    "phone": "(530) 343-1130",
+    "source": "ASCCA",
+    "id": 85
+  },
+  {
+    "name": "Chino Autotech Inc",
+    "address": "4702 Chino Avenue Ste #1, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 627-0919",
+    "source": "ASCCA",
+    "id": 86
+  },
+  {
+    "name": "Classic German Motors",
+    "address": "1818 East Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 557-2240",
+    "source": "ASCCA",
+    "id": 87
+  },
+  {
+    "name": "Coastal Auto Repair",
+    "address": "1625 Garnet Avenue, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 220-1680",
+    "source": "ASCCA",
+    "id": 88
+  },
+  {
+    "name": "Complete Car Care Encinitas",
+    "address": "318A North El Camino Real, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(619) 977-7774",
+    "source": "ASCCA",
+    "id": 89
+  },
+  {
+    "name": "Connie & Dick's Service Center",
+    "address": "150 Olive Street, Claremont, CA 91711",
+    "city": "Claremont",
+    "state": "CA",
+    "phone": "(909) 626-5653",
+    "source": "ASCCA",
+    "id": 90
+  },
+  {
+    "name": "Continental Motor Works",
+    "address": "1101 Laurel Lane, San Luis Obispo, CA 93401",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "phone": "(805) 441-1051",
+    "source": "ASCCA",
+    "id": 91
+  },
+  {
+    "name": "Convoy Auto Repair",
+    "address": "3909 Convoy St, San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 560-9131",
+    "source": "ASCCA",
+    "id": 92
+  },
+  {
+    "name": "Coogler's Auto Repair",
+    "address": "990 Piner Rd, Santa Rosa, CA 95403",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 544-7277",
+    "source": "ASCCA",
+    "id": 93
+  },
+  {
+    "name": "Craig Johnson Automotive",
+    "address": "19140 E San Jose Avenue, Rowland Heights, CA 91748",
+    "city": "Rowland Heights",
+    "state": "CA",
+    "phone": "(626) 810-2281",
+    "source": "ASCCA",
+    "id": 94
+  },
+  {
+    "name": "Crestview Service Inc",
+    "address": "9201 Pico Blvd, Los Angeles, CA 90035",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 274-5845",
+    "source": "ASCCA",
+    "id": 95
+  },
+  {
+    "name": "Crown City Tire",
+    "address": "80 W Bellvue Drive, Pasadena, CA 91105",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 676-0659",
+    "source": "ASCCA",
+    "id": 96
+  },
+  {
+    "name": "Custom Alignment",
+    "address": "2599 Wyandotte St #A, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 961-5311",
+    "source": "ASCCA",
+    "id": 97
+  },
+  {
+    "name": "D & H Enterprises Auto Repair",
+    "address": "2689 Monument Boulevard, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 356-0683",
+    "source": "ASCCA",
+    "id": 98
+  },
+  {
+    "name": "Dale Bright's Auto Service",
+    "address": "5180 G St, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 628-0600",
+    "source": "ASCCA",
+    "id": 99
+  },
+  {
+    "name": "Dana Meyer Auto Care",
+    "address": "660 San Pablo Ave, Albany, CA 94706",
+    "city": "Albany",
+    "state": "CA",
+    "phone": "(510) 527-1938",
+    "source": "ASCCA",
+    "id": 100
+  },
+  {
+    "name": "Dan's Auto Center",
+    "address": "49329 Golden Oak Loop, Oakhurst, CA 93644",
+    "city": "Oakhurst",
+    "state": "CA",
+    "phone": "(559) 683-6006",
+    "source": "ASCCA",
+    "id": 101
+  },
+  {
+    "name": "Datsonville Automotive",
+    "address": "927 Howard Ave, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 348-8856",
+    "source": "ASCCA",
+    "id": 102
+  },
+  {
+    "name": "Davies Auto Care",
+    "address": "68300 Perez Rd, Cathedral City, CA 92234",
+    "city": "Cathedral City",
+    "state": "CA",
+    "phone": "(760) 328-6198",
+    "source": "ASCCA",
+    "id": 103
+  },
+  {
+    "name": "Del Mar Automotive",
+    "address": "2201 San Dieguito Dr, Del Mar, CA 92014",
+    "city": "Del Mar",
+    "state": "CA",
+    "phone": "(858) 755-2404",
+    "source": "ASCCA",
+    "id": 104
+  },
+  {
+    "name": "Dennis' Auto Repair",
+    "address": "1817 East Hammond, Fresno, CA 93703",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 264-6443",
+    "source": "ASCCA",
+    "id": 105
+  },
+  {
+    "name": "Dick & Ryan's Auto Repair",
+    "address": "1679 First St, Livermore, CA 94550",
+    "city": "Livermore",
+    "state": "CA",
+    "phone": "(925) 373-9055",
+    "source": "ASCCA",
+    "id": 106
+  },
+  {
+    "name": "Dick's Automotive Inc",
+    "address": "1550 Tollhouse Road, Clovis, CA 93611",
+    "city": "Clovis",
+    "state": "CA",
+    "phone": "(559) 299-2226",
+    "source": "ASCCA",
+    "id": 107
+  },
+  {
+    "name": "Diesel Tune",
+    "address": "10780 Fairford Avenue, Downey, CA 90241",
+    "city": "Downey",
+    "state": "CA",
+    "phone": "(562) 929-6554",
+    "source": "ASCCA",
+    "id": 108
+  },
+  {
+    "name": "Dieter's Independent Porsche",
+    "address": "1633 Market Street, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 234-8106",
+    "source": "ASCCA",
+    "id": 109
+  },
+  {
+    "name": "Domestic Diesel & Auto Service",
+    "address": "4588 Carter St, Chino, CA 91710",
+    "city": "Chino",
+    "state": "CA",
+    "phone": "(909) 627-0500",
+    "source": "ASCCA",
+    "id": 110
+  },
+  {
+    "name": "Don & John's Auto Repair",
+    "address": "1080 East El Camino Real, Sunnyvale, CA 94086",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "phone": "(408) 739-1119",
+    "source": "ASCCA",
+    "id": 111
+  },
+  {
+    "name": "Doral's Auto Repair",
+    "address": "2000 Merced Street, San Leandro, CA 94577",
+    "city": "San Leandro",
+    "state": "CA",
+    "phone": "(510) 352-4221",
+    "source": "ASCCA",
+    "id": 112
+  },
+  {
+    "name": "Dorso's Auto Repair",
+    "address": "3750 Bonde Way #1, Fremont, CA 94536",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 792-5315",
+    "source": "ASCCA",
+    "id": 113
+  },
+  {
+    "name": "Drive Rite Automotive Repair Inc",
+    "address": "2674 Old Redwood Highway, Windsor, CA 95492",
+    "city": "Windsor",
+    "state": "CA",
+    "phone": "(707) 838-0123",
+    "source": "ASCCA",
+    "id": 114
+  },
+  {
+    "name": "Driven Auto Care",
+    "address": "40931 Albrae St, Fremont, CA 94538",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 659-9718",
+    "source": "ASCCA",
+    "id": 115
+  },
+  {
+    "name": "Dualtone Automotive Inc",
+    "address": "4745 Mission Bay Dr, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 273-8745",
+    "source": "ASCCA",
+    "id": 116
+  },
+  {
+    "name": "Dublin Car Tek",
+    "address": "6008 Dougherty Road, Dublin, CA 94568",
+    "city": "Dublin",
+    "state": "CA",
+    "phone": "(925) 829-9300",
+    "source": "ASCCA",
+    "id": 117
+  },
+  {
+    "name": "Earthling Automotive",
+    "address": "615 Bayshore Blvd, San Francisco, CA 94124",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 875-9030",
+    "source": "ASCCA",
+    "id": 118
+  },
+  {
+    "name": "Economy Auto Center",
+    "address": "850 West Tenth Street, Azusa, CA 91702",
+    "city": "Azusa",
+    "state": "CA",
+    "phone": "(626) 334-8221",
+    "source": "ASCCA",
+    "id": 119
+  },
+  {
+    "name": "Ed Little Auto Service",
+    "address": "4318 South Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 390-7772",
+    "source": "ASCCA",
+    "id": 120
+  },
+  {
+    "name": "Ed's Automotive",
+    "address": "11637 Sherman Way #A, North Hollywood, CA 91605",
+    "city": "North Hollywood",
+    "state": "CA",
+    "phone": "(818) 982-5589",
+    "source": "ASCCA",
+    "id": 121
+  },
+  {
+    "name": "El Cajon Tire Pros",
+    "address": "1253 N 2nd Street, El Cajon, CA 92021",
+    "city": "El Cajon",
+    "state": "CA",
+    "phone": "(619) 440-8635",
+    "source": "ASCCA",
+    "id": 122
+  },
+  {
+    "name": "Essential Fleet Services LLC",
+    "address": "1435 Baechtel Rd Suite B, Willits, CA 95490",
+    "city": "Willits",
+    "state": "CA",
+    "phone": "(707) 841-3080",
+    "source": "ASCCA",
+    "id": 123
+  },
+  {
+    "name": "Euro Clinic",
+    "address": "3465 Victor Street, Santa Clara, CA 95054",
+    "city": "Santa Clara",
+    "state": "CA",
+    "phone": "(408) 703-8226",
+    "source": "ASCCA",
+    "id": 124
+  },
+  {
+    "name": "EuroFix FlatSix",
+    "address": "328 N El Camino Real Suite A, Encinitas, CA 92024",
+    "city": "Encinitas",
+    "state": "CA",
+    "phone": "(760) 452-6260",
+    "source": "ASCCA",
+    "id": 125
+  },
+  {
+    "name": "European Auto Repair",
+    "address": "1573 Third Avenue, Walnut Creek, CA 94597",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 944-5606",
+    "source": "ASCCA",
+    "id": 126
+  },
+  {
+    "name": "European Auto Service",
+    "address": "18520 Wyandotte St, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(818) 343-7284",
+    "source": "ASCCA",
+    "id": 127
+  },
+  {
+    "name": "Eye Street Automotive",
+    "address": "2429 Eye Street, Bakersfield, CA 93301",
+    "city": "Bakersfield",
+    "state": "CA",
+    "phone": "(661) 631-5765",
+    "source": "ASCCA",
+    "id": 128
+  },
+  {
+    "name": "Family Auto Service",
+    "address": "2417 Alpine Blvd, Alpine, CA 91910",
+    "city": "Alpine",
+    "state": "CA",
+    "phone": "(619) 383-2682",
+    "source": "ASCCA",
+    "id": 129
+  },
+  {
+    "name": "Fastlane Auto Repair Inc",
+    "address": "687 N Benson Ave Suite D, Upland, CA 91786",
+    "city": "Upland",
+    "state": "CA",
+    "phone": "(909) 608-7473",
+    "source": "ASCCA",
+    "id": 130
+  },
+  {
+    "name": "Finwall's Diagnostic Auto",
+    "address": "1532 South Oregon St, Yreka, CA 96097",
+    "city": "Yreka",
+    "state": "CA",
+    "phone": "(530) 842-3435",
+    "source": "ASCCA",
+    "id": 131
+  },
+  {
+    "name": "Fitzgeralds Auto Care",
+    "address": "2066 Placentia Avenue, Costa Mesa, CA 92627",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "phone": "(949) 548-8877",
+    "source": "ASCCA",
+    "id": 132
+  },
+  {
+    "name": "FNP Auto",
+    "address": "11762 Western Ave Unit A, Stanton, CA 90680",
+    "city": "Stanton",
+    "state": "CA",
+    "phone": "(714) 898-7600",
+    "source": "ASCCA",
+    "id": 133
+  },
+  {
+    "name": "Fontes Auto Repair",
+    "address": "11580 West Pico Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 473-6480",
+    "source": "ASCCA",
+    "id": 134
+  },
+  {
+    "name": "Fort Bragg Transmission & Auto",
+    "address": "701 S Franklin St, Fort Bragg, CA 95437",
+    "city": "Fort Bragg",
+    "state": "CA",
+    "phone": "(707) 964-7960",
+    "source": "ASCCA",
+    "id": 135
+  },
+  {
+    "name": "Four Car Garage Inc",
+    "address": "609 California Drive, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 342-1406",
+    "source": "ASCCA",
+    "id": 136
+  },
+  {
+    "name": "Fox Service Center",
+    "address": "1018 West Orangethorpe Ave, Fullerton, CA 92833",
+    "city": "Fullerton",
+    "state": "CA",
+    "phone": "(714) 525-3239",
+    "source": "ASCCA",
+    "id": 137
+  },
+  {
+    "name": "Frank's Auto Service & Repair Inc",
+    "address": "1255 Boulevard Way, Walnut Creek, CA 94595",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 942-3677",
+    "source": "ASCCA",
+    "id": 138
+  },
+  {
+    "name": "Frank's Automotive",
+    "address": "1520 South J Street, Tulare, CA 93274",
+    "city": "Tulare",
+    "state": "CA",
+    "phone": "(559) 688-7384",
+    "source": "ASCCA",
+    "id": 139
+  },
+  {
+    "name": "Fred's Foreign and Domestic Car Repair",
+    "address": "16875 Joleen Way #100, Morgan Hill, CA 95037",
+    "city": "Morgan Hill",
+    "state": "CA",
+    "phone": "(408) 779-8480",
+    "source": "ASCCA",
+    "id": 140
+  },
+  {
+    "name": "Fremont & Purdon Inc",
+    "address": "836 East Orange Grove, Pasadena, CA 91104",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 795-6282",
+    "source": "ASCCA",
+    "id": 141
+  },
+  {
+    "name": "Fremont Auto Center",
+    "address": "320 Mowry Avenue, Fremont, CA 94536",
+    "city": "Fremont",
+    "state": "CA",
+    "phone": "(510) 744-1800",
+    "source": "ASCCA",
+    "id": 142
+  },
+  {
+    "name": "Fritz's Auto Repair",
+    "address": "22060 Palo Way, Palo Cedro, CA 96073",
+    "city": "Palo Cedro",
+    "state": "CA",
+    "phone": "(530) 547-4446",
+    "source": "ASCCA",
+    "id": 143
+  },
+  {
+    "name": "Future Auto Service",
+    "address": "820 S Victory Blvd, Burbank, CA 91502",
+    "city": "Burbank",
+    "state": "CA",
+    "phone": "(213) 479-7997",
+    "source": "ASCCA",
+    "id": 144
+  },
+  {
+    "name": "G & G Auto Repair",
+    "address": "3410 Fruitvale Ave Ste B, Bakersfield, CA 93308",
+    "city": "Bakersfield",
+    "state": "CA",
+    "phone": "(661) 769-7957",
+    "source": "ASCCA",
+    "id": 145
+  },
+  {
+    "name": "G. Roman's Transmission Service",
+    "address": "922 North Dutton Avenue, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 566-4662",
+    "source": "ASCCA",
+    "id": 146
+  },
+  {
+    "name": "Garage 47",
+    "address": "4701 El Camino Ave, Carmichael, CA 95608",
+    "city": "Carmichael",
+    "state": "CA",
+    "phone": "(916) 972-1872",
+    "source": "ASCCA",
+    "id": 147
+  },
+  {
+    "name": "GDA Enterprises",
+    "address": "1801 West Arrow Route, Upland, CA 91786",
+    "city": "Upland",
+    "state": "CA",
+    "phone": "(909) 946-2282",
+    "source": "ASCCA",
+    "id": 148
+  },
+  {
+    "name": "Gene's Auto Repair",
+    "address": "37 Tennessee Street, Vallejo, CA 94590",
+    "city": "Vallejo",
+    "state": "CA",
+    "phone": "(707) 642-1900",
+    "source": "ASCCA",
+    "id": 149
+  },
+  {
+    "name": "Gerber's Auto Services",
+    "address": "2421 Village Lane #E, Cambria, CA 93428",
+    "city": "Cambria",
+    "state": "CA",
+    "phone": "(805) 927-8444",
+    "source": "ASCCA",
+    "id": 150
+  },
+  {
+    "name": "German Auto Repair Inc",
+    "address": "6622 N. Blackstone Avenue, Fresno, CA 93710",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 438-6508",
+    "source": "ASCCA",
+    "id": 151
+  },
+  {
+    "name": "German Auto Sport LLC",
+    "address": "2396 San Pablo Avenue, Berkeley, CA 94702",
+    "city": "Berkeley",
+    "state": "CA",
+    "phone": "(510) 525-6000",
+    "source": "ASCCA",
+    "id": 152
+  },
+  {
+    "name": "GIC Car Clinic",
+    "address": "375 Bird Avenue, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 279-5510",
+    "source": "ASCCA",
+    "id": 153
+  },
+  {
+    "name": "Gilbert Motor Service",
+    "address": "2100 W Valley, Alhambra, CA 91803",
+    "city": "Alhambra",
+    "state": "CA",
+    "phone": "(626) 282-0644",
+    "source": "ASCCA",
+    "id": 154
+  },
+  {
+    "name": "Gilmores Auto Service",
+    "address": "2151 N Broadway, Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 939-9430",
+    "source": "ASCCA",
+    "id": 155
+  },
+  {
+    "name": "Glenn's Auto",
+    "address": "12441 Woodruff Avenue, Downey, CA 90241",
+    "city": "Downey",
+    "state": "CA",
+    "phone": "(562) 861-5111",
+    "source": "ASCCA",
+    "id": 156
+  },
+  {
+    "name": "Golden Gear Automotive",
+    "address": "282 South Main Street, Sebastopol, CA 95472",
+    "city": "Sebastopol",
+    "state": "CA",
+    "phone": "(707) 329-6105",
+    "source": "ASCCA",
+    "id": 157
+  },
+  {
+    "name": "Golden Hammer",
+    "address": "2231 Butler Ave., Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 479-4311",
+    "source": "ASCCA",
+    "id": 158
+  },
+  {
+    "name": "Golden Wrench Automotive",
+    "address": "241 Emerald Dr Suite B, Vista, CA 92083",
+    "city": "Vista",
+    "state": "CA",
+    "phone": "(760) 940-6060",
+    "source": "ASCCA",
+    "id": 159
+  },
+  {
+    "name": "Greg Solow's Engine Room",
+    "address": "125 Front St, Santa Cruz, CA 95060",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "phone": "(831) 429-1800",
+    "source": "ASCCA",
+    "id": 160
+  },
+  {
+    "name": "Gregg's Mission Viejo Mobile",
+    "address": "23002 Alicia Parkway, Mission Viejo, CA 92692",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "phone": "(949) 586-7902",
+    "source": "ASCCA",
+    "id": 161
+  },
+  {
+    "name": "Greg's Automotive",
+    "address": "1641 N. Magnolia Avenue, El Cajon, CA 92020",
+    "city": "El Cajon",
+    "state": "CA",
+    "phone": "(619) 440-4337",
+    "source": "ASCCA",
+    "id": 162
+  },
+  {
+    "name": "Griffin's Auto Truck-Air",
+    "address": "1542 State St, San Diego, CA 92101",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 234-7991",
+    "source": "ASCCA",
+    "id": 163
+  },
+  {
+    "name": "Gustafson Bros Inc",
+    "address": "19161 Gothard St, Huntington Beach, CA 92648",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "phone": "(714) 847-5600",
+    "source": "ASCCA",
+    "id": 164
+  },
+  {
+    "name": "Hamilton Alignment & Brake Service",
+    "address": "424 North East St, Anaheim, CA 92805",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 535-4100",
+    "source": "ASCCA",
+    "id": 165
+  },
+  {
+    "name": "Hans Auto Repair",
+    "address": "384 Olympia Avenue, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 583-9820",
+    "source": "ASCCA",
+    "id": 166
+  },
+  {
+    "name": "Harbor Brakes LLC",
+    "address": "13692 Harbor Blvd, Garden Grove, CA 92843",
+    "city": "Garden Grove",
+    "state": "CA",
+    "phone": "(714) 539-1503",
+    "source": "ASCCA",
+    "id": 167
+  },
+  {
+    "name": "Hartzel Automotive",
+    "address": "510 California St, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 394-6002",
+    "source": "ASCCA",
+    "id": 168
+  },
+  {
+    "name": "Homer's Auto Services",
+    "address": "148 East Lemon, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 358-6259",
+    "source": "ASCCA",
+    "id": 169
+  },
+  {
+    "name": "Howard Brown & Sons",
+    "address": "11758 West Olympic Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 477-3934",
+    "source": "ASCCA",
+    "id": 170
+  },
+  {
+    "name": "Hudson Automotive",
+    "address": "186 South Blvd, San Mateo, CA 94402",
+    "city": "San Mateo",
+    "state": "CA",
+    "phone": "(650) 344-4800",
+    "source": "ASCCA",
+    "id": 171
+  },
+  {
+    "name": "Import Auto Clinic",
+    "address": "3401 East La Palma Ave, Anaheim, CA 92806",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 632-0100",
+    "source": "ASCCA",
+    "id": 172
+  },
+  {
+    "name": "International Motors",
+    "address": "68-795 Ramon Road, Cathedral City, CA 92234",
+    "city": "Cathedral City",
+    "state": "CA",
+    "phone": "(760) 328-6646",
+    "source": "ASCCA",
+    "id": 173
+  },
+  {
+    "name": "J and K Automotive",
+    "address": "335 North Dawson Drive, Camarillo, CA 93012",
+    "city": "Camarillo",
+    "state": "CA",
+    "phone": "(805) 482-7857",
+    "source": "ASCCA",
+    "id": 174
+  },
+  {
+    "name": "J S Auto Service",
+    "address": "2028-30 South San Pedro St, Los Angeles, CA 90011",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(213) 749-9750",
+    "source": "ASCCA",
+    "id": 175
+  },
+  {
+    "name": "James Automotive",
+    "address": "2208 Imperial Ave, San Diego, CA 92102",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 239-2208",
+    "source": "ASCCA",
+    "id": 176
+  },
+  {
+    "name": "Japanese Automotive Center",
+    "address": "1846 Del Amo Blvd., Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 618-0777",
+    "source": "ASCCA",
+    "id": 177
+  },
+  {
+    "name": "Jasper's Auto Service Inc",
+    "address": "11648 Artesia Blvd, Artesia, CA 90701",
+    "city": "Artesia",
+    "state": "CA",
+    "phone": "(562) 865-1761",
+    "source": "ASCCA",
+    "id": 178
+  },
+  {
+    "name": "Jenkins Automotive",
+    "address": "809 East Center, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 732-0843",
+    "source": "ASCCA",
+    "id": 179
+  },
+  {
+    "name": "Jerry's Auto Repair",
+    "address": "11881 Magnolia Ave Suite 25, Riverside, CA 92503",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 351-4400",
+    "source": "ASCCA",
+    "id": 180
+  },
+  {
+    "name": "JJ Auto Repair",
+    "address": "6300 Brentwood Blvd., Brentwood, CA 94513",
+    "city": "Brentwood",
+    "state": "CA",
+    "phone": "(925) 513-5927",
+    "source": "ASCCA",
+    "id": 181
+  },
+  {
+    "name": "JM Garage",
+    "address": "1536 W Marinette Ave Unit A, Exeter, CA 93221",
+    "city": "Exeter",
+    "state": "CA",
+    "phone": "(559) 786-0137",
+    "source": "ASCCA",
+    "id": 182
+  },
+  {
+    "name": "Joe Gallardo's Auto Service",
+    "address": "6305 Pacific St, Rocklin, CA 95677",
+    "city": "Rocklin",
+    "state": "CA",
+    "phone": "(916) 782-5776",
+    "source": "ASCCA",
+    "id": 183
+  },
+  {
+    "name": "John's Automotive Care",
+    "address": "6267 Riverdale Street, San Diego, CA 92120",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 280-9315",
+    "source": "ASCCA",
+    "id": 184
+  },
+  {
+    "name": "John's Automotive Care - La Mesa",
+    "address": "7445 University Ave., La Mesa, CA 91941",
+    "city": "La Mesa",
+    "state": "CA",
+    "phone": "(619) 461-3600",
+    "source": "ASCCA",
+    "id": 185
+  },
+  {
+    "name": "John's Automotive Electrical",
+    "address": "51 Bresciani Ln, Quincy, CA 95971",
+    "city": "Quincy",
+    "state": "CA",
+    "phone": "(530) 283-5555",
+    "source": "ASCCA",
+    "id": 186
+  },
+  {
+    "name": "Jo's Garage Inc",
+    "address": "120 E. Valley Blvd., Alhambra, CA 91801",
+    "city": "Alhambra",
+    "state": "CA",
+    "phone": "(626) 872-0705",
+    "source": "ASCCA",
+    "id": 187
+  },
+  {
+    "name": "JT's PRO Smog",
+    "address": "2786 S. Market Street, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-2278",
+    "source": "ASCCA",
+    "id": 188
+  },
+  {
+    "name": "K&S Automotive LLC",
+    "address": "8159 Lindley Ave, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(323) 447-0199",
+    "source": "ASCCA",
+    "id": 189
+  },
+  {
+    "name": "Karco Specialties",
+    "address": "721 North Batavia St, Orange, CA 92868",
+    "city": "Orange",
+    "state": "CA",
+    "phone": "(714) 532-6893",
+    "source": "ASCCA",
+    "id": 190
+  },
+  {
+    "name": "Karsten Imports",
+    "address": "5538 Fulton Ave, Van Nuys, CA 91401",
+    "city": "Van Nuys",
+    "state": "CA",
+    "phone": "(818) 994-3311",
+    "source": "ASCCA",
+    "id": 191
+  },
+  {
+    "name": "Ken Daniels Auto Service",
+    "address": "3507 Oceanview, Glendale, CA 91208",
+    "city": "Glendale",
+    "state": "CA",
+    "phone": "(818) 249-2886",
+    "source": "ASCCA",
+    "id": 192
+  },
+  {
+    "name": "Kuma Automotive Inc",
+    "address": "1618 Sacramento St., Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 215-0224",
+    "source": "ASCCA",
+    "id": 193
+  },
+  {
+    "name": "Larry's Union Service",
+    "address": "1100 Mission Street, South Pasadena, CA 91030",
+    "city": "South Pasadena",
+    "state": "CA",
+    "phone": "(626) 799-2497",
+    "source": "ASCCA",
+    "id": 194
+  },
+  {
+    "name": "Larsen Auto Care",
+    "address": "940 Petaluma Hill Road, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 535-0720",
+    "source": "ASCCA",
+    "id": 195
+  },
+  {
+    "name": "Larsen Automotive",
+    "address": "10707 Jefferson Blvd., Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 838-7395",
+    "source": "ASCCA",
+    "id": 196
+  },
+  {
+    "name": "Leonardi Automotive",
+    "address": "7426 Redwood Blvd., Novato, CA 94945",
+    "city": "Novato",
+    "state": "CA",
+    "phone": "(415) 408-5904",
+    "source": "ASCCA",
+    "id": 197
+  },
+  {
+    "name": "Lex Mastertech",
+    "address": "1551 E. Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 765-6190",
+    "source": "ASCCA",
+    "id": 198
+  },
+  {
+    "name": "Liebsack & Son Auto",
+    "address": "1928 Redondo Beach Blvd, Gardena, CA 90247",
+    "city": "Gardena",
+    "state": "CA",
+    "phone": "(310) 324-0463",
+    "source": "ASCCA",
+    "id": 199
+  },
+  {
+    "name": "Lightfoot's Garage",
+    "address": "24727 Narbonne Ave, Lomita, CA 90717",
+    "city": "Lomita",
+    "state": "CA",
+    "phone": "(310) 326-4657",
+    "source": "ASCCA",
+    "id": 200
+  },
+  {
+    "name": "Lima Auto Repair",
+    "address": "1136 S. Myrtle Ave., Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 408-5036",
+    "source": "ASCCA",
+    "id": 201
+  },
+  {
+    "name": "Locus Street Auto Repair",
+    "address": "905 Locust Street, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 215-3112",
+    "source": "ASCCA",
+    "id": 202
+  },
+  {
+    "name": "Los Gatos Auto Service",
+    "address": "1460 White Oaks Rd., Campbell, CA 95008",
+    "city": "Campbell",
+    "state": "CA",
+    "phone": "(408) 377-1751",
+    "source": "ASCCA",
+    "id": 203
+  },
+  {
+    "name": "Loyola Automotive",
+    "address": "8314 Lincoln Blvd, Los Angeles, CA 90045",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 670-0822",
+    "source": "ASCCA",
+    "id": 204
+  },
+  {
+    "name": "Luis Lopez Automotive Inc",
+    "address": "2751 Fletcher Drive, Los Angeles, CA 90039",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 665-0166",
+    "source": "ASCCA",
+    "id": 205
+  },
+  {
+    "name": "M Service",
+    "address": "2008 Mt. Diablo Blvd, Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 932-8744",
+    "source": "ASCCA",
+    "id": 206
+  },
+  {
+    "name": "M&M Alternators & Batteries Auto Care",
+    "address": "121 N Mt Vernon Ave, San Bernardino, CA 92410",
+    "city": "San Bernardino",
+    "state": "CA",
+    "phone": "(909) 888-0907",
+    "source": "ASCCA",
+    "id": 207
+  },
+  {
+    "name": "Mahneke Motors",
+    "address": "5727 Thornwood Dr, Goleta, CA 93117",
+    "city": "Goleta",
+    "state": "CA",
+    "phone": "(805) 681-0021",
+    "source": "ASCCA",
+    "id": 208
+  },
+  {
+    "name": "Marin Automotive",
+    "address": "1810 Sir Francis Drake Blvd, Fairfax, CA 94930",
+    "city": "Fairfax",
+    "state": "CA",
+    "phone": "(415) 785-7658",
+    "source": "ASCCA",
+    "id": 209
+  },
+  {
+    "name": "Marty Vanich Auto Repair",
+    "address": "2629 Juniper Lane, Sacramento, CA 95825",
+    "city": "Sacramento",
+    "state": "CA",
+    "phone": "(916) 483-7988",
+    "source": "ASCCA",
+    "id": 210
+  },
+  {
+    "name": "Mastertech",
+    "address": "2801 Industry St, Oceanside, CA 92054",
+    "city": "Oceanside",
+    "state": "CA",
+    "phone": "(760) 433-5760",
+    "source": "ASCCA",
+    "id": 211
+  },
+  {
+    "name": "Maxed Performance",
+    "address": "7281 Autopark Dr, Huntington Beach, CA 92648",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "phone": "(714) 848-1730",
+    "source": "ASCCA",
+    "id": 212
+  },
+  {
+    "name": "Mazda's Plus LLC",
+    "address": "1400 North 9th Street Ste 21, Modesto, CA 95350",
+    "city": "Modesto",
+    "state": "CA",
+    "phone": "(209) 571-8664",
+    "source": "ASCCA",
+    "id": 213
+  },
+  {
+    "name": "MCM Jobes",
+    "address": "1824 Yajome St, Napa, CA 94559",
+    "city": "Napa",
+    "state": "CA",
+    "phone": "(707) 252-8802",
+    "source": "ASCCA",
+    "id": 214
+  },
+  {
+    "name": "Meissner Automotive",
+    "address": "811 East Charleston Road, Palo Alto, CA 94303",
+    "city": "Palo Alto",
+    "state": "CA",
+    "phone": "(650) 494-3804",
+    "source": "ASCCA",
+    "id": 215
+  },
+  {
+    "name": "Metric Motors",
+    "address": "3046 West Center Street, Anderson, CA 96007",
+    "city": "Anderson",
+    "state": "CA",
+    "phone": "(530) 365-3327",
+    "source": "ASCCA",
+    "id": 216
+  },
+  {
+    "name": "Michael & Co Inc",
+    "address": "380 Lincoln Ave, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 286-2988",
+    "source": "ASCCA",
+    "id": 217
+  },
+  {
+    "name": "Mike Larbre Automotive",
+    "address": "18155 Sonoma Hwy, Sonoma, CA 95476",
+    "city": "Sonoma",
+    "state": "CA",
+    "phone": "(707) 996-3365",
+    "source": "ASCCA",
+    "id": 218
+  },
+  {
+    "name": "Mike's Foreign Car Inc",
+    "address": "2818 East Miraloma Ave, Anaheim, CA 92806",
+    "city": "Anaheim",
+    "state": "CA",
+    "phone": "(714) 630-7113",
+    "source": "ASCCA",
+    "id": 219
+  },
+  {
+    "name": "Minsky Mercedes & BMW",
+    "address": "3727 Convoy St Suite B, San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 467-1304",
+    "source": "ASCCA",
+    "id": 220
+  },
+  {
+    "name": "Miramar Auto Repair - Japanese Auto Plus",
+    "address": "6696 Miramar Rd Ste I, San Diego, CA 92121",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 549-1600",
+    "source": "ASCCA",
+    "id": 221
+  },
+  {
+    "name": "Miramar Automotive and Transmission",
+    "address": "9499 Kearny Villa Road Ste 109, San Diego, CA 92126",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 578-2651",
+    "source": "ASCCA",
+    "id": 222
+  },
+  {
+    "name": "Mission Auto Care",
+    "address": "3596 Mission Ave, Oceanside, CA 92058",
+    "city": "Oceanside",
+    "state": "CA",
+    "phone": "(760) 722-0231",
+    "source": "ASCCA",
+    "id": 223
+  },
+  {
+    "name": "Modderman Service Inc",
+    "address": "2599 Wyandotte Street Unit B, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 967-3213",
+    "source": "ASCCA",
+    "id": 224
+  },
+  {
+    "name": "Modesti's Car Care Center",
+    "address": "12121 Jefferson Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 827-2400",
+    "source": "ASCCA",
+    "id": 225
+  },
+  {
+    "name": "Monkey Wrenches Inc",
+    "address": "8130 Brentwood Blvd, Brentwood, CA 94513",
+    "city": "Brentwood",
+    "state": "CA",
+    "phone": "(925) 634-4145",
+    "source": "ASCCA",
+    "id": 226
+  },
+  {
+    "name": "Morris Automotive",
+    "address": "1331 Colorado Ave, Santa Monica, CA 90404",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 451-3149",
+    "source": "ASCCA",
+    "id": 227
+  },
+  {
+    "name": "Motoring Specialists Inc",
+    "address": "742 East Main Street, Vacaville, CA 95688",
+    "city": "Vacaville",
+    "state": "CA",
+    "phone": "(707) 448-1282",
+    "source": "ASCCA",
+    "id": 228
+  },
+  {
+    "name": "Munoz's Auto Repair",
+    "address": "401-B Old Coast Highway, Santa Barbara, CA 93103",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 963-1121",
+    "source": "ASCCA",
+    "id": 229
+  },
+  {
+    "name": "Murrieta Auto Repair",
+    "address": "26540 Jefferson Avenue Suite F, Murrieta, CA 92562",
+    "city": "Murrieta",
+    "state": "CA",
+    "phone": "(951) 698-4222",
+    "source": "ASCCA",
+    "id": 230
+  },
+  {
+    "name": "Nishikawa Auto Service",
+    "address": "510 South Fair Oaks, Pasadena, CA 91105",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-4372",
+    "source": "ASCCA",
+    "id": 231
+  },
+  {
+    "name": "North Hollywood Auto Repair",
+    "address": "5451 Tujunga Avenue, North Hollywood, CA 91601",
+    "city": "North Hollywood",
+    "state": "CA",
+    "phone": "(818) 769-2334",
+    "source": "ASCCA",
+    "id": 232
+  },
+  {
+    "name": "North Star Motors Inc",
+    "address": "3200 Railroad Ave., Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 244-5050",
+    "source": "ASCCA",
+    "id": 233
+  },
+  {
+    "name": "O.C. Automotive and Diagnostics",
+    "address": "731 West Whittier Blvd Suite A, La Habra, CA 90631",
+    "city": "La Habra",
+    "state": "CA",
+    "phone": "(562) 448-3497",
+    "source": "ASCCA",
+    "id": 234
+  },
+  {
+    "name": "Okimoto's Automotive Center Inc",
+    "address": "16400 South Pioneer Blvd, Norwalk, CA 90650",
+    "city": "Norwalk",
+    "state": "CA",
+    "phone": "(562) 926-7317",
+    "source": "ASCCA",
+    "id": 235
+  },
+  {
+    "name": "Omega Automotive",
+    "address": "8601 Reseda Blvd., Northridge, CA 91324",
+    "city": "Northridge",
+    "state": "CA",
+    "phone": "(818) 701-4061",
+    "source": "ASCCA",
+    "id": 236
+  },
+  {
+    "name": "One Stop Auto Care",
+    "address": "4695 Eagle Rock Blvd, Los Angeles, CA 90041",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(323) 257-5876",
+    "source": "ASCCA",
+    "id": 237
+  },
+  {
+    "name": "Orinda Motors Inc",
+    "address": "63 Orinda Way, Orinda, CA 94563",
+    "city": "Orinda",
+    "state": "CA",
+    "phone": "(925) 519-2371",
+    "source": "ASCCA",
+    "id": 238
+  },
+  {
+    "name": "Our King Auto Repair",
+    "address": "930 E. Arrow Hwy, Covina, CA 91724",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 915-1657",
+    "source": "ASCCA",
+    "id": 239
+  },
+  {
+    "name": "Outwest Auto",
+    "address": "53 Nove Way, Valley Springs, CA 95252",
+    "city": "Valley Springs",
+    "state": "CA",
+    "phone": "(209) 772-9662",
+    "source": "ASCCA",
+    "id": 240
+  },
+  {
+    "name": "Pacific Automotive",
+    "address": "5181 Santa Fe Street, San Diego, CA 92109",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 483-1565",
+    "source": "ASCCA",
+    "id": 241
+  },
+  {
+    "name": "Pacific Motor Service",
+    "address": "550 East Franklin Street, Monterey, CA 93940",
+    "city": "Monterey",
+    "state": "CA",
+    "phone": "(831) 375-9571",
+    "source": "ASCCA",
+    "id": 242
+  },
+  {
+    "name": "Pasadena Automotive Repair",
+    "address": "2364 E. Foothill Blvd, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 793-1800",
+    "source": "ASCCA",
+    "id": 243
+  },
+  {
+    "name": "Pat's Garage",
+    "address": "1090 26th St, San Francisco, CA 94107",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 647-4500",
+    "source": "ASCCA",
+    "id": 244
+  },
+  {
+    "name": "Paul's Automotive Service Center",
+    "address": "5146 Van Nuys Blvd., Sherman Oaks, CA 91403",
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "phone": "(818) 783-3997",
+    "source": "ASCCA",
+    "id": 245
+  },
+  {
+    "name": "Payless Transmission & Clutch",
+    "address": "1550 North Effie St #101, Fresno, CA 93703",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 226-3000",
+    "source": "ASCCA",
+    "id": 246
+  },
+  {
+    "name": "Perry's Automotive Inc",
+    "address": "660 Twin View Blvd, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 241-8544",
+    "source": "ASCCA",
+    "id": 247
+  },
+  {
+    "name": "Pete's Autohaus",
+    "address": "1725 Border Ave., Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 320-3033",
+    "source": "ASCCA",
+    "id": 248
+  },
+  {
+    "name": "Pete's Precision Auto",
+    "address": "310 Trousdale Suite A, Chula Vista, CA 91910",
+    "city": "Chula Vista",
+    "state": "CA",
+    "phone": "(619) 426-2880",
+    "source": "ASCCA",
+    "id": 249
+  },
+  {
+    "name": "Placentia Super Service",
+    "address": "643 South Melrose St, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 528-1828",
+    "source": "ASCCA",
+    "id": 250
+  },
+  {
+    "name": "Popular Mechanix",
+    "address": "252 14th Street, San Francisco, CA 94103",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "(415) 621-0376",
+    "source": "ASCCA",
+    "id": 251
+  },
+  {
+    "name": "Portola Valley Garage",
+    "address": "4170 Alpine Road, Portola Valley, CA 94028",
+    "city": "Portola Valley",
+    "state": "CA",
+    "phone": "(650) 851-7442",
+    "source": "ASCCA",
+    "id": 252
+  },
+  {
+    "name": "Poway Auto Repair",
+    "address": "13907 Poway Rd, Poway, CA 92064",
+    "city": "Poway",
+    "state": "CA",
+    "phone": "(858) 748-0561",
+    "source": "ASCCA",
+    "id": 253
+  },
+  {
+    "name": "Poway Transmission Corp",
+    "address": "13933 Poway Rd. #A, Poway, CA 92064",
+    "city": "Poway",
+    "state": "CA",
+    "phone": "(858) 679-8000",
+    "source": "ASCCA",
+    "id": 254
+  },
+  {
+    "name": "Power Muffler & Brakes Inc",
+    "address": "808 E. Huntington Dr Suite B, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 256-4752",
+    "source": "ASCCA",
+    "id": 255
+  },
+  {
+    "name": "Precision Auto Repair",
+    "address": "164-A Wyoming Street, Pleasanton, CA 94566",
+    "city": "Pleasanton",
+    "state": "CA",
+    "phone": "(925) 462-7440",
+    "source": "ASCCA",
+    "id": 256
+  },
+  {
+    "name": "Preferred Auto Centre",
+    "address": "3111 Thousand Oaks Blvd #6, Chatsworth, CA 91312",
+    "city": "Chatsworth",
+    "state": "CA",
+    "phone": "(805) 373-1223",
+    "source": "ASCCA",
+    "id": 257
+  },
+  {
+    "name": "Prestige Autowash & Automotive",
+    "address": "7860 Othello Ave., San Diego, CA 92111",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(858) 277-6131",
+    "source": "ASCCA",
+    "id": 258
+  },
+  {
+    "name": "Protrans Automotive & Transmission",
+    "address": "3420 Gato Court, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(909) 367-7400",
+    "source": "ASCCA",
+    "id": 259
+  },
+  {
+    "name": "Quinn's Automotive",
+    "address": "1501 W. Acacia Avenue 106, Hemet, CA 92543",
+    "city": "Hemet",
+    "state": "CA",
+    "phone": "(951) 929-4442",
+    "source": "ASCCA",
+    "id": 260
+  },
+  {
+    "name": "R & R Auto Truck Repair",
+    "address": "2010 Twin View Blvd., Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 768-1050",
+    "source": "ASCCA",
+    "id": 261
+  },
+  {
+    "name": "R & S Automotive",
+    "address": "24773 Valley St, Newhall, CA 91321",
+    "city": "Newhall",
+    "state": "CA",
+    "phone": "(661) 254-4589",
+    "source": "ASCCA",
+    "id": 262
+  },
+  {
+    "name": "R A E Automotive Service Company",
+    "address": "415 9th Street, Ramona, CA 92065",
+    "city": "Ramona",
+    "state": "CA",
+    "phone": "(760) 788-4912",
+    "source": "ASCCA",
+    "id": 263
+  },
+  {
+    "name": "R.M. Automotive",
+    "address": "19248 Roscoe Boulevard, Northridge, CA 91324",
+    "city": "Northridge",
+    "state": "CA",
+    "phone": "(818) 709-4343",
+    "source": "ASCCA",
+    "id": 264
+  },
+  {
+    "name": "Rancho Smog and Auto Repair",
+    "address": "43062 Via Dos Picos Suite A, Temecula, CA 92590",
+    "city": "Temecula",
+    "state": "CA",
+    "phone": "(951) 308-1722",
+    "source": "ASCCA",
+    "id": 265
+  },
+  {
+    "name": "Randy's Mobile Mechanical Service",
+    "address": "2750 Cloverdale Ave, Concord, CA 94518",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 288-0766",
+    "source": "ASCCA",
+    "id": 266
+  },
+  {
+    "name": "Rare Parts Inc",
+    "address": "621 Wilshire Ave, Stockton, CA 95203",
+    "city": "Stockton",
+    "state": "CA",
+    "phone": "(209) 948-6005",
+    "source": "ASCCA",
+    "id": 267
+  },
+  {
+    "name": "Rasmussen Auto Repair",
+    "address": "1023 North Maple Ave, Fresno, CA 93702",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 251-0669",
+    "source": "ASCCA",
+    "id": 268
+  },
+  {
+    "name": "Rauls Auto Repair",
+    "address": "767 East Arrow Highway #1C, Azusa, CA 91702",
+    "city": "Azusa",
+    "state": "CA",
+    "phone": "(626) 339-7566",
+    "source": "ASCCA",
+    "id": 269
+  },
+  {
+    "name": "Raul's Auto Repair",
+    "address": "520 E Rue Royale St, Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(626) 257-3066",
+    "source": "ASCCA",
+    "id": 270
+  },
+  {
+    "name": "Ray-A-Motive",
+    "address": "9844 Artesia Blvd, Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 866-2169",
+    "source": "ASCCA",
+    "id": 271
+  },
+  {
+    "name": "Red Carpet Quick Lube",
+    "address": "4411 N. Blackstone, Fresno, CA 93726",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 227-6221",
+    "source": "ASCCA",
+    "id": 272
+  },
+  {
+    "name": "Redwood General Tire",
+    "address": "1630 Broadway Street, Redwood City, CA 94063",
+    "city": "Redwood City",
+    "state": "CA",
+    "phone": "(650) 369-0351",
+    "source": "ASCCA",
+    "id": 273
+  },
+  {
+    "name": "Reyes Smog Check and Repair",
+    "address": "8228 Live Oak Ave, Fontana, CA 92335",
+    "city": "Fontana",
+    "state": "CA",
+    "phone": "(909) 889-7300",
+    "source": "ASCCA",
+    "id": 274
+  },
+  {
+    "name": "Rick's Automotive Service Inc",
+    "address": "14929 Prairie Ave., Lawndale, CA 90260",
+    "city": "Lawndale",
+    "state": "CA",
+    "phone": "(424) 255-3781",
+    "source": "ASCCA",
+    "id": 275
+  },
+  {
+    "name": "Riverside Tire",
+    "address": "2958 Rubidoux Blvd Unit A, Jurupa Valley, CA 92509",
+    "city": "Jurupa Valley",
+    "state": "CA",
+    "phone": "(951) 248-1297",
+    "source": "ASCCA",
+    "id": 276
+  },
+  {
+    "name": "Asmar's Auto Care",
+    "address": "8621 Troy St., Spring Valley, CA 91977",
+    "city": "Spring Valley",
+    "state": "CA",
+    "phone": "(619) 589-1188",
+    "source": "ASCCA",
+    "id": 277
+  },
+  {
+    "name": "Robert's Auto Repair",
+    "address": "234 Ramona Ave, Monterey, CA 93940",
+    "city": "Monterey",
+    "state": "CA",
+    "phone": "(831) 373-1534",
+    "source": "ASCCA",
+    "id": 278
+  },
+  {
+    "name": "Rob's Automotive",
+    "address": "7589 El Cajon Blvd Suite E, La Mesa, CA 91941",
+    "city": "La Mesa",
+    "state": "CA",
+    "phone": "(619) 698-0767",
+    "source": "ASCCA",
+    "id": 279
+  },
+  {
+    "name": "Rohnert Park Transmission",
+    "address": "305 Laguna Drive, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-7727",
+    "source": "ASCCA",
+    "id": 280
+  },
+  {
+    "name": "Rony's Car Pros",
+    "address": "4232 Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 559-6463",
+    "source": "ASCCA",
+    "id": 281
+  },
+  {
+    "name": "RPM Automotive",
+    "address": "560 Martin Avenue, Rohnert Park, CA 94928",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "phone": "(707) 584-8230",
+    "source": "ASCCA",
+    "id": 282
+  },
+  {
+    "name": "Ruppel's Auto Fixation",
+    "address": "260 East Lane, Burlingame, CA 94010",
+    "city": "Burlingame",
+    "state": "CA",
+    "phone": "(650) 342-3568",
+    "source": "ASCCA",
+    "id": 283
+  },
+  {
+    "name": "Rusty's Automotive",
+    "address": "9681 Alondra Blvd., Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 916-7660",
+    "source": "ASCCA",
+    "id": 284
+  },
+  {
+    "name": "Ryan's Automotive",
+    "address": "10010 Old Redwood Hwy, Windsor, CA 95492",
+    "city": "Windsor",
+    "state": "CA",
+    "phone": "(707) 837-5324",
+    "source": "ASCCA",
+    "id": 285
+  },
+  {
+    "name": "S n S Motor Works",
+    "address": "141 W Foothill Blvd, Pomona, CA 91767",
+    "city": "Pomona",
+    "state": "CA",
+    "phone": "(909) 392-8402",
+    "source": "ASCCA",
+    "id": 286
+  },
+  {
+    "name": "Saddleback Cars",
+    "address": "25701 Taladro Cir Ste F, Mission Viejo, CA 92691",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "phone": "(949) 855-6700",
+    "source": "ASCCA",
+    "id": 287
+  },
+  {
+    "name": "Salerno's Auto Service Center",
+    "address": "609 3rd Street, Redlands, CA 92374",
+    "city": "Redlands",
+    "state": "CA",
+    "phone": "(909) 792-3453",
+    "source": "ASCCA",
+    "id": 288
+  },
+  {
+    "name": "Santa Monica Motors",
+    "address": "2318 Pico Blvd., Santa Monica, CA 90405",
+    "city": "Santa Monica",
+    "state": "CA",
+    "phone": "(310) 936-1548",
+    "source": "ASCCA",
+    "id": 289
+  },
+  {
+    "name": "Santa Monica Volvo",
+    "address": "12411 Santa Monica Blvd, Los Angeles, CA 90025",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 826-4113",
+    "source": "ASCCA",
+    "id": 290
+  },
+  {
+    "name": "Santa Rosa Transmission",
+    "address": "1015 Santa Rosa Ave, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 570-2500",
+    "source": "ASCCA",
+    "id": 291
+  },
+  {
+    "name": "Schneider Autohaus",
+    "address": "2703 De La Vina St., Santa Barbara, CA 93105",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "phone": "(805) 962-8015",
+    "source": "ASCCA",
+    "id": 292
+  },
+  {
+    "name": "Scotty's Auto Repair",
+    "address": "6240 #C Box Springs Blvd, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 697-7708",
+    "source": "ASCCA",
+    "id": 293
+  },
+  {
+    "name": "Sean's Auto Care",
+    "address": "15713 Saticoy St, Van Nuys, CA 91406",
+    "city": "Van Nuys",
+    "state": "CA",
+    "phone": "(310) 770-2720",
+    "source": "ASCCA",
+    "id": 294
+  },
+  {
+    "name": "Seiko's Auto Service Inc",
+    "address": "804 E. Huntington Drive Ste A, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 359-0589",
+    "source": "ASCCA",
+    "id": 295
+  },
+  {
+    "name": "Silicon Valley Performance",
+    "address": "2570 Leghorn St. #2, Mountain View, CA 94043",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(408) 207-7171",
+    "source": "ASCCA",
+    "id": 296
+  },
+  {
+    "name": "Smog Man",
+    "address": "646 Auzerais Avenue, San Jose, CA 95126",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 999-0699",
+    "source": "ASCCA",
+    "id": 297
+  },
+  {
+    "name": "Solano Way Auto Repair",
+    "address": "2197 Solano Way, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 676-2890",
+    "source": "ASCCA",
+    "id": 298
+  },
+  {
+    "name": "Solorio Auto Tech",
+    "address": "1735 3rd Street, Riverside, CA 92507",
+    "city": "Riverside",
+    "state": "CA",
+    "phone": "(951) 784-1090",
+    "source": "ASCCA",
+    "id": 299
+  },
+  {
+    "name": "Southbay Euro Car",
+    "address": "22400 S. Western Ave, Torrance, CA 90501",
+    "city": "Torrance",
+    "state": "CA",
+    "phone": "(310) 328-5786",
+    "source": "ASCCA",
+    "id": 300
+  },
+  {
+    "name": "Spence & Frye",
+    "address": "1847 E. Walnut Street, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-2351",
+    "source": "ASCCA",
+    "id": 301
+  },
+  {
+    "name": "Spiteri's Complete Auto Service & Repair",
+    "address": "292 Old County Road, Belmont, CA 94002",
+    "city": "Belmont",
+    "state": "CA",
+    "phone": "(650) 593-4758",
+    "source": "ASCCA",
+    "id": 302
+  },
+  {
+    "name": "Spring St Auto",
+    "address": "729 Spring St, Paso Robles, CA 93446",
+    "city": "Paso Robles",
+    "state": "CA",
+    "phone": "(805) 237-9593",
+    "source": "ASCCA",
+    "id": 303
+  },
+  {
+    "name": "SS Diesel Repair Inc",
+    "address": "2428 West Beverly Boulevard, Montebello, CA 90640",
+    "city": "Montebello",
+    "state": "CA",
+    "phone": "(818) 266-7940",
+    "source": "ASCCA",
+    "id": 304
+  },
+  {
+    "name": "Strong Automotive",
+    "address": "11114 Rhyolite Drive, Redding, CA 96003",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 243-5878",
+    "source": "ASCCA",
+    "id": 305
+  },
+  {
+    "name": "Stuart Terry Auto Repair",
+    "address": "4858 El Cajon Boulevard, San Diego, CA 92115",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 287-9626",
+    "source": "ASCCA",
+    "id": 306
+  },
+  {
+    "name": "Stuttcar Service Inc",
+    "address": "1320 E. Walnut Street, Pasadena, CA 91106",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 321-2736",
+    "source": "ASCCA",
+    "id": 307
+  },
+  {
+    "name": "Sunland Tire Co",
+    "address": "202 W Badillo St., Covina, CA 91723",
+    "city": "Covina",
+    "state": "CA",
+    "phone": "(714) 904-1191",
+    "source": "ASCCA",
+    "id": 308
+  },
+  {
+    "name": "Sunnyside Auto Repair Inc",
+    "address": "5977 East Clinton Ave, Fresno, CA 93727",
+    "city": "Fresno",
+    "state": "CA",
+    "phone": "(559) 292-1986",
+    "source": "ASCCA",
+    "id": 309
+  },
+  {
+    "name": "Sunnyvale Foreign Car Service",
+    "address": "15 Pioneer Way, Mountain View, CA 94041",
+    "city": "Mountain View",
+    "state": "CA",
+    "phone": "(650) 960-6988",
+    "source": "ASCCA",
+    "id": 310
+  },
+  {
+    "name": "SunRay Auto Service",
+    "address": "10300 East Artesia Blvd, Bellflower, CA 90706",
+    "city": "Bellflower",
+    "state": "CA",
+    "phone": "(562) 867-5296",
+    "source": "ASCCA",
+    "id": 311
+  },
+  {
+    "name": "Swiss Motors",
+    "address": "3929 Sepulveda Blvd, Culver City, CA 90230",
+    "city": "Culver City",
+    "state": "CA",
+    "phone": "(310) 398-5111",
+    "source": "ASCCA",
+    "id": 312
+  },
+  {
+    "name": "T&L Elite Auto Repair",
+    "address": "1007 Decoto Rd, Union City, CA 94587",
+    "city": "Union City",
+    "state": "CA",
+    "phone": "(510) 489-8756",
+    "source": "ASCCA",
+    "id": 313
+  },
+  {
+    "name": "Tech Transmission Specialists",
+    "address": "1818 Palm Ave., San Diego, CA 92154",
+    "city": "San Diego",
+    "state": "CA",
+    "phone": "(619) 575-4348",
+    "source": "ASCCA",
+    "id": 314
+  },
+  {
+    "name": "TechZone Auto",
+    "address": "1300 Galaxy Way Ste 3, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 465-4966",
+    "source": "ASCCA",
+    "id": 315
+  },
+  {
+    "name": "The Auto Shop",
+    "address": "2044 East Main St, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 734-2886",
+    "source": "ASCCA",
+    "id": 316
+  },
+  {
+    "name": "The Dyno Shop",
+    "address": "10042 Prospect Ave, Santee, CA 92071",
+    "city": "Santee",
+    "state": "CA",
+    "phone": "(619) 562-3933",
+    "source": "ASCCA",
+    "id": 317
+  },
+  {
+    "name": "The North Bay Differentials",
+    "address": "54 Maxwell Ct, Santa Rosa, CA 95401",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 360-0628",
+    "source": "ASCCA",
+    "id": 318
+  },
+  {
+    "name": "Thorr Auto & Tire",
+    "address": "4701 E Arrow Hwy Suite B, Montclair, CA 91763",
+    "city": "Montclair",
+    "state": "CA",
+    "phone": "(909) 625-8963",
+    "source": "ASCCA",
+    "id": 319
+  },
+  {
+    "name": "Titan Automotive",
+    "address": "939 West Chapman Ave, Orange, CA 92868",
+    "city": "Orange",
+    "state": "CA",
+    "phone": "(714) 997-2311",
+    "source": "ASCCA",
+    "id": 320
+  },
+  {
+    "name": "Tl Tilletts Automotive",
+    "address": "1426 Petaluma Hill Road, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 527-7615",
+    "source": "ASCCA",
+    "id": 321
+  },
+  {
+    "name": "Tokyo Automotive",
+    "address": "380 E. Orangethorpe Avenue, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 993-7300",
+    "source": "ASCCA",
+    "id": 322
+  },
+  {
+    "name": "Tony's Motor Service",
+    "address": "11722 Gateway Blvd, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 231-0123",
+    "source": "ASCCA",
+    "id": 323
+  },
+  {
+    "name": "Toole's Garage",
+    "address": "1065 Washington Street, San Carlos, CA 94070",
+    "city": "San Carlos",
+    "state": "CA",
+    "phone": "(650) 594-1128",
+    "source": "ASCCA",
+    "id": 324
+  },
+  {
+    "name": "Topline Automotive",
+    "address": "11742 E Imperial Hwy, Norwalk, CA 90650",
+    "city": "Norwalk",
+    "state": "CA",
+    "phone": "(562) 807-2266",
+    "source": "ASCCA",
+    "id": 325
+  },
+  {
+    "name": "Transco Transmission and Auto",
+    "address": "1470 Santa Rosa Avenue, Santa Rosa, CA 95404",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 544-6722",
+    "source": "ASCCA",
+    "id": 326
+  },
+  {
+    "name": "TransPlus Complete Auto Repair",
+    "address": "793 Redondo Ave, Long Beach, CA 90804",
+    "city": "Long Beach",
+    "state": "CA",
+    "phone": "(562) 434-8469",
+    "source": "ASCCA",
+    "id": 327
+  },
+  {
+    "name": "Tri Alliance Automotive Group Inc",
+    "address": "2160 Montgomery St, Oroville, CA 95965",
+    "city": "Oroville",
+    "state": "CA",
+    "phone": "(530) 534-1672",
+    "source": "ASCCA",
+    "id": 328
+  },
+  {
+    "name": "Tri Star Automotive",
+    "address": "484 Kenwood Ct, Santa Rosa, CA 95407",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 571-8866",
+    "source": "ASCCA",
+    "id": 329
+  },
+  {
+    "name": "Tri Star Motorsports",
+    "address": "1250 Plumber Way, Roseville, CA 95678",
+    "city": "Roseville",
+    "state": "CA",
+    "phone": "(916) 791-8001",
+    "source": "ASCCA",
+    "id": 330
+  },
+  {
+    "name": "Trident Auto Performance",
+    "address": "23510 Valencia Blvd, Valencia, CA 91355",
+    "city": "Valencia",
+    "state": "CA",
+    "phone": "(661) 254-7664",
+    "source": "ASCCA",
+    "id": 331
+  },
+  {
+    "name": "Twin Peaks Auto Service",
+    "address": "P.O. Box 191, Twin Peaks, CA 92391",
+    "city": "Twin Peaks",
+    "state": "CA",
+    "phone": "(909) 337-0082",
+    "source": "ASCCA",
+    "id": 332
+  },
+  {
+    "name": "Tyerman's Wheel Alignment",
+    "address": "1420 West Magnolia Blvd, Burbank, CA 91506",
+    "city": "Burbank",
+    "state": "CA",
+    "phone": "(818) 846-7291",
+    "source": "ASCCA",
+    "id": 333
+  },
+  {
+    "name": "Unique Engines & Auto Repair",
+    "address": "44A Street, Hayward, CA 94541",
+    "city": "Hayward",
+    "state": "CA",
+    "phone": "(510) 538-4720",
+    "source": "ASCCA",
+    "id": 334
+  },
+  {
+    "name": "Veterans Diesel & Auto",
+    "address": "4991 East Side Road, Redding, CA 96001",
+    "city": "Redding",
+    "state": "CA",
+    "phone": "(530) 782-4155",
+    "source": "ASCCA",
+    "id": 335
+  },
+  {
+    "name": "Villa Automotive",
+    "address": "34 South Street, San Luis Obispo, CA 93401",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "phone": "(805) 781-3925",
+    "source": "ASCCA",
+    "id": 336
+  },
+  {
+    "name": "Villa Marina Auto Care Inc",
+    "address": "4300 Lincoln Blvd, Marina del Rey, CA 90292",
+    "city": "Marina del Rey",
+    "state": "CA",
+    "phone": "(310) 821-5676",
+    "source": "ASCCA",
+    "id": 337
+  },
+  {
+    "name": "Vince's Auto Service",
+    "address": "3230 East Colorado Blvd, Pasadena, CA 91107",
+    "city": "Pasadena",
+    "state": "CA",
+    "phone": "(626) 792-5853",
+    "source": "ASCCA",
+    "id": 338
+  },
+  {
+    "name": "Vince's Automotive",
+    "address": "18401 Vanowen Street, Reseda, CA 91335",
+    "city": "Reseda",
+    "state": "CA",
+    "phone": "(818) 343-6477",
+    "source": "ASCCA",
+    "id": 339
+  },
+  {
+    "name": "VJ's Auto Service",
+    "address": "400 North First Avenue, Arcadia, CA 91006",
+    "city": "Arcadia",
+    "state": "CA",
+    "phone": "(626) 446-4900",
+    "source": "ASCCA",
+    "id": 340
+  },
+  {
+    "name": "W. E. Harding Co",
+    "address": "502 South 2nd St, San Jose, CA 95112",
+    "city": "San Jose",
+    "state": "CA",
+    "phone": "(408) 286-8989",
+    "source": "ASCCA",
+    "id": 341
+  },
+  {
+    "name": "Walker's Automotive",
+    "address": "407 14th St, Modesto, CA 95354",
+    "city": "Modesto",
+    "state": "CA",
+    "phone": "(209) 527-5577",
+    "source": "ASCCA",
+    "id": 342
+  },
+  {
+    "name": "Walnut Creek Automotive",
+    "address": "1532 Mt. Diablo Blvd., Walnut Creek, CA 94596",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "phone": "(925) 934-8600",
+    "source": "ASCCA",
+    "id": 343
+  },
+  {
+    "name": "Ward Service",
+    "address": "130 Railroad Avenue, Monrovia, CA 91016",
+    "city": "Monrovia",
+    "state": "CA",
+    "phone": "(626) 357-8080",
+    "source": "ASCCA",
+    "id": 344
+  },
+  {
+    "name": "Water Star Motors",
+    "address": "318 River Street Suite A, Santa Cruz, CA 95060",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "phone": "(831) 457-0996",
+    "source": "ASCCA",
+    "id": 345
+  },
+  {
+    "name": "Wayne and Sons Automotive Repair",
+    "address": "1845 Piner Road Unit B, Santa Rosa, CA 95403",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 546-3492",
+    "source": "ASCCA",
+    "id": 346
+  },
+  {
+    "name": "Wayside Garage",
+    "address": "2003 Del Monte Blvd, Seaside, CA 93955",
+    "city": "Seaside",
+    "state": "CA",
+    "phone": "(831) 899-2425",
+    "source": "ASCCA",
+    "id": 347
+  },
+  {
+    "name": "West Coast Diesels",
+    "address": "2835 Sebastopol Road, Santa Rosa, CA 95407",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "phone": "(707) 595-3026",
+    "source": "ASCCA",
+    "id": 348
+  },
+  {
+    "name": "West Coast Muffler Inc",
+    "address": "2090 Market Street, Concord, CA 94520",
+    "city": "Concord",
+    "state": "CA",
+    "phone": "(925) 676-8376",
+    "source": "ASCCA",
+    "id": 349
+  },
+  {
+    "name": "West Coast Tire and Service Auto Repair",
+    "address": "2239 Pontius Avenue, Los Angeles, CA 90064",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 477-7057",
+    "source": "ASCCA",
+    "id": 350
+  },
+  {
+    "name": "Westside Transmission & Automotive",
+    "address": "2050 Cotner Ave, Los Angeles, CA 90025",
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": "(310) 925-8505",
+    "source": "ASCCA",
+    "id": 351
+  },
+  {
+    "name": "White Automotive",
+    "address": "250 East Whittier Blvd, La Habra, CA 90631",
+    "city": "La Habra",
+    "state": "CA",
+    "phone": "(562) 697-2612",
+    "source": "ASCCA",
+    "id": 352
+  },
+  {
+    "name": "Yorba Linda Auto Service",
+    "address": "801 Lakeview Ave Unit G, Placentia, CA 92870",
+    "city": "Placentia",
+    "state": "CA",
+    "phone": "(714) 970-8774",
+    "source": "ASCCA",
+    "id": 353
+  },
+  {
+    "name": "Zylstra Automotive",
+    "address": "2230 E. Main St, Visalia, CA 93292",
+    "city": "Visalia",
+    "state": "CA",
+    "phone": "(559) 739-7303",
+    "source": "ASCCA",
+    "id": 354
+  },
+  {
+    "name": "A Street Automotive",
+    "address": "225 A Street SE",
+    "city": "Auburn",
+    "state": "WA",
+    "zip": "98002",
+    "phone": "(253) 833-1000",
+    "source": "NWACA",
+    "id": 355
+  },
+  {
+    "name": "ABC Auto Repair",
+    "address": "12602 1ST AVE S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98168",
+    "phone": "(206) 395-5300",
+    "source": "NWACA",
+    "id": 356
+  },
+  {
+    "name": "Absolute ADAS",
+    "address": "3304 104th Ave NE",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258",
+    "phone": "1-844-349-2327",
+    "source": "NWACA",
+    "id": 357
+  },
+  {
+    "name": "Absolute Air AND Auto Repair",
+    "address": "214 N 42nd Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97478",
+    "phone": "(541) 726-7766",
+    "source": "NWACA",
+    "id": 358
+  },
+  {
+    "name": "ACE Commercial Tire LLC",
+    "address": "21904 84th Ave S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "(253) 449-8600",
+    "source": "NWACA",
+    "id": 359
+  },
+  {
+    "name": "Action Auto Repair of Medford Inc",
+    "address": "2708 N Pacific Hwy",
+    "city": "Medford",
+    "state": "OR",
+    "zip": "97501-1647",
+    "phone": "541-776-3330",
+    "source": "NWACA",
+    "id": 360
+  },
+  {
+    "name": "Advanced Auto Care",
+    "address": "14708 Pacific Avenue S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444",
+    "phone": "253-535-1550",
+    "source": "NWACA",
+    "id": 361
+  },
+  {
+    "name": "Advanced Automotive",
+    "address": "10430 SARATOGA DRIVE",
+    "city": "Stanwood",
+    "state": "WA",
+    "zip": "98292",
+    "phone": "(360) 629-2611",
+    "source": "NWACA",
+    "id": 362
+  },
+  {
+    "name": "Advanced European Service",
+    "address": "17511 68th Avenue NE",
+    "city": "Kenmore",
+    "state": "WA",
+    "zip": "98028",
+    "phone": "425-482-6695",
+    "source": "NWACA",
+    "id": 363
+  },
+  {
+    "name": "AG Automotive and Diesel",
+    "address": "12410 NE Whitaker Way",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97230",
+    "phone": "(503) 253-1747",
+    "source": "NWACA",
+    "id": 364
+  },
+  {
+    "name": "AIR Import Repair Inc",
+    "address": "8016 27th Street W",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98466",
+    "phone": "253-565-3049",
+    "source": "NWACA",
+    "id": 365
+  },
+  {
+    "name": "Alki Auto Repair",
+    "address": "2938 SW Avalon Way",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-935-8059",
+    "source": "NWACA",
+    "id": 366
+  },
+  {
+    "name": "All About Transmissions & Automotive",
+    "address": "5221 1st Street",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "360-377-2426",
+    "source": "NWACA",
+    "id": 367
+  },
+  {
+    "name": "All Automotive Service & Repair",
+    "address": "8611 W. Clearwater",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 735-0700",
+    "source": "NWACA",
+    "id": 368
+  },
+  {
+    "name": "All City Autobody",
+    "address": "518 Logan Street",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "(360) 385-0634",
+    "source": "NWACA",
+    "id": 369
+  },
+  {
+    "name": "All City Transmission and Drive Train",
+    "address": "6624 West Brinkley Suite A",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-585-7074",
+    "source": "NWACA",
+    "id": 370
+  },
+  {
+    "name": "Alley Auto Inc",
+    "address": "365 D Street",
+    "city": "Blaine",
+    "state": "WA",
+    "zip": "98230",
+    "phone": "(360) 332-7018",
+    "source": "NWACA",
+    "id": 371
+  },
+  {
+    "name": "Allied Automotive",
+    "address": "834 W. Kalmath Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 585-7777",
+    "source": "NWACA",
+    "id": 372
+  },
+  {
+    "name": "Allview Services Inc",
+    "address": "2215 S Castle Way",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "425-483-6103",
+    "source": "NWACA",
+    "id": 373
+  },
+  {
+    "name": "Alpine Automotive Service Inc",
+    "address": "213 S 3rd Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-248-9921",
+    "source": "NWACA",
+    "id": 374
+  },
+  {
+    "name": "Anacortes Automotive Inc",
+    "address": "2602 Commercial Avenue",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-2450",
+    "source": "NWACA",
+    "id": 375
+  },
+  {
+    "name": "Anderson Mobile Mechanics LLC",
+    "address": "109 North Ennis St",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 809-9973",
+    "source": "NWACA",
+    "id": 376
+  },
+  {
+    "name": "Angeles Collision Repair, Inc.",
+    "address": "72 Mount Pleasant Rd",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 452-6055",
+    "source": "NWACA",
+    "id": 377
+  },
+  {
+    "name": "Art Erickson Tire & Auto, Inc.",
+    "address": "517 N. Molalla Ave.",
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038",
+    "phone": "",
+    "source": "NWACA",
+    "id": 378
+  },
+  {
+    "name": "Art's Automotive",
+    "address": "1320 Industrial Way",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "360-423-0890",
+    "source": "NWACA",
+    "id": 379
+  },
+  {
+    "name": "Atomic Auto Inc",
+    "address": "610 NE 102nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97220",
+    "phone": "(503) 969-3134",
+    "source": "NWACA",
+    "id": 380
+  },
+  {
+    "name": "Auto Dynamix LLC",
+    "address": "13245 NE 20TH ST",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-283-5766",
+    "source": "NWACA",
+    "id": 381
+  },
+  {
+    "name": "Auto Tech Services of Centralia",
+    "address": "1417 Kresky Street, Suite 2",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "360-736-0123",
+    "source": "NWACA",
+    "id": 382
+  },
+  {
+    "name": "Auto Tech Services of Rochester",
+    "address": "18225 Pendleton Street SW",
+    "city": "Rochester",
+    "state": "WA",
+    "zip": "98579",
+    "phone": "(360) 273-8306",
+    "source": "NWACA",
+    "id": 383
+  },
+  {
+    "name": "Auto Truck Service",
+    "address": "3921 Smith Avenue",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201",
+    "phone": "(425) 258-3634",
+    "source": "NWACA",
+    "id": 384
+  },
+  {
+    "name": "Autocraft of Spokane Inc",
+    "address": "16911 E Sprague",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037",
+    "phone": "509-924-8738",
+    "source": "NWACA",
+    "id": 385
+  },
+  {
+    "name": "Autometrics - Moses Lake",
+    "address": "216 West Valley Road",
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837",
+    "phone": "(509) 766-2002",
+    "source": "NWACA",
+    "id": 386
+  },
+  {
+    "name": "AutoMetrics - Yakima",
+    "address": "813 North Front Street",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98901",
+    "phone": "509-457-3739",
+    "source": "NWACA",
+    "id": 387
+  },
+  {
+    "name": "Autoworks - Port Townsend",
+    "address": "2313 3rd Street",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "360-385-5682",
+    "source": "NWACA",
+    "id": 388
+  },
+  {
+    "name": "Autoworks of Issaquah",
+    "address": "1590 NW Mall Street",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027",
+    "phone": "425-392-4568",
+    "source": "NWACA",
+    "id": 389
+  },
+  {
+    "name": "Axton Automotive LLC",
+    "address": "1372 W Axton Rd",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248-9101",
+    "phone": "(360) 389-5444",
+    "source": "NWACA",
+    "id": 390
+  },
+  {
+    "name": "B & B Auto Repair Inc",
+    "address": "299 National Avenue S",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "(360) 377-0682",
+    "source": "NWACA",
+    "id": 391
+  },
+  {
+    "name": "B & B Automotive Inc",
+    "address": "301 W Market",
+    "city": "Aberdeen",
+    "state": "WA",
+    "zip": "98520",
+    "phone": "360-533-4113",
+    "source": "NWACA",
+    "id": 392
+  },
+  {
+    "name": "B & H Body Repair",
+    "address": "9516 Airport Way",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98296",
+    "phone": "(360) 568-7676",
+    "source": "NWACA",
+    "id": 393
+  },
+  {
+    "name": "Bainbridge Island Auto Repair",
+    "address": "8890-B Miller Road NE",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "zip": "98110",
+    "phone": "206-842-1067",
+    "source": "NWACA",
+    "id": 394
+  },
+  {
+    "name": "Bandon Auto Repair, LLC",
+    "address": "385 Grand Avenue SE",
+    "city": "Bandon",
+    "state": "OR",
+    "zip": "97411",
+    "phone": "(541) 347-1707",
+    "source": "NWACA",
+    "id": 395
+  },
+  {
+    "name": "Bellingham Automotive",
+    "address": "4116 Hannegan Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-738-2909",
+    "source": "NWACA",
+    "id": 396
+  },
+  {
+    "name": "Bob's Lil Car Hospital",
+    "address": "1508 West Side Hwy",
+    "city": "Kelso",
+    "state": "WA",
+    "zip": "98626",
+    "phone": "360-577-1187",
+    "source": "NWACA",
+    "id": 397
+  },
+  {
+    "name": "Bob's Service Center",
+    "address": "618 W. Francis Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205",
+    "phone": "(509) 467-5493",
+    "source": "NWACA",
+    "id": 398
+  },
+  {
+    "name": "Bob Dickman Tire Center, Inc.",
+    "address": "222 W. First",
+    "city": "Junction City",
+    "state": "OR",
+    "zip": "97448",
+    "phone": "(541) 998-3319",
+    "source": "NWACA",
+    "id": 399
+  },
+  {
+    "name": "Box K Auto Repair Inc",
+    "address": "PO Box K",
+    "city": "Seaview",
+    "state": "WA",
+    "zip": "98644",
+    "phone": "360-642-4753",
+    "source": "NWACA",
+    "id": 400
+  },
+  {
+    "name": "Bremerton Collision Repair",
+    "address": "708 Pacific Ave",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98337-1920",
+    "phone": "(360) 440-1383",
+    "source": "NWACA",
+    "id": 401
+  },
+  {
+    "name": "Bristow's Exclusive Auto Repair Inc",
+    "address": "4731 S Washington",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-471-1663",
+    "source": "NWACA",
+    "id": 402
+  },
+  {
+    "name": "Bron's Automotive Inc",
+    "address": "2021 Harrison Ave NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "360-943-5993",
+    "source": "NWACA",
+    "id": 403
+  },
+  {
+    "name": "Brooks Auto Doctor",
+    "address": "33947 B Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "phone": "(541) 321-0002",
+    "source": "NWACA",
+    "id": 404
+  },
+  {
+    "name": "Bryan's Automotive",
+    "address": "6940 Martin Way East",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "(360) 493-8300",
+    "source": "NWACA",
+    "id": 405
+  },
+  {
+    "name": "Buckley Automotive",
+    "address": "336 South River Ave",
+    "city": "Buckley",
+    "state": "WA",
+    "zip": "98321",
+    "phone": "360-829-2886",
+    "source": "NWACA",
+    "id": 406
+  },
+  {
+    "name": "Bud's Auto Repair and Transmission",
+    "address": "707 Beach Ave",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270",
+    "phone": "(360) 658-8600",
+    "source": "NWACA",
+    "id": 407
+  },
+  {
+    "name": "Buttera Motors Inc",
+    "address": "14235 100th Avenue NE",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98034",
+    "phone": "425-821-1222",
+    "source": "NWACA",
+    "id": 408
+  },
+  {
+    "name": "Capital Collision Center Inc",
+    "address": "2104 Carriage Drive SW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 357-5210",
+    "source": "NWACA",
+    "id": 409
+  },
+  {
+    "name": "Car Care Specialists Inc.",
+    "address": "2185 NW HWY 101",
+    "city": "Lincoln City",
+    "state": "OR",
+    "zip": "97367",
+    "phone": "(541) 996-6099",
+    "source": "NWACA",
+    "id": 410
+  },
+  {
+    "name": "Car Smart Auto Service, LLC",
+    "address": "15532 Main Street E",
+    "city": "Sumner",
+    "state": "WA",
+    "zip": "98390",
+    "phone": "(253) 735-3349",
+    "source": "NWACA",
+    "id": 411
+  },
+  {
+    "name": "Car Tender",
+    "address": "16622 Aurora Avenue N Ste A",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-324-0345",
+    "source": "NWACA",
+    "id": 412
+  },
+  {
+    "name": "Cascade Automotive Repair",
+    "address": "2420 NW Campus Dr. Suite C",
+    "city": "Estacada",
+    "state": "OR",
+    "zip": "97023",
+    "phone": "503-630-2277",
+    "source": "NWACA",
+    "id": 413
+  },
+  {
+    "name": "Cascade Pro Auto",
+    "address": "9694 Golf Club Rd SE",
+    "city": "Aumsville",
+    "state": "OR",
+    "zip": "97325",
+    "phone": "(503) 769-3203",
+    "source": "NWACA",
+    "id": 414
+  },
+  {
+    "name": "Center Collision",
+    "address": "1111 Center Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-779-8342",
+    "source": "NWACA",
+    "id": 415
+  },
+  {
+    "name": "Charlie's Automotive Inc",
+    "address": "1031 W Columbia Drive",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-586-8237",
+    "source": "NWACA",
+    "id": 416
+  },
+  {
+    "name": "Chehalis Collision Center",
+    "address": "926 NW Maryland Ave",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532",
+    "phone": "(360) 996-4263",
+    "source": "NWACA",
+    "id": 417
+  },
+  {
+    "name": "Circle & Square Auto Care",
+    "address": "10953 Rhody Drive",
+    "city": "Port Hadlock",
+    "state": "WA",
+    "zip": "98339",
+    "phone": "360-385-2070",
+    "source": "NWACA",
+    "id": 418
+  },
+  {
+    "name": "Clark's Tire & Automotive",
+    "address": "16010 E Sprague Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037",
+    "phone": "509-924-1681",
+    "source": "NWACA",
+    "id": 419
+  },
+  {
+    "name": "Coast Auto Repair",
+    "address": "1932 S Main Ave",
+    "city": "Warrenton",
+    "state": "OR",
+    "zip": "97146",
+    "phone": "(971) 704-4681",
+    "source": "NWACA",
+    "id": 420
+  },
+  {
+    "name": "Coopers Collision",
+    "address": "2612 North Adams Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98407",
+    "phone": "(253) 759-5354",
+    "source": "NWACA",
+    "id": 421
+  },
+  {
+    "name": "Cooper's NW Inc",
+    "address": "3236 Wheaton Way",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98310",
+    "phone": "(360) 377-2894",
+    "source": "NWACA",
+    "id": 422
+  },
+  {
+    "name": "Courtesy Auto Service & Tire Inc",
+    "address": "4504 Pacific Avenue SE",
+    "city": "Lacey",
+    "state": "WA",
+    "zip": "98503",
+    "phone": "360-491-3030",
+    "source": "NWACA",
+    "id": 423
+  },
+  {
+    "name": "Courtesy Auto Service & Tire of Tacoma",
+    "address": "4502 S. Steel Street #701 Tacoma Mall N Parking Lot",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-473-5556",
+    "source": "NWACA",
+    "id": 424
+  },
+  {
+    "name": "Courtesy Automotive and Tire",
+    "address": "124 Woods Street",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272",
+    "phone": "360-794-6343",
+    "source": "NWACA",
+    "id": 425
+  },
+  {
+    "name": "Crowell Brothers Inc",
+    "address": "3125 Simpson Avenue",
+    "city": "Hoquiam",
+    "state": "WA",
+    "zip": "98550",
+    "phone": "360-532-4840",
+    "source": "NWACA",
+    "id": 426
+  },
+  {
+    "name": "Cruise Control LLC",
+    "address": "1846 N Bennett St",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98406",
+    "phone": "(253) 234-4188",
+    "source": "NWACA",
+    "id": 427
+  },
+  {
+    "name": "D & M Motors and Towing",
+    "address": "205 N Main",
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926",
+    "phone": "509-925-4151",
+    "source": "NWACA",
+    "id": 428
+  },
+  {
+    "name": "D & W Automotive Repair, LLC",
+    "address": "2616 SE Mile Hill Drive",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366",
+    "phone": "(360) 876-8273",
+    "source": "NWACA",
+    "id": 429
+  },
+  {
+    "name": "Daisywagen Foreign Car Service Inc",
+    "address": "5701 Roosevelt Way NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105",
+    "phone": "206-522-4664",
+    "source": "NWACA",
+    "id": 430
+  },
+  {
+    "name": "Danny's Automotive Service",
+    "address": "301 Wynoochee Ave. E",
+    "city": "Montesano",
+    "state": "WA",
+    "zip": "98563",
+    "phone": "(360) 249-5432",
+    "source": "NWACA",
+    "id": 431
+  },
+  {
+    "name": "Davis Diesel Automotive",
+    "address": "7711 E Sprague Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "509-892-3836",
+    "source": "NWACA",
+    "id": 432
+  },
+  {
+    "name": "Del's OK Tire Factory",
+    "address": "35359 Business 101",
+    "city": "Astoria",
+    "state": "OR",
+    "zip": "97103",
+    "phone": "(503) 325-2861",
+    "source": "NWACA",
+    "id": 433
+  },
+  {
+    "name": "Denny's Auto Service",
+    "address": "123 North Front Street",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "360-426-2271",
+    "source": "NWACA",
+    "id": 434
+  },
+  {
+    "name": "Dick's Tire Factory Inc.",
+    "address": "P.O. Box 458",
+    "city": "Battle Ground",
+    "state": "WA",
+    "zip": "98604",
+    "phone": "(360) 687-5131",
+    "source": "NWACA",
+    "id": 435
+  },
+  {
+    "name": "Dick's Tire Haus",
+    "address": "320 E Main",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272",
+    "phone": "(360) 794-7103",
+    "source": "NWACA",
+    "id": 436
+  },
+  {
+    "name": "Dilk Tire Factory",
+    "address": "120 Third St.",
+    "city": "Raymond",
+    "state": "WA",
+    "zip": "98577",
+    "phone": "(360) 942-2184",
+    "source": "NWACA",
+    "id": 437
+  },
+  {
+    "name": "DK Diesel Performance & Off Road",
+    "address": "2432 E Bakerview Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-815-2098",
+    "source": "NWACA",
+    "id": 438
+  },
+  {
+    "name": "Doctor Don's Automotive",
+    "address": "1136 NW 50th Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "206-782-6303",
+    "source": "NWACA",
+    "id": 439
+  },
+  {
+    "name": "Downtown Automotive Center",
+    "address": "407 E 11th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "541-343-4225",
+    "source": "NWACA",
+    "id": 440
+  },
+  {
+    "name": "Doyle's Automotive Service",
+    "address": "4607 37th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-935-2600",
+    "source": "NWACA",
+    "id": 441
+  },
+  {
+    "name": "Dr. John's Auto Clinic",
+    "address": "1420 Kentucky Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-733-5646",
+    "source": "NWACA",
+    "id": 442
+  },
+  {
+    "name": "Dynamic Diesel Performance",
+    "address": "9911 Airport Way",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98296",
+    "phone": "360-862-9009",
+    "source": "NWACA",
+    "id": 443
+  },
+  {
+    "name": "Earl's Garage Inc",
+    "address": "14515 15th Avenue NE",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-364-7400",
+    "source": "NWACA",
+    "id": 444
+  },
+  {
+    "name": "Eastside Autoworks Auto Repair",
+    "address": "14320 NE 21st Ste E #5",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98007",
+    "phone": "425-746-0162",
+    "source": "NWACA",
+    "id": 445
+  },
+  {
+    "name": "Easy Street Auto Repair - Puyallup",
+    "address": "10217 128th Street E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98374",
+    "phone": "(253) 848-5787",
+    "source": "NWACA",
+    "id": 446
+  },
+  {
+    "name": "Easy Street Auto Repair - Tacoma",
+    "address": "8425 Pacific Hwy E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98422",
+    "phone": "(206) 304-9849",
+    "source": "NWACA",
+    "id": 447
+  },
+  {
+    "name": "Edwards Automotive Service Inc",
+    "address": "950 N 128th",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-362-1960",
+    "source": "NWACA",
+    "id": 448
+  },
+  {
+    "name": "Emerald Car Care & Tire",
+    "address": "10615 Bald Hill Rd SE 1",
+    "city": "Yelm",
+    "state": "WA",
+    "zip": "98597",
+    "phone": "(253) 367-4567",
+    "source": "NWACA",
+    "id": 449
+  },
+  {
+    "name": "Erkers Service",
+    "address": "2311 Pacific Hwy E",
+    "city": "Fife",
+    "state": "WA",
+    "zip": "98424",
+    "phone": "253-922-8344",
+    "source": "NWACA",
+    "id": 450
+  },
+  {
+    "name": "Ernie's, Inc",
+    "address": "2600 21st Avenue SW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98512",
+    "phone": "(360) 456-6100",
+    "source": "NWACA",
+    "id": 451
+  },
+  {
+    "name": "Esty's Auto Center",
+    "address": "1064 15th Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "(360) 423-0890",
+    "source": "NWACA",
+    "id": 452
+  },
+  {
+    "name": "European AutoHaus",
+    "address": "6510 W Thorpe Rd.",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99224",
+    "phone": "(509) 535-4506",
+    "source": "NWACA",
+    "id": 453
+  },
+  {
+    "name": "Eurotech Auto Service",
+    "address": "221 170th Street S, Suite B",
+    "city": "Spanaway",
+    "state": "WA",
+    "zip": "98387",
+    "phone": "253-536-5577",
+    "source": "NWACA",
+    "id": 454
+  },
+  {
+    "name": "EV Mobile Repair Service",
+    "address": "7100 Fort Dent Way #100",
+    "city": "Tukwila",
+    "state": "WA",
+    "zip": "98188",
+    "phone": "(206) 397-2119",
+    "source": "NWACA",
+    "id": 455
+  },
+  {
+    "name": "Evergreen Auto Repair",
+    "address": "10115 4th Ave W",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98204",
+    "phone": "(425) 353-1765",
+    "source": "NWACA",
+    "id": 456
+  },
+  {
+    "name": "Evergreen Collision Center - Port Angeles",
+    "address": "820 E Front Street",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-4484",
+    "source": "NWACA",
+    "id": 457
+  },
+  {
+    "name": "Evergreen Collision Center - Sequim",
+    "address": "703 E Washington Street",
+    "city": "Sequim",
+    "state": "WA",
+    "zip": "98382",
+    "phone": "360-683-1128",
+    "source": "NWACA",
+    "id": 458
+  },
+  {
+    "name": "Expert Muffler & Auto Repair",
+    "address": "1240 S. Sprague Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "253-573-0422",
+    "source": "NWACA",
+    "id": 459
+  },
+  {
+    "name": "Extreme Collision Center",
+    "address": "1383 E Shelton Springs Rd",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "(360) 432-3625",
+    "source": "NWACA",
+    "id": 460
+  },
+  {
+    "name": "Fast Eddie's Tire Pros",
+    "address": "8810 Evergreen Way",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98208",
+    "phone": "(425) 355-7110",
+    "source": "NWACA",
+    "id": 461
+  },
+  {
+    "name": "Fat Boys Fleet Services",
+    "address": "720 N California Ave Suite D",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-5044",
+    "source": "NWACA",
+    "id": 462
+  },
+  {
+    "name": "Flat Black Automotive",
+    "address": "1918 Iowa St 101A",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98229",
+    "phone": "(360) 393-8984",
+    "source": "NWACA",
+    "id": 463
+  },
+  {
+    "name": "Fleet Service Auto & Truck",
+    "address": "7511 Beverly Blvd",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98203",
+    "phone": "425-355-4440",
+    "source": "NWACA",
+    "id": 464
+  },
+  {
+    "name": "Fleury's Collision Center - Lynnwood",
+    "address": "6326 196th Street SW",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "(425) 697-4322",
+    "source": "NWACA",
+    "id": 465
+  },
+  {
+    "name": "Fleury's Collision Center - Seattle",
+    "address": "1484 North West 90th",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98117",
+    "phone": "206-789-6930",
+    "source": "NWACA",
+    "id": 466
+  },
+  {
+    "name": "Foreign Car Workshop",
+    "address": "4601 - 37th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "206-938-3972",
+    "source": "NWACA",
+    "id": 467
+  },
+  {
+    "name": "Frank's Auto Repair & Parts",
+    "address": "1416 E Front Street",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-7937",
+    "source": "NWACA",
+    "id": 468
+  },
+  {
+    "name": "Frank's Point S Tire and Auto Service",
+    "address": "2612 Main St.",
+    "city": "Union Gap",
+    "state": "WA",
+    "zip": "98903",
+    "phone": "509-248-3523",
+    "source": "NWACA",
+    "id": 469
+  },
+  {
+    "name": "Friendly Automotive West",
+    "address": "5812 Summitview Ave",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98908",
+    "phone": "(509) 966-1090",
+    "source": "NWACA",
+    "id": 470
+  },
+  {
+    "name": "Gary's Olympia Auto Service",
+    "address": "616 Legion Way SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501",
+    "phone": "360-754-5533",
+    "source": "NWACA",
+    "id": 471
+  },
+  {
+    "name": "Gateway Autohaus",
+    "address": "715 S. Spruce St.",
+    "city": "Burlington",
+    "state": "WA",
+    "zip": "98233",
+    "phone": "(360) 755-0541",
+    "source": "NWACA",
+    "id": 472
+  },
+  {
+    "name": "Gateway Automotive Experts - Mount Vernon",
+    "address": "1301 E. College Way",
+    "city": "Mount Vernon",
+    "state": "WA",
+    "zip": "98273",
+    "phone": "360-424-3100",
+    "source": "NWACA",
+    "id": 473
+  },
+  {
+    "name": "Gateway Automotive Experts - Oak Harbor",
+    "address": "1100 Goldie St.",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277",
+    "phone": "360-679-0700",
+    "source": "NWACA",
+    "id": 474
+  },
+  {
+    "name": "Gateway Automotive Experts - Sedro Woolley",
+    "address": "487 Metcalf Street",
+    "city": "Sedro Woolley",
+    "state": "WA",
+    "zip": "98284",
+    "phone": "(360) 855-1111",
+    "source": "NWACA",
+    "id": 475
+  },
+  {
+    "name": "Genesis Automotive & RV Repair Inc",
+    "address": "6220 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-473-2336",
+    "source": "NWACA",
+    "id": 476
+  },
+  {
+    "name": "Genuine Auto Repair",
+    "address": "1603 W. Lewis St.",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "(509) 410-0737",
+    "source": "NWACA",
+    "id": 477
+  },
+  {
+    "name": "Gere Auto Repair LLC",
+    "address": "9025 Meadowbrook Way SE",
+    "city": "Snoqualmie",
+    "state": "WA",
+    "zip": "98065",
+    "phone": "425-292-0515",
+    "source": "NWACA",
+    "id": 478
+  },
+  {
+    "name": "Gig Harbor Automotive Service",
+    "address": "4101 Harborview Drive",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "zip": "98332",
+    "phone": "253-851-8501",
+    "source": "NWACA",
+    "id": 479
+  },
+  {
+    "name": "Global Car Care",
+    "address": "1840 N. Wenatchee Avenue",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "509-662-2121",
+    "source": "NWACA",
+    "id": 480
+  },
+  {
+    "name": "Goods Automotive - Lakewood",
+    "address": "6124 Lake Grove Street SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(253) 948-2269",
+    "source": "NWACA",
+    "id": 481
+  },
+  {
+    "name": "Goods Automotive - Puyallup",
+    "address": "16318 Meridian Ave E Ste 300",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "(253) 948-2269",
+    "source": "NWACA",
+    "id": 482
+  },
+  {
+    "name": "GP Automotive Inc.",
+    "address": "524 132nd St SW #109",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98204",
+    "phone": "(425) 742-5838",
+    "source": "NWACA",
+    "id": 483
+  },
+  {
+    "name": "Graham Auto Repair",
+    "address": "22217 Meridian Avenue E",
+    "city": "Graham",
+    "state": "WA",
+    "zip": "98338",
+    "phone": "253-847-2221",
+    "source": "NWACA",
+    "id": 484
+  },
+  {
+    "name": "Graham Auto Repair - Yelm",
+    "address": "412 E Yelm Avenue",
+    "city": "Yelm",
+    "state": "WA",
+    "zip": "98597",
+    "phone": "(360) 245-0388",
+    "source": "NWACA",
+    "id": 485
+  },
+  {
+    "name": "Green Tech Garage",
+    "address": "611 S. Dishman Mica Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206",
+    "phone": "(509) 443-4970",
+    "source": "NWACA",
+    "id": 486
+  },
+  {
+    "name": "Greene's Point S Tire",
+    "address": "1410 E Yakima Valley Hwy",
+    "city": "Sunnyside",
+    "state": "WA",
+    "zip": "98944",
+    "phone": "(509) 837-8473",
+    "source": "NWACA",
+    "id": 487
+  },
+  {
+    "name": "Gresham Muffler",
+    "address": "731 NE Division Street",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030",
+    "phone": "(503) 756-0349",
+    "source": "NWACA",
+    "id": 488
+  },
+  {
+    "name": "H.I.S. Automotive Services LLC",
+    "address": "1721 S.E. Stephens St.",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97470",
+    "phone": "(541) 492-1599",
+    "source": "NWACA",
+    "id": 489
+  },
+  {
+    "name": "Hawthorne Auto Clinic",
+    "address": "4307 SE Hawthorne Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97215",
+    "phone": "503-234-2119",
+    "source": "NWACA",
+    "id": 490
+  },
+  {
+    "name": "Henderson's Line-up Brake & RV",
+    "address": "417 SW Henderson Lane",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97527",
+    "phone": "(541) 479-2882",
+    "source": "NWACA",
+    "id": 491
+  },
+  {
+    "name": "High Road Automotive",
+    "address": "1531 NW Leary Way",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "206-789-7521",
+    "source": "NWACA",
+    "id": 492
+  },
+  {
+    "name": "High-Tech Automotive",
+    "address": "1230 McKittrick Street",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "509-662-4426",
+    "source": "NWACA",
+    "id": 493
+  },
+  {
+    "name": "Hi-Land Garage",
+    "address": "215 N Union st",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-783-2512",
+    "source": "NWACA",
+    "id": 494
+  },
+  {
+    "name": "Hi-Line Auto Electric",
+    "address": "823 SW 148TH",
+    "city": "Burien",
+    "state": "WA",
+    "zip": "98166-1860",
+    "phone": "206-243-8910",
+    "source": "NWACA",
+    "id": 495
+  },
+  {
+    "name": "Honest-1 Auto Care - Portland",
+    "address": "2002 SE Stark Street",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "(503) 233-4003",
+    "source": "NWACA",
+    "id": 496
+  },
+  {
+    "name": "Imhof Automotive",
+    "address": "2869 W 63rd Lane",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-393-8938",
+    "source": "NWACA",
+    "id": 497
+  },
+  {
+    "name": "Import Autosport Inc",
+    "address": "7391 Miller Road",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-7551",
+    "source": "NWACA",
+    "id": 498
+  },
+  {
+    "name": "Integrity Automotive Maintenance & Repair",
+    "address": "80 NE Gilman Blvd",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027",
+    "phone": "(425) 557-8665",
+    "source": "NWACA",
+    "id": 499
+  },
+  {
+    "name": "Ishii Motor Industries",
+    "address": "638 116th Ave NE Ste B",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98004",
+    "phone": "(425) 450-0498",
+    "source": "NWACA",
+    "id": 500
+  },
+  {
+    "name": "Island Import Garage",
+    "address": "3319 Commercial",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-4188",
+    "source": "NWACA",
+    "id": 501
+  },
+  {
+    "name": "J & J Autobody Repair Inc",
+    "address": "8322 S Tacoma Way",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-983-1718",
+    "source": "NWACA",
+    "id": 502
+  },
+  {
+    "name": "Jackson's Body Shop Inc",
+    "address": "3353 Silverton Road NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97303",
+    "phone": "(503) 363-1990",
+    "source": "NWACA",
+    "id": 503
+  },
+  {
+    "name": "Jackson's Complete Auto Care",
+    "address": "660 W 6th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-344-7366",
+    "source": "NWACA",
+    "id": 504
+  },
+  {
+    "name": "Jay's Kirkland Autocare",
+    "address": "817 7th Ave",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033",
+    "phone": "(425) 822-3333",
+    "source": "NWACA",
+    "id": 505
+  },
+  {
+    "name": "Jim's Pacific Garages Inc",
+    "address": "2708 N Commercial Avenue",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-7770",
+    "source": "NWACA",
+    "id": 506
+  },
+  {
+    "name": "Joe's Garage",
+    "address": "888 W 1st Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-343-1814",
+    "source": "NWACA",
+    "id": 507
+  },
+  {
+    "name": "JR Transmission",
+    "address": "1601 Pine Ave",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "(509) 888-1522",
+    "source": "NWACA",
+    "id": 508
+  },
+  {
+    "name": "Kassel Motorsports LLC",
+    "address": "2301 E. Pioneer, Ste A",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "(253) 864-4955",
+    "source": "NWACA",
+    "id": 509
+  },
+  {
+    "name": "KC Martin Automotive Service",
+    "address": "4829 196th SW",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036",
+    "phone": "425-778-1177",
+    "source": "NWACA",
+    "id": 510
+  },
+  {
+    "name": "Kennewick Motoring Services",
+    "address": "8920 W Victoria Avenue",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 374-2222",
+    "source": "NWACA",
+    "id": 511
+  },
+  {
+    "name": "Kimball's Collisions Center",
+    "address": "10111 Pacific Avenue",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444",
+    "phone": "253-537-0276",
+    "source": "NWACA",
+    "id": 512
+  },
+  {
+    "name": "Klahanie Service Center",
+    "address": "4598 Klahanie Drive SE",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip": "98029",
+    "phone": "425-313-3057",
+    "source": "NWACA",
+    "id": 513
+  },
+  {
+    "name": "Kresky Auto Repair & Electric",
+    "address": "1134 Kresky Rd",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "360-736-8264",
+    "source": "NWACA",
+    "id": 514
+  },
+  {
+    "name": "Lacey Collision Center",
+    "address": "1215 Carpenter Road SE",
+    "city": "Lacey",
+    "state": "WA",
+    "zip": "98503",
+    "phone": "(360) 456-5400",
+    "source": "NWACA",
+    "id": 515
+  },
+  {
+    "name": "Lake Street Automotive - Ponderosa",
+    "address": "11211 E Dishman Mica Road",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "(509) 368-9672",
+    "source": "NWACA",
+    "id": 516
+  },
+  {
+    "name": "Lakes Body Shop",
+    "address": "4724 Steilacoom Blvd SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-584-3749",
+    "source": "NWACA",
+    "id": 517
+  },
+  {
+    "name": "Lamorna Garage",
+    "address": "9400 Aurora Ave N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "206-361-7002",
+    "source": "NWACA",
+    "id": 518
+  },
+  {
+    "name": "Lance's Superior Auto Service",
+    "address": "30775 SW BoonesFerry Rd Ste D",
+    "city": "Wilsonville",
+    "state": "OR",
+    "zip": "97070",
+    "phone": "(503) 682-8522",
+    "source": "NWACA",
+    "id": 519
+  },
+  {
+    "name": "Larry's Volvo Repair & Service Inc",
+    "address": "6301 Beacon Avenue S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98108",
+    "phone": "206-722-4070",
+    "source": "NWACA",
+    "id": 520
+  },
+  {
+    "name": "Larsen's Auto Repair",
+    "address": "310 S Bay Rd NE Ste.G",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "360-352-7065",
+    "source": "NWACA",
+    "id": 521
+  },
+  {
+    "name": "Legacy Auto Repair Service",
+    "address": "5078 SE Mile Hill Drive",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366",
+    "phone": "(360) 443-9260",
+    "source": "NWACA",
+    "id": 522
+  },
+  {
+    "name": "Len's Automotive Inc",
+    "address": "1620 136th Place NE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-641-4880",
+    "source": "NWACA",
+    "id": 523
+  },
+  {
+    "name": "Liberty Bay Auto Center",
+    "address": "20201 Front Street NE",
+    "city": "Poulsbo",
+    "state": "WA",
+    "zip": "98370",
+    "phone": "360-697-4066",
+    "source": "NWACA",
+    "id": 524
+  },
+  {
+    "name": "Liberty Tire Pros",
+    "address": "3253 E 1st Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "509-535-8008",
+    "source": "NWACA",
+    "id": 525
+  },
+  {
+    "name": "LK'S Auto Repair",
+    "address": "5921 Street Hwy 303 NE # 100",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98311",
+    "phone": "360-373-6790",
+    "source": "NWACA",
+    "id": 526
+  },
+  {
+    "name": "Lloyd's Automotive",
+    "address": "8517 E Sprague Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99212",
+    "phone": "509-927-9034",
+    "source": "NWACA",
+    "id": 527
+  },
+  {
+    "name": "Local Wrench",
+    "address": "23530 NE SR 3",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "98528",
+    "phone": "360-277-0977",
+    "source": "NWACA",
+    "id": 528
+  },
+  {
+    "name": "Longview Auto & Tire",
+    "address": "655 Commerce Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "(360) 425-3933",
+    "source": "NWACA",
+    "id": 529
+  },
+  {
+    "name": "Lucky's Speed Shop LLC",
+    "address": "503 W. Laurel Rd",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "(360) 656-6570",
+    "source": "NWACA",
+    "id": 530
+  },
+  {
+    "name": "Luttrell's Auto Center",
+    "address": "927 W Rose Street",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362",
+    "phone": "509-529-7491",
+    "source": "NWACA",
+    "id": 531
+  },
+  {
+    "name": "Lynden Service Center",
+    "address": "700 Grover St",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "360-354-2611",
+    "source": "NWACA",
+    "id": 532
+  },
+  {
+    "name": "Mark's Auto Repair",
+    "address": "181 NE Midway Blvd.",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277-2652",
+    "phone": "(360) 279-8928",
+    "source": "NWACA",
+    "id": 533
+  },
+  {
+    "name": "Marque Motors",
+    "address": "7310 S Macadam Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219",
+    "phone": "503-293-5386",
+    "source": "NWACA",
+    "id": 534
+  },
+  {
+    "name": "Marqueen Garage",
+    "address": "1506 Queen Anne Ave North",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109",
+    "phone": "206-285-9100",
+    "source": "NWACA",
+    "id": 535
+  },
+  {
+    "name": "Master Tech Automotive",
+    "address": "1315 Lee Blvd",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352",
+    "phone": "(509) 545-6165",
+    "source": "NWACA",
+    "id": 536
+  },
+  {
+    "name": "Mathews Auto Body",
+    "address": "614 W Columbia Drive",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-582-9713",
+    "source": "NWACA",
+    "id": 537
+  },
+  {
+    "name": "Mathewson's Automotive",
+    "address": "271 Rainier Ave N",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98057",
+    "phone": "425-226-2965",
+    "source": "NWACA",
+    "id": 538
+  },
+  {
+    "name": "Matt's Greenwood Auto Care",
+    "address": "7900 Greenwood Ave N.",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "(206) 257-5748",
+    "source": "NWACA",
+    "id": 539
+  },
+  {
+    "name": "Matt's Import Haven",
+    "address": "6446 S Harding Avenue",
+    "city": "Clinton",
+    "state": "WA",
+    "zip": "98236",
+    "phone": "360-341-3504",
+    "source": "NWACA",
+    "id": 540
+  },
+  {
+    "name": "Maximilian Motorsports",
+    "address": "1983 Bishop Rd",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532",
+    "phone": "(360) 748-8578",
+    "source": "NWACA",
+    "id": 541
+  },
+  {
+    "name": "Maximum Performance",
+    "address": "16603 Meridian East",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "(253) 845-2441",
+    "source": "NWACA",
+    "id": 542
+  },
+  {
+    "name": "McCabe's Automotive Specialist",
+    "address": "3147 Bridgeport Way W",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98466",
+    "phone": "253-565-5173",
+    "source": "NWACA",
+    "id": 543
+  },
+  {
+    "name": "McCue's Repair & Towing",
+    "address": "295 Williams Blvd",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99354",
+    "phone": "509-943-2179",
+    "source": "NWACA",
+    "id": 544
+  },
+  {
+    "name": "Mechanic Northwest",
+    "address": "30402 Pacific Hwy S.",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003",
+    "phone": "(206) 212-6970",
+    "source": "NWACA",
+    "id": 545
+  },
+  {
+    "name": "Mechanics Pride (Spokane Valley)",
+    "address": "523 N. Pines Suite E",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206",
+    "phone": "(509) 321-7243",
+    "source": "NWACA",
+    "id": 546
+  },
+  {
+    "name": "Mechanic's Pride Tire & Automotive Inc",
+    "address": "1126 W 2nd Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99201",
+    "phone": "(509) 747-5371",
+    "source": "NWACA",
+    "id": 547
+  },
+  {
+    "name": "Meridian Collision Center Inc",
+    "address": "15724 Meridian East",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375",
+    "phone": "253-848-2364",
+    "source": "NWACA",
+    "id": 548
+  },
+  {
+    "name": "Metro Metric Automotive",
+    "address": "715 SE 10th Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "503-233-0272",
+    "source": "NWACA",
+    "id": 549
+  },
+  {
+    "name": "Meyers Auto Tech",
+    "address": "1120 North Grant Place",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "509-735-8436",
+    "source": "NWACA",
+    "id": 550
+  },
+  {
+    "name": "Midas Bellingham",
+    "address": "4043 Guide Meridian Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "(360) 647-1111",
+    "source": "NWACA",
+    "id": 551
+  },
+  {
+    "name": "Midas Total Car Care",
+    "address": "801 Ohio Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-733-1880",
+    "source": "NWACA",
+    "id": 552
+  },
+  {
+    "name": "Midland Automotive",
+    "address": "1624 90th Street E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98445",
+    "phone": "253-531-4331",
+    "source": "NWACA",
+    "id": 553
+  },
+  {
+    "name": "Midland Automotive of South Tacoma",
+    "address": "3912 S 56th Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "(253) 475-7405",
+    "source": "NWACA",
+    "id": 554
+  },
+  {
+    "name": "Midvalley Automotive LLC",
+    "address": "270 E Penny Rd",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801",
+    "phone": "(509) 663-1545",
+    "source": "NWACA",
+    "id": 555
+  },
+  {
+    "name": "Midway Automotive & Tire",
+    "address": "726 NE Midway Blvd",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277",
+    "phone": "360-679-2292",
+    "source": "NWACA",
+    "id": 556
+  },
+  {
+    "name": "Mike's Tire and Auto Center",
+    "address": "56841 Venture Lane",
+    "city": "Sunriver",
+    "state": "OR",
+    "zip": "97707",
+    "phone": "(541) 593-2554",
+    "source": "NWACA",
+    "id": 557
+  },
+  {
+    "name": "Miller's Auto Repair",
+    "address": "380 Tangent Street",
+    "city": "Lebanon",
+    "state": "OR",
+    "zip": "97355",
+    "phone": "541-451-1583",
+    "source": "NWACA",
+    "id": 558
+  },
+  {
+    "name": "Mission Motors",
+    "address": "9922 SR 532",
+    "city": "Stanwood",
+    "state": "WA",
+    "zip": "98292",
+    "phone": "(360) 939-2617",
+    "source": "NWACA",
+    "id": 559
+  },
+  {
+    "name": "Modern Collision Rebuild & Service",
+    "address": "9270 Miller Road NE",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "zip": "98110",
+    "phone": "(206) 842-8053",
+    "source": "NWACA",
+    "id": 560
+  },
+  {
+    "name": "Moses Lake Tire Factory",
+    "address": "11958 Wheeler Rd NE",
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837",
+    "phone": "(509) 820-4266",
+    "source": "NWACA",
+    "id": 561
+  },
+  {
+    "name": "Moss Alley Motors Inc",
+    "address": "932 12th Avenue",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98122",
+    "phone": "(206) 325-3992",
+    "source": "NWACA",
+    "id": 562
+  },
+  {
+    "name": "Nedrow's Complete Automotive Repair",
+    "address": "730 N 16th Ave #5",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "(509) 902-8080",
+    "source": "NWACA",
+    "id": 563
+  },
+  {
+    "name": "Newport Hills Chevron Service",
+    "address": "5804 119th Avenue SE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98006",
+    "phone": "425-747-6991",
+    "source": "NWACA",
+    "id": 564
+  },
+  {
+    "name": "Nisqually Automotive & Towing",
+    "address": "10246 Martin Way E",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "360-491-1755",
+    "source": "NWACA",
+    "id": 565
+  },
+  {
+    "name": "Norm's Auto Repair",
+    "address": "295 West 1st Avenue",
+    "city": "Colville",
+    "state": "WA",
+    "zip": "99114",
+    "phone": "509-685-9653",
+    "source": "NWACA",
+    "id": 566
+  },
+  {
+    "name": "North Eugene Automotive",
+    "address": "1048 River Rd",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404",
+    "phone": "(541) 688-1917",
+    "source": "NWACA",
+    "id": 567
+  },
+  {
+    "name": "Northshore Automotive",
+    "address": "35406 21st Ave SW",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98023-3050",
+    "phone": "253-952-2330",
+    "source": "NWACA",
+    "id": 568
+  },
+  {
+    "name": "Northwest Auto Center",
+    "address": "13910 NE 20th Street",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-747-3402",
+    "source": "NWACA",
+    "id": 569
+  },
+  {
+    "name": "Northwest Automotive Inc",
+    "address": "12300 Lake City Way NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98125",
+    "phone": "(206) 526-5979",
+    "source": "NWACA",
+    "id": 570
+  },
+  {
+    "name": "Northwest Collision Automotive",
+    "address": "1390 W Poplar Street",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362",
+    "phone": "509-529-9638",
+    "source": "NWACA",
+    "id": 571
+  },
+  {
+    "name": "Northwest Radiator Works Inc",
+    "address": "2120 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "253-474-9432",
+    "source": "NWACA",
+    "id": 572
+  },
+  {
+    "name": "Olsen Auto Body & Collision Inc",
+    "address": "1919 Humboldt Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-733-0463",
+    "source": "NWACA",
+    "id": 573
+  },
+  {
+    "name": "Olympic Transmissions & Auto Care",
+    "address": "7011 Martin Way East, Suite A",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98516",
+    "phone": "360-456-2266",
+    "source": "NWACA",
+    "id": 574
+  },
+  {
+    "name": "Orcas Auto Tech",
+    "address": "35 Hope Ln",
+    "city": "Eastsound",
+    "state": "WA",
+    "zip": "98245",
+    "phone": "(360) 376-5400",
+    "source": "NWACA",
+    "id": 575
+  },
+  {
+    "name": "Pacific Auto Body",
+    "address": "2400 Airport Way So",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98134",
+    "phone": "206-682-1005",
+    "source": "NWACA",
+    "id": 576
+  },
+  {
+    "name": "Pacific Motor Company Inc",
+    "address": "1408 M L King JR Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405",
+    "phone": "253-572-7214",
+    "source": "NWACA",
+    "id": 577
+  },
+  {
+    "name": "Pacific Rim Automotive Inc",
+    "address": "3810 Stone Way N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103",
+    "phone": "206-632-1175",
+    "source": "NWACA",
+    "id": 578
+  },
+  {
+    "name": "Pacific Tire & Brake",
+    "address": "1027 N Coast Hwy",
+    "city": "Newport",
+    "state": "OR",
+    "zip": "97365",
+    "phone": "541-265-8896",
+    "source": "NWACA",
+    "id": 579
+  },
+  {
+    "name": "Pasco Tire Factory",
+    "address": "1324 N 4th Ave",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-1724",
+    "source": "NWACA",
+    "id": 580
+  },
+  {
+    "name": "Pasco Tire Factory - 2nd Location",
+    "address": "3306 N Commercial Ave",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "(509) 547-8998",
+    "source": "NWACA",
+    "id": 581
+  },
+  {
+    "name": "PastPower Automotive",
+    "address": "730 Urban Industrial Way #7",
+    "city": "East Wenatchee",
+    "state": "WA",
+    "zip": "98802",
+    "phone": "(509) 492-3888",
+    "source": "NWACA",
+    "id": 582
+  },
+  {
+    "name": "Pat's Auto Care",
+    "address": "274 Otto St Unit P",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368",
+    "phone": "(425) 996-3535",
+    "source": "NWACA",
+    "id": 583
+  },
+  {
+    "name": "Pete's Auto Repair",
+    "address": "6209 Portal Way",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-380-2277",
+    "source": "NWACA",
+    "id": 584
+  },
+  {
+    "name": "PJM Auto LLC",
+    "address": "3211 S Coast Hwy Unit 2",
+    "city": "South Beach",
+    "state": "OR",
+    "zip": "97366",
+    "phone": "(541) 265-8229",
+    "source": "NWACA",
+    "id": 585
+  },
+  {
+    "name": "Plateau Diesel Performance",
+    "address": "2551 Cole Street, Suite J",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022",
+    "phone": "(206) 953-3971",
+    "source": "NWACA",
+    "id": 586
+  },
+  {
+    "name": "Plateau Motors Auto Repair",
+    "address": "625 228th Ave NE #B",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip": "98074",
+    "phone": "(425) 898-9900",
+    "source": "NWACA",
+    "id": 587
+  },
+  {
+    "name": "Platinum Automotive Services",
+    "address": "8504 W Clearwater Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 528-5115",
+    "source": "NWACA",
+    "id": 588
+  },
+  {
+    "name": "PNW Automotive",
+    "address": "1050 Olney Ave",
+    "city": "Astoria",
+    "state": "OR",
+    "zip": "97103",
+    "phone": "(503) 298-9956",
+    "source": "NWACA",
+    "id": 589
+  },
+  {
+    "name": "Point S Creswell Tire & Auto",
+    "address": "25 South Mill",
+    "city": "Creswell",
+    "state": "OR",
+    "zip": "97426",
+    "phone": "541-895-4840",
+    "source": "NWACA",
+    "id": 590
+  },
+  {
+    "name": "Portland Motor Works Inc",
+    "address": "9032 SE Woodstock Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266",
+    "phone": "(503) 360-6658",
+    "source": "NWACA",
+    "id": 591
+  },
+  {
+    "name": "Prairie Road Automotive",
+    "address": "89925 Prairie Road",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "(541) 688-3346",
+    "source": "NWACA",
+    "id": 592
+  },
+  {
+    "name": "Precision Automotive Calibration",
+    "address": "4727 Kean Blvd",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312",
+    "phone": "(360) 728-2580",
+    "source": "NWACA",
+    "id": 593
+  },
+  {
+    "name": "Precision Automotive Repair",
+    "address": "825 East 2nd Street",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058",
+    "phone": "(541) 296-5153",
+    "source": "NWACA",
+    "id": 594
+  },
+  {
+    "name": "Precision Body & Paint",
+    "address": "14145 SW Canyon Road",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005",
+    "phone": "503-641-5634",
+    "source": "NWACA",
+    "id": 595
+  },
+  {
+    "name": "Precision Performance",
+    "address": "93976 Ocean Way",
+    "city": "Gold Beach",
+    "state": "OR",
+    "zip": "97444",
+    "phone": "541-247-2232",
+    "source": "NWACA",
+    "id": 596
+  },
+  {
+    "name": "Precision Tune Auto Care - Marysville",
+    "address": "9113 State Avenue, Suite A",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270",
+    "phone": "360-653-1650",
+    "source": "NWACA",
+    "id": 597
+  },
+  {
+    "name": "Preedy Brothers Tires Inc",
+    "address": "703 E Pacific Avenue",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "509-534-0417",
+    "source": "NWACA",
+    "id": 598
+  },
+  {
+    "name": "Premier Automotive Services",
+    "address": "25009 Pacific Highway S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "253-839-1480",
+    "source": "NWACA",
+    "id": 599
+  },
+  {
+    "name": "Premium Mechanics Automotive",
+    "address": "815 B ST, Unit B",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531",
+    "phone": "(360) 669-0779",
+    "source": "NWACA",
+    "id": 600
+  },
+  {
+    "name": "Quality Auto Electric Inc",
+    "address": "2802 Kent Des Moines Road",
+    "city": "Des Moines",
+    "state": "WA",
+    "zip": "98198",
+    "phone": "206-878-0228",
+    "source": "NWACA",
+    "id": 601
+  },
+  {
+    "name": "Quality Foreign Auto Inc",
+    "address": "18002 Bothell-Everett Hwy #7",
+    "city": "Mill Creek",
+    "state": "WA",
+    "zip": "98012-6844",
+    "phone": "425-481-1200",
+    "source": "NWACA",
+    "id": 602
+  },
+  {
+    "name": "Rainbow Auto Service LLC",
+    "address": "2729 Jensen Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-734-6117",
+    "source": "NWACA",
+    "id": 603
+  },
+  {
+    "name": "Rainier Automotive - Auto Repair & Service",
+    "address": "23933 SE 264th Street",
+    "city": "Maple Valley",
+    "state": "WA",
+    "zip": "98038",
+    "phone": "(425) 310-1100",
+    "source": "NWACA",
+    "id": 604
+  },
+  {
+    "name": "Ray & Roy's Repair, Inc.",
+    "address": "13524 E. Sprague Ave, Suite 6",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99216-0888",
+    "phone": "509-926-2967",
+    "source": "NWACA",
+    "id": 605
+  },
+  {
+    "name": "Re-Born Automotive",
+    "address": "1800 SE M.L. King Jr BLVD",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "phone": "503-231-4947",
+    "source": "NWACA",
+    "id": 606
+  },
+  {
+    "name": "Richland Tire Factory",
+    "address": "2761 Duportail St",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352",
+    "phone": "(509) 493-3301",
+    "source": "NWACA",
+    "id": 607
+  },
+  {
+    "name": "Rob's Automotive Repair",
+    "address": "11955 SE Hwy 212",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015",
+    "phone": "(503) 650-6101",
+    "source": "NWACA",
+    "id": 608
+  },
+  {
+    "name": "Rockford Auto Inc",
+    "address": "23 S. First St.",
+    "city": "Rockford",
+    "state": "WA",
+    "zip": "99030",
+    "phone": "509-291-5211",
+    "source": "NWACA",
+    "id": 609
+  },
+  {
+    "name": "Rod's Master Auto Tech",
+    "address": "3709 Bennett Drive",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "(360) 733-3043",
+    "source": "NWACA",
+    "id": 610
+  },
+  {
+    "name": "Rolf's Auto Service - Tacoma",
+    "address": "6423 6th Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98406",
+    "phone": "(253) 655-0889",
+    "source": "NWACA",
+    "id": 611
+  },
+  {
+    "name": "Rolf's Import Auto Service - Lakewood",
+    "address": "3122 96th Street S",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(253) 584-7770",
+    "source": "NWACA",
+    "id": 612
+  },
+  {
+    "name": "Ruggles Auto Repair",
+    "address": "108 Washington Avenue",
+    "city": "Toppenish",
+    "state": "WA",
+    "zip": "98948",
+    "phone": "509-865-4626",
+    "source": "NWACA",
+    "id": 613
+  },
+  {
+    "name": "Rusty's Import Auto Repair",
+    "address": "141 Kemp St",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98362",
+    "phone": "360-457-5267",
+    "source": "NWACA",
+    "id": 614
+  },
+  {
+    "name": "Saggu Automotive Repair",
+    "address": "10314 SE 244th St",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98030",
+    "phone": "(253) 277-1810",
+    "source": "NWACA",
+    "id": 615
+  },
+  {
+    "name": "Sameday Auto Scratch & Dent Repair",
+    "address": "2002 1/2 South Bay Road",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506",
+    "phone": "360-357-6196",
+    "source": "NWACA",
+    "id": 616
+  },
+  {
+    "name": "Save More Automotive",
+    "address": "2605 N Hamilton Street",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 482-7283",
+    "source": "NWACA",
+    "id": 617
+  },
+  {
+    "name": "Scanwest Autosport",
+    "address": "9520 Greenwood Avenue N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98133",
+    "phone": "206-789-2819",
+    "source": "NWACA",
+    "id": 618
+  },
+  {
+    "name": "Scotties Auto Body Repair Inc",
+    "address": "503 SW Baseline St",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "phone": "503-648-4275",
+    "source": "NWACA",
+    "id": 619
+  },
+  {
+    "name": "Scott's Automotive",
+    "address": "2600 NE McDonald Lane",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "phone": "(503) 472-9622",
+    "source": "NWACA",
+    "id": 620
+  },
+  {
+    "name": "Service Pro Inc",
+    "address": "208 Nooksack Avenue",
+    "city": "Nooksack",
+    "state": "WA",
+    "zip": "98247",
+    "phone": "(360) 966-4664",
+    "source": "NWACA",
+    "id": 621
+  },
+  {
+    "name": "Sherwood Auto Repair",
+    "address": "9965 SW Tualatin-Sherwood Road",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062",
+    "phone": "503-692-4000",
+    "source": "NWACA",
+    "id": 622
+  },
+  {
+    "name": "Silver Star Automotive",
+    "address": "3320 E Springfield",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202",
+    "phone": "(509) 835-5334",
+    "source": "NWACA",
+    "id": 623
+  },
+  {
+    "name": "Silverdale Autoworks",
+    "address": "3342 NW Byron",
+    "city": "Silverdale",
+    "state": "WA",
+    "zip": "98383",
+    "phone": "360-692-5201",
+    "source": "NWACA",
+    "id": 624
+  },
+  {
+    "name": "Simmonson Automotive Inc",
+    "address": "627 W Columbia Street",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "phone": "509-547-1659",
+    "source": "NWACA",
+    "id": 625
+  },
+  {
+    "name": "Small World Auto Center Inc",
+    "address": "2090 W 11th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402",
+    "phone": "541-683-6475",
+    "source": "NWACA",
+    "id": 626
+  },
+  {
+    "name": "Smart Service Inc",
+    "address": "20309-B Ballinger Way NE",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-417-0880",
+    "source": "NWACA",
+    "id": 627
+  },
+  {
+    "name": "Sound Auto Care",
+    "address": "18451 Des Moines Memorial Dr. A",
+    "city": "SeaTac",
+    "state": "WA",
+    "zip": "98148",
+    "phone": "(206) 246-3888",
+    "source": "NWACA",
+    "id": 628
+  },
+  {
+    "name": "South End Auto Care",
+    "address": "8318 Pacific Hwy E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98422",
+    "phone": "253-922-9922",
+    "source": "NWACA",
+    "id": 629
+  },
+  {
+    "name": "Sparks Car Care",
+    "address": "32627 Pacific Hwy S",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003",
+    "phone": "(253) 874-1070",
+    "source": "NWACA",
+    "id": 630
+  },
+  {
+    "name": "Sports Car Shop",
+    "address": "288 W 6th Avenue",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "541-342-1520",
+    "source": "NWACA",
+    "id": 631
+  },
+  {
+    "name": "Sterling Automotive Service",
+    "address": "10218 24th Street E.",
+    "city": "Edgewood",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "253-927-9300",
+    "source": "NWACA",
+    "id": 632
+  },
+  {
+    "name": "Steve's Auto Service",
+    "address": "112 N Meridian Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "phone": "503-554-1778",
+    "source": "NWACA",
+    "id": 633
+  },
+  {
+    "name": "Steve's Tire & Auto Repair",
+    "address": "6509 W Rio Grande",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 783-3120",
+    "source": "NWACA",
+    "id": 634
+  },
+  {
+    "name": "Stillbuilt Automotive",
+    "address": "3315 T Ave",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "(360) 299-8252",
+    "source": "NWACA",
+    "id": 635
+  },
+  {
+    "name": "Strictly BMW Independent Service",
+    "address": "2111 140th Avenue NE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005",
+    "phone": "425-747-6044",
+    "source": "NWACA",
+    "id": 636
+  },
+  {
+    "name": "Stroh's Automotive Services",
+    "address": "4905 128th Street E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98446",
+    "phone": "(253) 531-5310",
+    "source": "NWACA",
+    "id": 637
+  },
+  {
+    "name": "Suburb Service Inc",
+    "address": "15017 Bothell Way NE",
+    "city": "Lake Forest Park",
+    "state": "WA",
+    "zip": "98155",
+    "phone": "206-364-8089",
+    "source": "NWACA",
+    "id": 638
+  },
+  {
+    "name": "Sun Automotive - Campus",
+    "address": "1905 Agate Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97403",
+    "phone": "(541) 344-0869",
+    "source": "NWACA",
+    "id": 639
+  },
+  {
+    "name": "Sun Automotive - Junction City",
+    "address": "490 Ivy Street",
+    "city": "Junction City",
+    "state": "OR",
+    "zip": "97448",
+    "phone": "(541) 998-3717",
+    "source": "NWACA",
+    "id": 640
+  },
+  {
+    "name": "Sun Automotive - Oakway",
+    "address": "391 Rustic Place",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401",
+    "phone": "(541) 344-2219",
+    "source": "NWACA",
+    "id": 641
+  },
+  {
+    "name": "Sun Automotive - Springfield",
+    "address": "255 South A Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97477",
+    "phone": "(541) 746-6430",
+    "source": "NWACA",
+    "id": 642
+  },
+  {
+    "name": "Superior Auto Service",
+    "address": "4333 Leary Way NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "phone": "(206) 782-6474",
+    "source": "NWACA",
+    "id": 643
+  },
+  {
+    "name": "Superior Tire Service - Longview",
+    "address": "660 14th Ave",
+    "city": "Longview",
+    "state": "WA",
+    "zip": "98632",
+    "phone": "(360) 425-5020",
+    "source": "NWACA",
+    "id": 644
+  },
+  {
+    "name": "Superior Tire Service - Portland",
+    "address": "7932 N Upland Drive",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97203",
+    "phone": "(503) 595-5470",
+    "source": "NWACA",
+    "id": 645
+  },
+  {
+    "name": "Superior Tire Service - Salem",
+    "address": "4230 27th Ct SE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97302",
+    "phone": "(503) 585-1955",
+    "source": "NWACA",
+    "id": 646
+  },
+  {
+    "name": "Swedish Automotive Inc",
+    "address": "7901 35th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 938-8685",
+    "source": "NWACA",
+    "id": 647
+  },
+  {
+    "name": "TechMotive Auto Service LLC",
+    "address": "1616 US Hwy 12",
+    "city": "Ethel",
+    "state": "WA",
+    "zip": "98542",
+    "phone": "(360) 978-4397",
+    "source": "NWACA",
+    "id": 648
+  },
+  {
+    "name": "Terry's Automotive Inc",
+    "address": "2203 Harrison Avenue NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "360-943-0410",
+    "source": "NWACA",
+    "id": 649
+  },
+  {
+    "name": "The 509 Garage",
+    "address": "3620 N Nevada ST",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99207",
+    "phone": "(509) 598-8244",
+    "source": "NWACA",
+    "id": 650
+  },
+  {
+    "name": "The Carr Shop",
+    "address": "1319 O Ave",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "(360) 422-4154",
+    "source": "NWACA",
+    "id": 651
+  },
+  {
+    "name": "The Master Wrench Inc",
+    "address": "9803 SW Barbur Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219",
+    "phone": "503-244-0467",
+    "source": "NWACA",
+    "id": 652
+  },
+  {
+    "name": "The Service Center At 1-5 Motors",
+    "address": "3151 20th Street E",
+    "city": "Fife",
+    "state": "WA",
+    "zip": "98424",
+    "phone": "253-248-1080",
+    "source": "NWACA",
+    "id": 653
+  },
+  {
+    "name": "Thurston County Collision",
+    "address": "410 Ronlee Lane NW Suite C",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502",
+    "phone": "(360) 972-2989",
+    "source": "NWACA",
+    "id": 654
+  },
+  {
+    "name": "Tier 1 Automotive",
+    "address": "7045 Seawitch LN NW",
+    "city": "Seabeck",
+    "state": "WA",
+    "zip": "98380",
+    "phone": "(253) 509-3612",
+    "source": "NWACA",
+    "id": 655
+  },
+  {
+    "name": "Tiny's Tire Pros",
+    "address": "10805 Pacific Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444-5735",
+    "phone": "253-531-4535",
+    "source": "NWACA",
+    "id": 656
+  },
+  {
+    "name": "Tire Nation Point S - Arlington",
+    "address": "315 N West Ave",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "(360) 435-9982",
+    "source": "NWACA",
+    "id": 657
+  },
+  {
+    "name": "Tire Nation Point S - Clinton",
+    "address": "6423 Humphrey Road",
+    "city": "Clinton",
+    "state": "WA",
+    "zip": "98236",
+    "phone": "360-341-5274",
+    "source": "NWACA",
+    "id": 658
+  },
+  {
+    "name": "Tire Nation Point S - Mall Way",
+    "address": "406 SE Everett Mall Way, Ste 101",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98208",
+    "phone": "(425) 355-2900",
+    "source": "NWACA",
+    "id": 659
+  },
+  {
+    "name": "Tires Direct Seattle",
+    "address": "8124 S 208th St. Bld 1, STE 101",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "(253) 656-3265",
+    "source": "NWACA",
+    "id": 660
+  },
+  {
+    "name": "TNT Tire Point S Auto Service",
+    "address": "3711 S Tacoma Way",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98409",
+    "phone": "(253) 475-6777",
+    "source": "NWACA",
+    "id": 661
+  },
+  {
+    "name": "Todd's Tire Factory",
+    "address": "4215 SE 82nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266",
+    "phone": "(503) 771-0121",
+    "source": "NWACA",
+    "id": 662
+  },
+  {
+    "name": "Tom's Automotive Service",
+    "address": "3616 SW Oregon Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 937-1144",
+    "source": "NWACA",
+    "id": 663
+  },
+  {
+    "name": "Town Center Automotive",
+    "address": "14725 SE 82nd Dr",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015",
+    "phone": "(503) 770-8787",
+    "source": "NWACA",
+    "id": 664
+  },
+  {
+    "name": "Tru-Line Frame & Wheel Inc",
+    "address": "312 Boren Ave S",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98144",
+    "phone": "(206) 325-3340",
+    "source": "NWACA",
+    "id": 665
+  },
+  {
+    "name": "Turner Automotive",
+    "address": "111 Binghampton Street",
+    "city": "Rainier",
+    "state": "WA",
+    "zip": "98576",
+    "phone": "360-446-1418",
+    "source": "NWACA",
+    "id": 666
+  },
+  {
+    "name": "Tveten's Auto Clinic",
+    "address": "5425 Lakewood Towne Ctr Blvd SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499",
+    "phone": "253-588-5201",
+    "source": "NWACA",
+    "id": 667
+  },
+  {
+    "name": "Tyler's Automotive",
+    "address": "12485 SW Main Street",
+    "city": "Tigard",
+    "state": "OR",
+    "zip": "97223",
+    "phone": "503-639-5588",
+    "source": "NWACA",
+    "id": 668
+  },
+  {
+    "name": "Unlimited Service - Bakerview",
+    "address": "2325 E Bakerview Road",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226",
+    "phone": "360-734-2828",
+    "source": "NWACA",
+    "id": 669
+  },
+  {
+    "name": "Unlimited Service - Downtown",
+    "address": "1515 North Forest Street",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225",
+    "phone": "360-734-4610",
+    "source": "NWACA",
+    "id": 670
+  },
+  {
+    "name": "Valley Automotive",
+    "address": "17621 SE 272nd Street",
+    "city": "Covington",
+    "state": "WA",
+    "zip": "98042",
+    "phone": "(425) 432-5476",
+    "source": "NWACA",
+    "id": 671
+  },
+  {
+    "name": "Van Loo's Auto Service, Inc",
+    "address": "205 Liberty Street",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "360-354-4277",
+    "source": "NWACA",
+    "id": 672
+  },
+  {
+    "name": "Vander Wal's Garage Inc",
+    "address": "321 S 2nd Street",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584",
+    "phone": "(360) 426-8208",
+    "source": "NWACA",
+    "id": 673
+  },
+  {
+    "name": "Vic's Auto Center Inc",
+    "address": "15880 SW Boones Ferry Road",
+    "city": "Lake Oswego",
+    "state": "OR",
+    "zip": "97035",
+    "phone": "(503) 636-7896",
+    "source": "NWACA",
+    "id": 674
+  },
+  {
+    "name": "Village Autocare and Tires",
+    "address": "2724 NE 45th Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105",
+    "phone": "(206) 526-2345",
+    "source": "NWACA",
+    "id": 675
+  },
+  {
+    "name": "Warren Secord Automotive & Tire",
+    "address": "1127 West Smith Street",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032",
+    "phone": "253-852-1492",
+    "source": "NWACA",
+    "id": 676
+  },
+  {
+    "name": "Wayne's Garage",
+    "address": "333 Q Street",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97477",
+    "phone": "(541) 342-3941",
+    "source": "NWACA",
+    "id": 677
+  },
+  {
+    "name": "Wenatchee Euro, LLC",
+    "address": "3781 N Clemons Street",
+    "city": "East Wenatchee",
+    "state": "WA",
+    "zip": "98802",
+    "phone": "(509) 888-7696",
+    "source": "NWACA",
+    "id": 678
+  },
+  {
+    "name": "Wespaul's Automotive",
+    "address": "910 26th Street",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221",
+    "phone": "360-293-6010",
+    "source": "NWACA",
+    "id": 679
+  },
+  {
+    "name": "West Seattle Autoworks",
+    "address": "7501 35th Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98126",
+    "phone": "(206) 257-5344",
+    "source": "NWACA",
+    "id": 680
+  },
+  {
+    "name": "Westside Car Care",
+    "address": "1019 S 26th Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-457-1688",
+    "source": "NWACA",
+    "id": 681
+  },
+  {
+    "name": "Wheatland Repair, LLC",
+    "address": "27496 McInnis Road",
+    "city": "Davenport",
+    "state": "WA",
+    "zip": "99122",
+    "phone": "(509) 690-0013",
+    "source": "NWACA",
+    "id": 682
+  },
+  {
+    "name": "Wilderness Auto Service",
+    "address": "23701 Maple Valley Hwy",
+    "city": "Maple Valley",
+    "state": "WA",
+    "zip": "98038",
+    "phone": "425-432-1636",
+    "source": "NWACA",
+    "id": 683
+  },
+  {
+    "name": "Willand's Tech Auto",
+    "address": "2040 Vista Drive",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248",
+    "phone": "360-384-1584",
+    "source": "NWACA",
+    "id": 684
+  },
+  {
+    "name": "Will's Auto & Truck Repair",
+    "address": "1105 2nd St SE",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98290",
+    "phone": "(360) 799-6933",
+    "source": "NWACA",
+    "id": 685
+  },
+  {
+    "name": "Wise Automotive LLC",
+    "address": "6936 Canyon Rd",
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926",
+    "phone": "(509) 962-2456",
+    "source": "NWACA",
+    "id": 686
+  },
+  {
+    "name": "Yakima Automotive Inc",
+    "address": "1 S 12th Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902",
+    "phone": "509-248-7218",
+    "source": "NWACA",
+    "id": 687
+  },
+  {
+    "name": "Z Sport",
+    "address": "3532 Smith Ave",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201",
+    "phone": "(425) 259-4691",
+    "source": "NWACA",
+    "id": 688
+  },
+  {
+    "name": "Zahntech Automotive",
+    "address": "15215 NE 90th Street",
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98059-4568",
+    "phone": "425-861-8060",
+    "source": "NWACA",
+    "id": 689
+  },
+  {
+    "name": "Z's Car Care Inc",
+    "address": "402 SW Walnut Street",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "phone": "503-648-3552",
+    "source": "NWACA",
+    "id": 690
+  },
+  {
+    "name": "Zylstra Tire Factory",
+    "address": "501 Grover Street",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264",
+    "phone": "(360) 354-4493",
+    "source": "NWACA",
+    "id": 691
+  },
+  {
+    "name": "15th Street Automotive",
+    "address": "116 10th Street SE",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98372",
+    "phone": "253-840-2250",
+    "source": "NWACA",
+    "id": 692
+  },
+  {
+    "name": "34th Street Garage",
+    "address": "2410 34th Ave W",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98199",
+    "phone": "206-283-3448",
+    "source": "NWACA",
+    "id": 693
+  },
+  {
+    "name": "360 Automotive & Repair",
+    "address": "6200 W Clearwater Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336",
+    "phone": "(509) 572-2769",
+    "source": "NWACA",
+    "id": 694
+  },
+  {
+    "name": "360 Collision",
+    "address": "3833 168th Street NE Ste 8",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98223",
+    "phone": "(360) 515-7500",
+    "source": "NWACA",
+    "id": 695
+  },
+  {
+    "name": "808 Automotive, Inc.",
+    "address": "3954 Pacific Hwy E",
+    "city": "Hubbard",
+    "state": "OR",
+    "zip": "97032",
+    "phone": "(503) 852-2637",
+    "source": "NWACA",
+    "id": 696
+  }
+]
