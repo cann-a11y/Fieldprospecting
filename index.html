@@ -876,14 +876,8 @@ function updateRepDisplay(name) {
     <h2>📍 Build a Route</h2>
     <label for="rbName">Route Name</label>
     <input type="text" id="rbName" placeholder="e.g. Lake Oswego → Astoria → Cannon Beach">
-    <label for="rbState">Data Source</label>
-    <select id="rbState" style="width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;">
-      <option value="nwaca">Oregon / Washington (NWACA members)</option>
-      <option value="ascca">California (ASCCA members)</option>
-      <option value="bar">California — All Licensed Shops (BAR database)</option>
-    </select>
     <label for="rbCities">Cities to visit, one per line — in route order</label>
-    <textarea id="rbCities" style="width:100%;min-height:130px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Lake Oswego&#10;Portland&#10;Astoria&#10;Warrenton&#10;Seaside&#10;Hillsboro&#10;Beaverton"></textarea>
+    <textarea id="rbCities" style="width:100%;min-height:130px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Lake Oswego&#10;Portland&#10;Astoria&#10;Warrenton&#10;Hillsboro&#10;Beaverton"></textarea>
     <label for="rbMax">Max shops per day</label>
     <input type="text" id="rbMax" value="8" style="width:60px;padding:6px 8px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:16px;">
     <div id="rbStatus" style="font-size:12px;color:var(--muted);margin-bottom:10px;min-height:16px;"></div>
@@ -900,58 +894,55 @@ function closeRouteBuilder(){ document.getElementById('routeBuilderModal').class
 
 async function generateRoute(){
   const name = document.getElementById('rbName').value.trim();
-  const src  = document.getElementById('rbState').value;
   const citiesRaw = document.getElementById('rbCities').value;
   const maxPerDay = parseInt(document.getElementById('rbMax').value)||8;
   const status = document.getElementById('rbStatus');
   const btn = document.getElementById('rbGenerateBtn');
 
   if(!name||!citiesRaw){ alert('Enter a route name and at least one city.'); return; }
-
   const cities = citiesRaw.split('\n').map(c=>c.trim().toLowerCase()).filter(Boolean);
 
-  const dbMap = {
-    nwaca: 'nwaca_shops.json',
-    ascca: 'ascca_shops.json',
-    bar:   'ca_bar_prospects.json'
-  };
-  const dbFile = dbMap[src];
   btn.textContent='Loading…'; btn.disabled=true;
-  status.textContent='Fetching '+dbFile+'…';
+  status.textContent='Fetching shop database…';
 
   try {
-    const resp = await fetch(dbFile+'?t='+Date.now());
-    if(!resp.ok) throw new Error('Could not load '+dbFile+' ('+resp.status+')');
+    // master_prospects.json = NWACA (OR/WA) + ASCCA (CA), already Tekmetric-scrubbed
+    const resp = await fetch('master_prospects.json?t='+Date.now());
+    if(!resp.ok) throw new Error('Could not load master_prospects.json ('+resp.status+')');
     const allShops = await resp.json();
-    status.textContent='Loaded '+allShops.length+' shops. Filtering…';
+    status.textContent='Loaded '+allShops.length+' prospects. Filtering…';
 
-    const matching = allShops.filter(s=> cities.includes((s.city||'').trim().toLowerCase()));
-    if(!matching.length){ alert('No shops found for those cities in '+dbFile+'.\nCheck spelling (e.g. "Portland" not "portland") — database uses title case.'); return; }
+    const matching = allShops.filter(s => cities.includes((s.city||'').trim().toLowerCase()));
 
-    // Sort by city order as entered, then name
+    if(!matching.length){
+      alert('No shops found for those cities.\n\nCheck spelling — city names are title case (e.g. "Lake Oswego", "Astoria").\n\nAvailable: try cities in OR, WA, or CA.');
+      return;
+    }
+
+    // Sort by city order as entered, then by name
     matching.sort((a,b)=>{
-      const ai=cities.indexOf((a.city||'').toLowerCase());
-      const bi=cities.indexOf((b.city||'').toLowerCase());
+      const ai = cities.indexOf((a.city||'').toLowerCase());
+      const bi = cities.indexOf((b.city||'').toLowerCase());
       return ai!==bi ? ai-bi : (a.name||'').localeCompare(b.name||'');
     });
 
+    // Build plan — source (NWACA / ASCCA) becomes a signal tag on the card
     const plan = matching.map((s,i)=>({
-      id: src+'-'+i+'-'+Math.random().toString(36).slice(2,6),
+      id: 'gen-'+Date.now()+'-'+i,
       shop: s.name,
       day: 'Day '+(Math.floor(i/maxPerDay)+1),
       address: [s.address, s.city, s.state, s.zip].filter(Boolean).join(', '),
       phone: s.phone||'',
-      tags: (s.source==='NWACA'||s.source==='ASCCA') ? ['Assoc'] : [],
+      tags: s.source ? [s.source] : [],
       stars: null,
-      reviewInfo: 'Source: '+(s.source||dbFile),
-      notes: (s.source||'DB')+' · '+s.city+', '+s.state
+      reviewInfo: (s.source||'')+ ' member',
+      notes: (s.source||'')+' member · '+s.city+', '+(s.state||'')
     }));
 
     PLANS[name] = plan;
 
-    // Add to plan selector and switch
     const sel = document.getElementById('planSel');
-    if(!sel.querySelector('option[value="'+name+'"]')){
+    if(!sel.querySelector('option[value="'+CSS.escape(name)+'"]')){
       const opt = document.createElement('option');
       opt.value=name; opt.textContent=name;
       sel.appendChild(opt);
@@ -959,9 +950,9 @@ async function generateRoute(){
     sel.value=name;
     sel.dispatchEvent(new Event('change'));
     closeRouteBuilder();
-    status.textContent='';
     document.getElementById('rbName').value='';
     document.getElementById('rbCities').value='';
+    status.textContent='';
 
   } catch(e){
     alert('Error: '+e.message);
@@ -972,18 +963,3 @@ async function generateRoute(){
 }
 </script>
 </body>
-</html
-  // ── Day 9 — Draper / Sandy / Bluffdale (bonus day) ──
-  ,{id:"richins-car-service-draper",shop:"Richins Car Service",day:"Day 9",address:"568 E 12300 S, Draper UT 84020",phone:"(801) 571-1111",tags:["Technet"],stars:"4.9",reviewInfo:"2300+ reviews (Birdeye)",notes:"TechNet member · long-established full-service · very high review volume · strong quality signal · M–F"}
-  ,{id:"service-masters-draper",shop:"Service Masters Auto Repair",day:"Day 9",address:"445 E 12300 S, Draper UT 84020",phone:"(801) 515-3164",tags:["BG","AutoTechIQ","Technet"],stars:"4.9",reviewInfo:"100+ reviews",notes:"TechNet + BG affiliate · family-owned · 3yr/36k nationwide warranty · complimentary shuttle · same-day service"}
-  ,{id:"jakes-auto-truck-draper",shop:"Jake's Auto & Truck Repair",day:"Day 9",address:"12665 S Minuteman Dr #3, Draper UT 84020",phone:"(801) 571-4471",tags:[],stars:"4.7",reviewInfo:"591 reviews (Birdeye)",notes:"Digital inspections · fleet capable · in Draper since 1996 · M–F"}
-  ,{id:"pk-auto-repair-draper",shop:"PK Auto Repair",day:"Day 9",address:"11441 S 700 E, Draper UT 84020",phone:"(801) 571-1522",tags:["NAPA"],stars:"4.8",reviewInfo:"87 Google reviews",notes:"Est. 1997 · BBB A+ · full-service · M–F"}
-  ,{id:"enniss-auto-draper",shop:"Enniss Auto Service",day:"Day 9",address:"11717 S 700 E, Draper UT 84020",phone:"(801) 571-2021",tags:["Mitchell"],stars:"4.8",reviewInfo:"69 reviews · 60 SureCritic",notes:"Founded 1950 · legacy shop · 60 SureCritic = active Mitchell1 · honest/fair pricing reputation"}
-  ,{id:"utleys-european-draper",shop:"Utley's European Auto Repair",day:"Day 9",address:"118 E 12675 S, Draper UT 84020",phone:"(801) 438-4600",tags:["Euro"],stars:"4.8",reviewInfo:"221 Google reviews",notes:"European specialist (Audi/BMW/Mercedes/VW/Volvo) · est. 2014"}
-  ,{id:"gr-diesel-draper",shop:"G&R Diesel Performance & Repair",day:"Day 9",address:"97 E 12675 S, Draper UT 84020",phone:"(385) 406-2722",tags:[],stars:"4.6",reviewInfo:"155 Google reviews",notes:"Diesel specialist · turbos/injectors/engine overhauls · BBB member since 2007"}
-  ,{id:"gillett-diesel-bluffdale",shop:"Gillett Diesel",day:"Day 9",address:"14812 S Heritagecrest Way, Bluffdale UT 84065",phone:"(801) 571-7780",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · diesel specialist · Bluffdale · M–F"}
-  ,{id:"automotive-garage-sandy",shop:"The Automotive Garage",day:"Day 9",address:"182 W 9210 S, Sandy UT 84070",phone:"(801) 561-5671",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · general repair · Sandy · M–F"}
-  ,{id:"kents-muffler-sandy",shop:"Kent's Muffler and Brake",day:"Day 9",address:"250 W 9210 S, Sandy UT 84070",phone:"(801) 816-1600",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · muffler/brake + general repair · Sandy · M–F"}
-  ,{id:"viking-automotive-midvale",shop:"Viking Automotive",day:"Day 9",address:"6905 S State St, Midvale UT 84047",phone:"(801) 838-8898",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · general repair · Midvale · M–F"}
-  ,{id:"ridge-rock-bluffdale",shop:"Ridge Rock Auto",day:"Day 9",address:"985 W 14600 S, Bluffdale UT 84065",phone:"(801) 747-1055",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · general repair · Bluffdale · M–F"}
-  ,{id:"advanced-service-auto-wvc",shop:"Advanced Service Automotive",day:"Day 9",address:"4485 W 3500 S, West Valley City UT 84120",phone:"(801) 968-5680",tags:["Technet"],stars:null,reviewInfo:null,notes:"TechNet member · full-service general repair · West Valley City · M–F"}>
