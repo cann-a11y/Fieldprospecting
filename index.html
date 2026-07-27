@@ -178,6 +178,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     <select class="plan-sel" id="planSel"></select>
     <span id="syncStatus" style="font-size:11px;color:var(--muted);flex-shrink:0">⟳</span>
     <button class="sync-btn" onclick="showSyncKey()" title="Share sync link to other devices">🔗</button>
+    <button class="settings-btn" onclick="openRouteBuilder()" title="Build a route from database">📍</button>
     <button class="settings-btn" onclick="openSettings()" title="Territory settings">⚙</button>
   </div>
   <div class="filters" id="prospectFilters">
@@ -867,6 +868,108 @@ function updateRepDisplay(name) {
   observer.observe(document.getElementById('planSel'), { childList: true });
 })();
 
+</script>
+
+<!-- ══ ROUTE BUILDER MODAL ══ -->
+<div class="modal-overlay" id="routeBuilderModal" onclick="if(event.target===this)closeRouteBuilder()">
+  <div class="modal">
+    <h2>📍 Build a Route</h2>
+    <label for="rbName">Route Name</label>
+    <input type="text" id="rbName" placeholder="e.g. Lake Oswego → Astoria → Cannon Beach">
+    <label for="rbState">Data Source</label>
+    <select id="rbState" style="width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;">
+      <option value="nwaca">Oregon / Washington (NWACA members)</option>
+      <option value="ascca">California (ASCCA members)</option>
+      <option value="bar">California — All Licensed Shops (BAR database)</option>
+    </select>
+    <label for="rbCities">Cities to visit, one per line — in route order</label>
+    <textarea id="rbCities" style="width:100%;min-height:130px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Lake Oswego&#10;Portland&#10;Astoria&#10;Warrenton&#10;Seaside&#10;Hillsboro&#10;Beaverton"></textarea>
+    <label for="rbMax">Max shops per day</label>
+    <input type="text" id="rbMax" value="8" style="width:60px;padding:6px 8px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:16px;">
+    <div id="rbStatus" style="font-size:12px;color:var(--muted);margin-bottom:10px;min-height:16px;"></div>
+    <div class="modal-btns">
+      <button class="btn-cancel" onclick="closeRouteBuilder()">Cancel</button>
+      <button class="btn-save" id="rbGenerateBtn" onclick="generateRoute()">Generate Route</button>
+    </div>
+  </div>
+</div>
+
+<script>
+function openRouteBuilder(){ document.getElementById('routeBuilderModal').classList.add('open'); }
+function closeRouteBuilder(){ document.getElementById('routeBuilderModal').classList.remove('open'); }
+
+async function generateRoute(){
+  const name = document.getElementById('rbName').value.trim();
+  const src  = document.getElementById('rbState').value;
+  const citiesRaw = document.getElementById('rbCities').value;
+  const maxPerDay = parseInt(document.getElementById('rbMax').value)||8;
+  const status = document.getElementById('rbStatus');
+  const btn = document.getElementById('rbGenerateBtn');
+
+  if(!name||!citiesRaw){ alert('Enter a route name and at least one city.'); return; }
+
+  const cities = citiesRaw.split('\n').map(c=>c.trim().toLowerCase()).filter(Boolean);
+
+  const dbMap = {
+    nwaca: 'nwaca_shops.json',
+    ascca: 'ascca_shops.json',
+    bar:   'ca_bar_prospects.json'
+  };
+  const dbFile = dbMap[src];
+  btn.textContent='Loading…'; btn.disabled=true;
+  status.textContent='Fetching '+dbFile+'…';
+
+  try {
+    const resp = await fetch(dbFile+'?t='+Date.now());
+    if(!resp.ok) throw new Error('Could not load '+dbFile+' ('+resp.status+')');
+    const allShops = await resp.json();
+    status.textContent='Loaded '+allShops.length+' shops. Filtering…';
+
+    const matching = allShops.filter(s=> cities.includes((s.city||'').trim().toLowerCase()));
+    if(!matching.length){ alert('No shops found for those cities in '+dbFile+'.\nCheck spelling (e.g. "Portland" not "portland") — database uses title case.'); return; }
+
+    // Sort by city order as entered, then name
+    matching.sort((a,b)=>{
+      const ai=cities.indexOf((a.city||'').toLowerCase());
+      const bi=cities.indexOf((b.city||'').toLowerCase());
+      return ai!==bi ? ai-bi : (a.name||'').localeCompare(b.name||'');
+    });
+
+    const plan = matching.map((s,i)=>({
+      id: src+'-'+i+'-'+Math.random().toString(36).slice(2,6),
+      shop: s.name,
+      day: 'Day '+(Math.floor(i/maxPerDay)+1),
+      address: [s.address, s.city, s.state, s.zip].filter(Boolean).join(', '),
+      phone: s.phone||'',
+      tags: (s.source==='NWACA'||s.source==='ASCCA') ? ['Assoc'] : [],
+      stars: null,
+      reviewInfo: 'Source: '+(s.source||dbFile),
+      notes: (s.source||'DB')+' · '+s.city+', '+s.state
+    }));
+
+    PLANS[name] = plan;
+
+    // Add to plan selector and switch
+    const sel = document.getElementById('planSel');
+    if(!sel.querySelector('option[value="'+name+'"]')){
+      const opt = document.createElement('option');
+      opt.value=name; opt.textContent=name;
+      sel.appendChild(opt);
+    }
+    sel.value=name;
+    sel.dispatchEvent(new Event('change'));
+    closeRouteBuilder();
+    status.textContent='';
+    document.getElementById('rbName').value='';
+    document.getElementById('rbCities').value='';
+
+  } catch(e){
+    alert('Error: '+e.message);
+    status.textContent='';
+  } finally {
+    btn.textContent='Generate Route'; btn.disabled=false;
+  }
+}
 </script>
 </body>
 </html
