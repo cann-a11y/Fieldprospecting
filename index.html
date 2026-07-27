@@ -876,7 +876,7 @@ function updateRepDisplay(name) {
     <h2>📍 Build a Route</h2>
     <label for="rbName">Route Name</label>
     <input type="text" id="rbName" placeholder="e.g. Lake Oswego → Astoria → Cannon Beach">
-    <label for="rbCities">Cities to visit, one per line — in route order</label>
+    <label for="rbCities" style="margin-top:12px;display:block;">Cities to visit, one per line — in route order</label>
     <textarea id="rbCities" style="width:100%;min-height:130px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Lake Oswego&#10;Portland&#10;Astoria&#10;Warrenton&#10;Hillsboro&#10;Beaverton"></textarea>
     <label for="rbMax">Max shops per day</label>
     <input type="text" id="rbMax" value="8" style="width:60px;padding:6px 8px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:16px;">
@@ -887,79 +887,49 @@ function updateRepDisplay(name) {
     </div>
   </div>
 </div>
-
 <script>
 function openRouteBuilder(){ document.getElementById('routeBuilderModal').classList.add('open'); }
 function closeRouteBuilder(){ document.getElementById('routeBuilderModal').classList.remove('open'); }
-
 async function generateRoute(){
   const name = document.getElementById('rbName').value.trim();
   const citiesRaw = document.getElementById('rbCities').value;
   const maxPerDay = parseInt(document.getElementById('rbMax').value)||8;
   const status = document.getElementById('rbStatus');
   const btn = document.getElementById('rbGenerateBtn');
-
   if(!name||!citiesRaw){ alert('Enter a route name and at least one city.'); return; }
   const cities = citiesRaw.split('\n').map(c=>c.trim().toLowerCase()).filter(Boolean);
-
   btn.textContent='Loading…'; btn.disabled=true;
-  status.textContent='Fetching shop database…';
-
+  status.textContent='Fetching shops…';
   try {
-    // master_prospects.json = NWACA (OR/WA) + ASCCA (CA), already Tekmetric-scrubbed
     const resp = await fetch('master_prospects.json?t='+Date.now());
-    if(!resp.ok) throw new Error('Could not load master_prospects.json ('+resp.status+')');
-    const allShops = await resp.json();
-    status.textContent='Loaded '+allShops.length+' prospects. Filtering…';
-
-    const matching = allShops.filter(s => cities.includes((s.city||'').trim().toLowerCase()));
-
-    if(!matching.length){
-      alert('No shops found for those cities.\n\nCheck spelling — city names are title case (e.g. "Lake Oswego", "Astoria").\n\nAvailable: try cities in OR, WA, or CA.');
-      return;
-    }
-
-    // Sort by city order as entered, then by name
-    matching.sort((a,b)=>{
-      const ai = cities.indexOf((a.city||'').toLowerCase());
-      const bi = cities.indexOf((b.city||'').toLowerCase());
-      return ai!==bi ? ai-bi : (a.name||'').localeCompare(b.name||'');
-    });
-
-    // Build plan — source (NWACA / ASCCA) becomes a signal tag on the card
+    if(!resp.ok) throw new Error('Could not load shop database ('+resp.status+')');
+    const all = await resp.json();
+    status.textContent='Loaded '+all.length+' shops. Filtering…';
+    const matching = all.filter(s=>cities.includes((s.city||'').trim().toLowerCase()));
+    if(!matching.length){ alert('No shops found.\n\nCheck city spelling — use title case (e.g. "Portland", "Lake Oswego").\nAvailable territories: Oregon, Washington, California.'); return; }
+    matching.sort((a,b)=>{ const ai=cities.indexOf((a.city||'').toLowerCase()),bi=cities.indexOf((b.city||'').toLowerCase()); return ai!==bi?ai-bi:(a.name||'').localeCompare(b.name||''); });
     const plan = matching.map((s,i)=>({
-      id: 'gen-'+Date.now()+'-'+i,
-      shop: s.name,
-      day: 'Day '+(Math.floor(i/maxPerDay)+1),
-      address: [s.address, s.city, s.state, s.zip].filter(Boolean).join(', '),
-      phone: s.phone||'',
-      tags: s.source ? [s.source] : [],
-      stars: null,
-      reviewInfo: (s.source||'')+ ' member',
-      notes: (s.source||'')+' member · '+s.city+', '+(s.state||'')
+      id:'gen-'+i+'-'+Math.random().toString(36).slice(2,6),
+      shop:s.name,
+      day:'Day '+(Math.floor(i/maxPerDay)+1),
+      address:[s.address,s.city,s.state,s.zip].filter(Boolean).join(', '),
+      phone:s.phone||'',
+      tags:s.source?[s.source]:[],
+      stars:null,
+      reviewInfo:(s.source||'')+' member',
+      notes:(s.source||'')+' member · '+s.city+', '+(s.state||'')
     }));
-
-    PLANS[name] = plan;
-
-    const sel = document.getElementById('planSel');
-    if(!sel.querySelector('option[value="'+CSS.escape(name)+'"]')){
-      const opt = document.createElement('option');
-      opt.value=name; opt.textContent=name;
-      sel.appendChild(opt);
-    }
-    sel.value=name;
-    sel.dispatchEvent(new Event('change'));
+    PLANS[name]=plan;
+    const sel=document.getElementById('planSel');
+    if(!sel.querySelector('option[value="'+name.replace(/"/g,'&quot;')+'"]')){ const o=document.createElement('option'); o.value=name; o.textContent=name; sel.appendChild(o); }
+    sel.value=name; sel.dispatchEvent(new Event('change'));
     closeRouteBuilder();
     document.getElementById('rbName').value='';
     document.getElementById('rbCities').value='';
     status.textContent='';
-
-  } catch(e){
-    alert('Error: '+e.message);
-    status.textContent='';
-  } finally {
-    btn.textContent='Generate Route'; btn.disabled=false;
-  }
+  } catch(e){ alert('Error: '+e.message); status.textContent=''; }
+  finally{ btn.textContent='Generate Route'; btn.disabled=false; }
 }
 </script>
 </body>
+</html>
