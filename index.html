@@ -223,6 +223,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
     <div class="section-label">My Territories</div>
     <span class="btn-all" onclick="toggleAllPlans(true)">Select all</span> &nbsp;
     <span class="btn-all" onclick="toggleAllPlans(false)">Deselect all</span>
+    <label for="ghTokenInput" style="margin-top:12px;display:block;">GitHub Token <span style="font-size:11px;opacity:.6;">(saves routes — stored in your browser only)</span></label>
+    <input type="password" id="ghTokenInput" placeholder="github_pat_…" style="width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;">
     <div class="plan-checks" id="planChecks"></div>
     <div class="modal-btns">
       <button class="btn-cancel" onclick="closeSettings()">Cancel</button>
@@ -801,6 +803,7 @@ function applySettings(settings) {
 function openSettings() {
   const settings = getSettings();
   document.getElementById('repNameInput').value = settings.repName || '';
+  const ghTokEl = document.getElementById('ghTokenInput'); if(ghTokEl) ghTokEl.value = localStorage.getItem('ghToken') || '';
   const checks = document.getElementById('planChecks');
   checks.innerHTML = '';
   ALL_PLAN_KEYS.forEach(k => {
@@ -823,6 +826,7 @@ function toggleAllPlans(checked) {
 
 function saveSettings() {
   const repName = document.getElementById('repNameInput').value.trim();
+  const ghTokSave = document.getElementById('ghTokenInput'); if(ghTokSave){ const t2=ghTokSave.value.trim(); if(t2) localStorage.setItem('ghToken',t2); else localStorage.removeItem('ghToken'); }
   const checked = [...document.querySelectorAll('#planChecks input[type=checkbox]:checked')].map(cb => cb.value);
   const myPlans = checked.length === ALL_PLAN_KEYS.length ? null : checked;
   const settings = { repName, myPlans };
