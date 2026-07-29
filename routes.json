@@ -1,6 +1,6 @@
 [
   {
-    "name": "Olympic Peninsula — PT to Bremerton",
+    "name": "Olympic Peninsula â PT to Bremerton",
     "prospects": [
       {
         "id": "all-city-pt",
@@ -43,7 +43,7 @@
       },
       {
         "id": "evergreen-seq",
-        "shop": "Evergreen Collision Center – Sequim",
+        "shop": "Evergreen Collision Center â Sequim",
         "day": "Day 1",
         "address": "703 E Washington Street, Sequim, WA 98382",
         "phone": "(360) 683-1128",
@@ -95,7 +95,7 @@
       },
       {
         "id": "evergreen-pa",
-        "shop": "Evergreen Collision Center – Port Angeles",
+        "shop": "Evergreen Collision Center â Port Angeles",
         "day": "Day 1",
         "address": "820 E Front Street, Port Angeles, WA 98362",
         "phone": "(360) 457-4484",
@@ -216,21 +216,415 @@
         "shop": "Pat's Auto Care",
         "address": "274 Otto Street, Port Townsend, WA 98368",
         "phone": "(425) 996-3535",
-        "notes": "✅ Tekmetric customer — Port Townsend"
+        "notes": "â Tekmetric customer â Port Townsend"
       },
       {
         "shop": "B & B Auto Bremerton",
         "address": "299 S National Avenue, Bremerton, WA 98312",
         "phone": "(360) 381-3637",
-        "notes": "✅ Tekmetric customer — Bremerton"
+        "notes": "â Tekmetric customer â Bremerton"
       },
       {
         "shop": "Aberdeen Automotive",
         "address": "509 W Curtis Street, Aberdeen, WA 98520",
         "phone": "(360) 520-5881",
-        "notes": "✅ Tekmetric customer — Aberdeen"
+        "notes": "â Tekmetric customer â Aberdeen"
       }
     ],
     "saved": "2026-07-29T01:51:18.830Z"
+  },
+  {
+    "name": "Portland Event Follow-Up",
+    "prospects": [
+      {
+        "id": "tvhwy-hugo",
+        "shop": "TV Hwy Automotive",
+        "day": "Day 1",
+        "address": "21135 SW Tualatin Valley Hwy, Beaverton, OR 97003",
+        "phone": "(503) 268-2320",
+        "tags": [
+          "NAPA"
+        ],
+        "stars": null,
+        "reviewInfo": "Registered · Did not attend",
+        "notes": "Contact: Hugo Barajas & Alex Barajas · tvhwyautomotive@outlook.com · NAPA AutoCare"
+      },
+      {
+        "id": "vorsprung-salem",
+        "shop": "Vorsprung Autohaus",
+        "day": "Day 1",
+        "address": "2315 Pringle Rd SE, Salem, OR 97302",
+        "phone": "(971) 382-4916",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Registered · Did not attend",
+        "notes": "Contact: Joseph Lackey · joe@vorsprungautohaus.com · VW/Audi/Porsche specialist"
+      },
+      {
+        "id": "revlab-bvtn",
+        "shop": "RevLab Auto Repair",
+        "day": "Day 1",
+        "address": "12595 SW Beaverdam Rd, Beaverton, OR 97005",
+        "phone": "(503) 544-3120",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Registered · Did not attend",
+        "notes": "Contact: Nasim Jabbar · revlabauto@gmail.com"
+      },
+      {
+        "id": "lomelisauto-gr",
+        "shop": "Lomeli's Auto Repair & Radiator",
+        "day": "Day 2",
+        "address": "2065 NE Division St, Gresham, OR 97030",
+        "phone": "(503) 465-3718",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Carlos Lomeli · lomelisautorepair@gmail.com"
+      },
+      {
+        "id": "legacy-auto-pdx",
+        "shop": "Legacy Automotive & Exhaust",
+        "day": "Day 2",
+        "address": "6027 N Lombard St, Portland, OR 97203",
+        "phone": "(971) 202-7345",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Doug Jones · legacyexhaust@gmail.com"
+      },
+      {
+        "id": "kandm-pdx",
+        "shop": "K&M Auto Service",
+        "day": "Day 2",
+        "address": "2820 SE 50th Ave, Portland, OR 97206",
+        "phone": "(503) 235-1485",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Jacquie Hinze · service@kandmauto.com"
+      },
+      {
+        "id": "salem-exhaust",
+        "shop": "Salem Exhaust & Automotive",
+        "day": "Day 2",
+        "address": "3606 Brooks Ave NE, Keizer, OR 97303",
+        "phone": "(971) 506-8636",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Jason Carter · jason@salemexhaust.com"
+      },
+      {
+        "id": "hometown-auto",
+        "shop": "Hometown Automotive",
+        "day": "Day 2",
+        "address": "Portland, OR",
+        "phone": "",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Karen Pierson · hometownauto7205@gmail.com · ⚠ address not found"
+      },
+      {
+        "id": "primo-van",
+        "shop": "Primo Auto Care",
+        "day": "Day 2",
+        "address": "2504 NE Stapleton Rd, Vancouver, WA 98661",
+        "phone": "(360) 726-5492",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Manuel B · primoautocare1@gmail.com"
+      },
+      {
+        "id": "tylers-tig",
+        "shop": "Tyler's Automotive Tigard",
+        "day": "Day 2",
+        "address": "12485 SW Main St, Tigard, OR 97223",
+        "phone": "(503) 639-5588",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Demo booked · Did not attend",
+        "notes": "Contact: Tyler Ellenson · tyler@tylersautomotive.com"
+      },
+      {
+        "id": "totalcarcare-cnby",
+        "shop": "Total Car Care Centers",
+        "day": "Day 3",
+        "address": "305 SW 1st Ave, Canby, OR 97013",
+        "phone": "(503) 266-2700",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Adam McGlone · adam@totaltirecare.com"
+      },
+      {
+        "id": "ag-auto-pdx",
+        "shop": "AG Automotive and Diesel",
+        "day": "Day 3",
+        "address": "12410 NE Whitaker Way, Portland, OR 97230",
+        "phone": "(503) 253-1747",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Andrew Tormanen · team@ag-automotive.com"
+      },
+      {
+        "id": "millars-cnby",
+        "shop": "Millar's Point S",
+        "day": "Day 3",
+        "address": "1175 SE 1st Ave, Canby, OR 97013",
+        "phone": "(503) 266-4086",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Ben Millar · ben@millarspoints.com"
+      },
+      {
+        "id": "integrity-pdx",
+        "shop": "Integrity Auto Inc",
+        "day": "Day 3",
+        "address": "539 SE 122nd Ave, Portland, OR 97233",
+        "phone": "(503) 408-6385",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Duke"
+      },
+      {
+        "id": "edo-pdx",
+        "shop": "Edo Auto Repair",
+        "day": "Day 3",
+        "address": "1809 SE 122nd Ave, Portland, OR 97233",
+        "phone": "(503) 481-0931",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Edo Hrustanbegovic"
+      },
+      {
+        "id": "dans-lo",
+        "shop": "Dan's Auto Center",
+        "day": "Day 3",
+        "address": "17713 SW Lower Boones Ferry Rd, Lake Oswego, OR 97035",
+        "phone": "(503) 635-8335",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Ethan & Jennifer Micich · dansautocenterlo@gmail.com"
+      },
+      {
+        "id": "motorcar-bvtn",
+        "shop": "MotorCar Doctors Auto Repair",
+        "day": "Day 3",
+        "address": "13203 SW Canyon Rd C, Beaverton, OR 97005",
+        "phone": "(503) 626-4810",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Jeff Nootenboom · jeff@clutchdoctor.com"
+      },
+      {
+        "id": "alignment-bvtn",
+        "shop": "Alignment Specialties",
+        "day": "Day 3",
+        "address": "16630 SW Shaw St, Beaverton, OR 97078",
+        "phone": "(503) 642-0998",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Judy Boyce"
+      },
+      {
+        "id": "german-auto-pdx",
+        "shop": "German Automotive Service & Repair",
+        "day": "Day 3",
+        "address": "16677 SE McLoughlin Blvd, Portland, OR 97267",
+        "phone": "(503) 908-0235",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Kevin Hannani"
+      },
+      {
+        "id": "import-auto-bvtn",
+        "shop": "Import Auto Repair",
+        "day": "Day 3",
+        "address": "11593 SW Canyon Rd, Beaverton, OR 97005",
+        "phone": "(503) 526-9619",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Michael · contact@repairimportauto.com"
+      },
+      {
+        "id": "amazing-bvtn",
+        "shop": "Amazing Auto",
+        "day": "Day 3",
+        "address": "16630 SW Shaw St Ste N, Beaverton, OR 97078",
+        "phone": "(503) 649-4664",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Mustafa Al-Said · aascorp2018@gmail.com"
+      },
+      {
+        "id": "crown-pdx",
+        "shop": "Crown Towing & Repair",
+        "day": "Day 3",
+        "address": "9999 SE Pine St, Portland, OR 97216",
+        "phone": "(503) 705-7000",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Neil Benaroya · crownpdt@gmail.com"
+      },
+      {
+        "id": "duncan-banks",
+        "shop": "Duncan Automotive",
+        "day": "Day 3",
+        "address": "42585 NW Cedar Canyon Rd, Banks, OR 97106",
+        "phone": "(503) 941-9980",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Nicole Hollenbeck · duncanautomotive97106@gmail.com"
+      },
+      {
+        "id": "cookes-pdx",
+        "shop": "Cooke's Brake Services",
+        "day": "Day 3",
+        "address": "830 SE 46th Ave, Portland, OR 97215",
+        "phone": "(503) 232-6440",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Pat Tracy · info@cookesbrakes.com"
+      },
+      {
+        "id": "hillsboro-tire",
+        "shop": "Hillsboro Tire Shop",
+        "day": "Day 3",
+        "address": "24550 SE Witch Hazel Rd, Hillsboro, OR 97123",
+        "phone": "(503) 372-6106",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Ramon · hillsborotireshop23@gmail.com"
+      },
+      {
+        "id": "titan-salem",
+        "shop": "Titan Auto Repair",
+        "day": "Day 3",
+        "address": "1560 Commercial St NE, Salem, OR 97301",
+        "phone": "(503) 362-5830",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Rory Judy · titanautorepair510@gmail.com"
+      },
+      {
+        "id": "donerite-pdx",
+        "shop": "Done Rite Automotive Repair",
+        "day": "Day 3",
+        "address": "4222 NE MLK Blvd, Portland, OR 97211",
+        "phone": "(503) 758-0740",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Ryan Owens · automotiverepairdonerite@gmail.com"
+      },
+      {
+        "id": "trinity-salem",
+        "shop": "Trinity's Quality Auto Care",
+        "day": "Day 3",
+        "address": "3385 Triangle Dr SE, Salem, OR 97302",
+        "phone": "(503) 585-8722",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Steve Galyen · tqac@live.com"
+      },
+      {
+        "id": "topperf-bvtn",
+        "shop": "Top Performance Automotive",
+        "day": "Day 3",
+        "address": "3506 SW 209th Ave, Beaverton, OR 97078",
+        "phone": "(503) 649-7020",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Tony Martin · motomartin59@aol.com"
+      },
+      {
+        "id": "atomic-pdx",
+        "shop": "Atomic Auto Portland",
+        "day": "Day 3",
+        "address": "610 NE 102nd Ave, Portland, OR 97220",
+        "phone": "(503) 969-3134",
+        "tags": [],
+        "stars": null,
+        "reviewInfo": "Invited in-person · Did not attend",
+        "notes": "Contact: Travis Decker · travis@atomicauto.bcom"
+      }
+    ],
+    "existing": [
+      {
+        "shop": "SNC Auto",
+        "address": "16651 SE McLoughlin Blvd, Oak Grove, OR 97267",
+        "phone": "(503) 451-3878",
+        "notes": "✅ Tekmetric Shop #12040 · Registered, did not attend · Contact: Connor Hope · connorhope75@gmail.com"
+      },
+      {
+        "shop": "TrueTech Automotive",
+        "address": "6900 NE Hwy 99 Ste A, Vancouver, WA 98665",
+        "phone": "(360) 571-2302",
+        "notes": "✅ Tekmetric Shop #17944 · Registered, did not attend · Contact: Michael Clark · truetechautomotive@comcast.net"
+      },
+      {
+        "shop": "Wally & Son Automotive",
+        "address": "9650 SW Canyon Rd, Portland, OR 97225",
+        "phone": "(503) 292-1626",
+        "notes": "✅ Tekmetric Shop #14744 · Registered, did not attend · Contact: Tiersa Jergesen · t@wallyandson.com"
+      },
+      {
+        "shop": "Diamond Auto Repair",
+        "address": "Portland, OR",
+        "phone": "",
+        "notes": "✅ Tekmetric Shop #18373 · Invited in-person, did not attend · Contact: Haider · diamondautoworksllc@gmail.com · ⚠ confirm address"
+      },
+      {
+        "shop": "Auto Team Service Center",
+        "address": "2305 McGilchrist St SE, Salem, OR 97302",
+        "phone": "(503) 585-6266",
+        "notes": "✅ Tekmetric Shop #16626 · Invited in-person, did not attend · Contact: John Domaschofsky · autoteamsalem@gmail.com"
+      },
+      {
+        "shop": "Capital Transmission Center",
+        "address": "3369 Hawthorne Ave NE, Salem, OR 97301",
+        "phone": "(503) 990-6351",
+        "notes": "✅ Tekmetric Shop #8276 · Invited in-person, did not attend · Contact: Jose Gutierrez · capitaltransmissioncenter@gmail.com"
+      },
+      {
+        "shop": "In His Name Automotive",
+        "address": "119 50th Ave NW, Salem, OR 97304",
+        "phone": "(971) 428-6446",
+        "notes": "✅ Tekmetric Shop #17405 · Invited in-person, did not attend · Contact: Nathan Nelson · nathan@inhisnameautomotive.com"
+      },
+      {
+        "shop": "Frontline Automotive Repair",
+        "address": "3790 Silverton Rd NE, Salem, OR 97305",
+        "phone": "(503) 877-4867",
+        "notes": "✅ Tekmetric Shop #14485 · Invited in-person, did not attend · Contact: Rickey Smith · rickey@frontlineautomotiverepair.com"
+      },
+      {
+        "shop": "Nick's Auto Care Milwaukie",
+        "address": "12880 SE McLoughlin Blvd, Milwaukie, OR 97222",
+        "phone": "(503) 652-2008",
+        "notes": "✅ Tekmetric Shop #3379 · Invited in-person, did not attend"
+      }
+    ],
+    "saved": "2026-07-29T15:48:29.094Z"
   }
 ]
