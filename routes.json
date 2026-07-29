@@ -1,296 +1,236 @@
 [
   {
-    "name": "Port Townsend to Forks",
+    "name": "Olympic Peninsula — PT to Bremerton",
     "prospects": [
       {
-        "id": "gen-0-b2t",
+        "id": "all-city-pt",
         "shop": "All City Autobody",
         "day": "Day 1",
-        "address": "518 Logan Street, Port Townsend, WA, 98368",
+        "address": "518 Logan Street, Port Townsend, WA 98368",
         "phone": "(360) 385-0634",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Townsend"
       },
       {
-        "id": "gen-1-iyk",
-        "shop": "Autoworks - Port Townsend",
+        "id": "autoworks-pt",
+        "shop": "Autoworks Port Townsend",
         "day": "Day 1",
-        "address": "2313 3rd Street, Port Townsend, WA, 98368",
-        "phone": "360-385-5682",
+        "address": "2313 3rd Street, Port Townsend, WA 98368",
+        "phone": "(360) 385-5682",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Townsend"
       },
       {
-        "id": "gen-2-9oa",
-        "shop": "Pat's Auto Care",
+        "id": "circlesq-ph",
+        "shop": "Circle & Square Auto Care",
         "day": "Day 1",
-        "address": "274 Otto St Unit P, Port Townsend, WA, 98368",
-        "phone": "(425) 996-3535",
+        "address": "10953 Rhody Drive, Port Hadlock, WA 98339",
+        "phone": "(360) 385-2070",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Hadlock"
       },
       {
-        "id": "gen-3-w95",
+        "id": "evergreen-seq",
+        "shop": "Evergreen Collision Center – Sequim",
+        "day": "Day 1",
+        "address": "703 E Washington Street, Sequim, WA 98382",
+        "phone": "(360) 683-1128",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Sequim"
+      },
+      {
+        "id": "franks-pa",
+        "shop": "Frank's Auto Repair & Parts",
+        "day": "Day 1",
+        "address": "1416 E Front Street, Port Angeles, WA 98362",
+        "phone": "(360) 457-7937",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Angeles"
+      },
+      {
+        "id": "rustys-pa",
+        "shop": "Rusty's Import Auto Repair",
+        "day": "Day 1",
+        "address": "141 Kemp St, Port Angeles, WA 98362",
+        "phone": "(360) 457-5267",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Angeles"
+      },
+      {
+        "id": "angeles-collision",
+        "shop": "Angeles Collision Repair",
+        "day": "Day 1",
+        "address": "72 Mount Pleasant Rd, Port Angeles, WA 98362",
+        "phone": "(360) 452-6055",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Angeles"
+      },
+      {
+        "id": "evergreen-pa",
+        "shop": "Evergreen Collision Center – Port Angeles",
+        "day": "Day 1",
+        "address": "820 E Front Street, Port Angeles, WA 98362",
+        "phone": "(360) 457-4484",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Port Angeles"
+      },
+      {
+        "id": "crowell-hq",
+        "shop": "Crowell Brothers Inc",
+        "day": "Day 2",
+        "address": "3125 Simpson Avenue, Hoquiam, WA 98550",
+        "phone": "(360) 532-4840",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Hoquiam"
+      },
+      {
+        "id": "bb-aberdeen",
+        "shop": "B & B Automotive Inc",
+        "day": "Day 2",
+        "address": "301 W Market, Aberdeen, WA 98520",
+        "phone": "(360) 533-4113",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Aberdeen"
+      },
+      {
+        "id": "allabout-brem",
         "shop": "All About Transmissions & Automotive",
-        "day": "Day 1",
-        "address": "5221 1st Street, Bremerton, WA, 98312",
-        "phone": "360-377-2426",
+        "day": "Day 3",
+        "address": "5221 1st Street, Bremerton, WA 98312",
+        "phone": "(360) 377-2426",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Bremerton"
       },
       {
-        "id": "gen-4-ayc",
-        "shop": "B & B Auto Repair Inc",
-        "day": "Day 1",
-        "address": "299 National Avenue S, Bremerton, WA, 98312",
-        "phone": "(360) 377-0682",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-5-lzs",
-        "shop": "Bremerton Collision Repair",
-        "day": "Day 1",
-        "address": "708 Pacific Ave, Bremerton, WA, 98337-1920",
-        "phone": "(360) 440-1383",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-6-d2r",
+        "id": "coopers-brem",
         "shop": "Cooper's NW Inc",
-        "day": "Day 1",
-        "address": "3236 Wheaton Way, Bremerton, WA, 98310",
+        "day": "Day 3",
+        "address": "3236 Wheaton Way, Bremerton, WA 98310",
         "phone": "(360) 377-2894",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Bremerton"
       },
       {
-        "id": "gen-7-bem",
-        "shop": "LK'S Auto Repair",
-        "day": "Day 1",
-        "address": "5921 Street Hwy 303 NE # 100, Bremerton, WA, 98311",
-        "phone": "360-373-6790",
+        "id": "lks-brem",
+        "shop": "LK's Auto Repair",
+        "day": "Day 3",
+        "address": "5921 State Hwy 303 NE #100, Bremerton, WA 98311",
+        "phone": "(360) 373-6790",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Bremerton"
       },
       {
-        "id": "gen-8-3xe",
+        "id": "precision-brem",
         "shop": "Precision Automotive Calibration",
-        "day": "Day 2",
-        "address": "4727 Kean Blvd, Bremerton, WA, 98312",
+        "day": "Day 3",
+        "address": "4727 Kean Blvd, Bremerton, WA 98312",
         "phone": "(360) 728-2580",
         "tags": [
           "Assoc"
         ],
         "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
+        "reviewInfo": "NWACA Member",
+        "notes": "Bremerton"
+      },
+      {
+        "id": "silverdale-aw",
+        "shop": "Silverdale Autoworks",
+        "day": "Day 3",
+        "address": "3342 NW Byron, Silverdale, WA 98383",
+        "phone": "(360) 692-5201",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Silverdale"
+      },
+      {
+        "id": "libertybay-pb",
+        "shop": "Liberty Bay Auto Center",
+        "day": "Day 3",
+        "address": "20201 Front Street NE, Poulsbo, WA 98370",
+        "phone": "(360) 697-4066",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA Member",
+        "notes": "Poulsbo"
       }
     ],
-    "existing": [],
-    "saved": "2026-07-29T01:22:49.279Z"
-  },
-  {
-    "name": "PTown",
-    "prospects": [
+    "existing": [
       {
-        "id": "gen-0-p6i",
-        "shop": "All City Autobody",
-        "day": "Day 1",
-        "address": "518 Logan Street, Port Townsend, WA, 98368",
-        "phone": "(360) 385-0634",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
-      },
-      {
-        "id": "gen-1-h0p",
-        "shop": "Autoworks - Port Townsend",
-        "day": "Day 1",
-        "address": "2313 3rd Street, Port Townsend, WA, 98368",
-        "phone": "360-385-5682",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
-      },
-      {
-        "id": "gen-2-67q",
         "shop": "Pat's Auto Care",
-        "day": "Day 1",
-        "address": "274 Otto St Unit P, Port Townsend, WA, 98368",
+        "address": "274 Otto Street, Port Townsend, WA 98368",
         "phone": "(425) 996-3535",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
+        "notes": "✅ Tekmetric customer — Port Townsend"
+      },
+      {
+        "shop": "B & B Auto Bremerton",
+        "address": "299 S National Avenue, Bremerton, WA 98312",
+        "phone": "(360) 381-3637",
+        "notes": "✅ Tekmetric customer — Bremerton"
+      },
+      {
+        "shop": "Aberdeen Automotive",
+        "address": "509 W Curtis Street, Aberdeen, WA 98520",
+        "phone": "(360) 520-5881",
+        "notes": "✅ Tekmetric customer — Aberdeen"
       }
     ],
-    "existing": [],
-    "saved": "2026-07-29T01:23:51.781Z"
-  },
-  {
-    "name": "Port Townsend",
-    "prospects": [
-      {
-        "id": "gen-0-lig",
-        "shop": "All City Autobody",
-        "day": "Day 1",
-        "address": "518 Logan Street, Port Townsend, WA, 98368",
-        "phone": "(360) 385-0634",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
-      },
-      {
-        "id": "gen-1-fdn",
-        "shop": "Autoworks - Port Townsend",
-        "day": "Day 1",
-        "address": "2313 3rd Street, Port Townsend, WA, 98368",
-        "phone": "360-385-5682",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
-      },
-      {
-        "id": "gen-2-zk4",
-        "shop": "Pat's Auto Care",
-        "day": "Day 1",
-        "address": "274 Otto St Unit P, Port Townsend, WA, 98368",
-        "phone": "(425) 996-3535",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Port Townsend, WA"
-      },
-      {
-        "id": "gen-3-4gh",
-        "shop": "All About Transmissions & Automotive",
-        "day": "Day 1",
-        "address": "5221 1st Street, Bremerton, WA, 98312",
-        "phone": "360-377-2426",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-4-5dy",
-        "shop": "B & B Auto Repair Inc",
-        "day": "Day 1",
-        "address": "299 National Avenue S, Bremerton, WA, 98312",
-        "phone": "(360) 377-0682",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-5-9xx",
-        "shop": "Bremerton Collision Repair",
-        "day": "Day 1",
-        "address": "708 Pacific Ave, Bremerton, WA, 98337-1920",
-        "phone": "(360) 440-1383",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-6-eq5",
-        "shop": "Cooper's NW Inc",
-        "day": "Day 1",
-        "address": "3236 Wheaton Way, Bremerton, WA, 98310",
-        "phone": "(360) 377-2894",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-7-f9a",
-        "shop": "LK'S Auto Repair",
-        "day": "Day 1",
-        "address": "5921 Street Hwy 303 NE # 100, Bremerton, WA, 98311",
-        "phone": "360-373-6790",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      },
-      {
-        "id": "gen-8-9ty",
-        "shop": "Precision Automotive Calibration",
-        "day": "Day 2",
-        "address": "4727 Kean Blvd, Bremerton, WA, 98312",
-        "phone": "(360) 728-2580",
-        "tags": [
-          "Assoc"
-        ],
-        "stars": null,
-        "reviewInfo": "NWACA member",
-        "notes": "NWACA member · Bremerton, WA"
-      }
-    ],
-    "existing": [],
-    "saved": "2026-07-29T01:25:17.823Z"
+    "saved": "2026-07-29T01:51:18.830Z"
   }
 ]
