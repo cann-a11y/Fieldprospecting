@@ -875,10 +875,10 @@ function updateRepDisplay(name) {
   <div class="modal">
     <h2>📍 Build a Route</h2>
     <label for="rbName">Route Name</label>
-    <input type="text" id="rbName" placeholder="e.g. Lake Oswego → Astoria → Cannon Beach">
+    <input type="text" id="rbName" placeholder="e.g. Astoria → Tillamook">
     <label for="rbCities" style="margin-top:12px;display:block;">Cities to visit, one per line — in route order</label>
-    <textarea id="rbCities" style="width:100%;min-height:130px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Lake Oswego&#10;Portland&#10;Astoria&#10;Warrenton&#10;Hillsboro&#10;Beaverton"></textarea>
-    <label for="rbMax">Max shops per day</label>
+    <textarea id="rbCities" style="width:100%;min-height:120px;padding:8px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:14px;resize:vertical;font-family:inherit;" placeholder="Astoria&#10;Warrenton&#10;Tillamook&#10;Portland"></textarea>
+    <label for="rbMax">Max prospects per day</label>
     <input type="text" id="rbMax" value="8" style="width:60px;padding:6px 8px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg);color:var(--text);margin-bottom:16px;">
     <div id="rbStatus" style="font-size:12px;color:var(--muted);margin-bottom:10px;min-height:16px;"></div>
     <div class="modal-btns">
@@ -887,48 +887,155 @@ function updateRepDisplay(name) {
     </div>
   </div>
 </div>
+
 <script>
+// ── Tekmetric scrub list (normalized shop names) ──────────────────────────────
+const TK_SCRUB = new Set(["2techautomotive","395autoperformancecom","412motorsport","aaautomotivestormlake","aautomotivetirepros","aberdeenautomotive","accoladeautoshop4887","aeroautorepairsancarlos","ajnissanspecialist","albertostransmissionsauto","allproauto","allterraintransmissionslasvegas","allwheeldriveautokirkland","alphaomegarepair","alvinsautocentermilpitas","atautomotive","auburnautodoctors","autobahntempleton","autodiagnosticrepairantioch","automotivefleetsolutions","autoworkssanantonio","bayareadryiceblastingfilm","bbautobremerton","beachfrontauto","bearalignmentbrakeservice","beelineframeaxle","bimmerbenzspecialistscostamesa","brownsqualityautomotiveservicevancouver","buelltongaragebuelltoncentralavenue","butteramotors","buttevalleyautomotive","carotechautomotivecompletecarcarecenter","carsmartautoservice","cdautocare","certifiedautorepairsanluisobispo","chforeignautorepair","coastmbzbmwservice","concordautocaretires","contracostaautoservice","crossroadgarage","cruelintentionsdiesel","darrellspointstireandautoservice","daytonatransmissionshop4968","deanzaautorepair","deautorepair","diagnation","dieselperfomancespecialist","dixontirepros","dlmotorsports","domesticdieselcom","doneriteautomotivesacramento","dragonflyautomotive","driveautosports","drivecarstudio","drivenadvantage","dubclinic","eetiresautomotivecartershop5747","electriclaboratories","ellensburgbrakebearing","emilysgarageportland","encoreautosales","erikseuropean","eurocardoctorincirvine","europeanautohausspokane","europeansalesservicesantarosa","europroautomotive","evergreenautomotive","expeditedtruckalignment","fantazymotorsportsthousandoaks","fivestarautorepairgoleta","fmspec","fsautoworxmonroe","fselacompleteautocentershop8363","georgetowninterstatetransmissionautorepair","germansport","ghafarigroup","goldenautobody","grandmasgarage","greendropgarage","gtpitstopautomotiveservicesgrandterrace","hahnautomotive","hausofmercedes","herbsgarage","hmsdiesel","hoeslyautomotive","hqautosport","importmotorworx","jawsperformanceautomotive","jkautomotiverepairelcajon","joesgarageeugene","jonnypriusevrepair","juniorsautomotivealturas","keithsautorepairpinedale","khautoshop","kingscrossautomotiveltd","kirklandautoworks","kiwisautorepair","kmautomotive","kupersautomotiverepair","lafayettegermancarrepairlafayette","lakestevensautomotive","ledouxsautoservicerepaircommercialstreet","leosongarage","m45automotive","masautocentertipton","meineke2296","meineke2908","misteroldhabitsrepair","mmsautosport","morrisonsvip","motascompleteautorepair","nefsautorepair","newkidontheblockautorepairservices","nokaoi","northwestautospecialistlongview","northwestdieselworks","oceansidemotorsports","olympiaautoworks","orindashellautocare","orozcosautoservice","orrautomotive","pachecoautocare","paloaltoshell","patsautocareeverett","precisiongermangarage","precisionpeoplescarrepairautorepairshopinberkeley","prestigejapaneserepair","proautomotivediesel","quattrocare","redhawkautoserviceparent","reedsautomotivewoodland","reevesautorepair","reliableautorepairsanjose","remptmotor","restomotiveallisonsautomotive5342","reveautosports","revolvowest","rizzolisautomotive","rochasautoservice","rodsjapaneseautocare","roncoautomotive","rpmautocenter","rpmtrucknauto","sacramentospecialtyautomotivedowntown","saintsoffroad","salsautohaus","sanluisreyautoservice","santarosatransmissioncarcare","schaeferbrothersautomotive","scottsautomotivemcminnville","serviceprosautomotive","shigespremierautoservice","smallcarservicetruckauto","smartmotorz","smittysservicesandiego","sneadsferrytireauto","sniderautomotivenashville","southbayeuropean","starfleetmechanics","supermobileautoscan","superserviceofcoronahills","tahoemobilemechanic","tediousrepairs","theautoexperts","thegarageinrenton","thepitstopvan","theshopautobodypaint","thevshopportland","tireoutletshop6522","tleliteautomotive","toptechautomotivegrassvalley","torrancemotors","tricitiesautomotiverepair","tridentmotorsports","trivalleycarcareservice","tuckerautocarecom","tunetechdivision","tunetechinc","turningwrenchessacramento","underhoodautomotive","uniqueautoinc","universitytirecenter","usatruckbodies","versionexautobody","wentworthautomotive","wreckamendedautorepair","wronasqualityautorepair","youngsautocarecenter"]);
+function tkNorm(s){ return (s||'').toLowerCase().replace(/[^a-z0-9]/g,''); }
+
+// ── Load persisted routes from GitHub on startup ──────────────────────────────
+(async function loadPersistedRoutes(){
+  try {
+    const resp = await fetch('routes.json?t='+Date.now());
+    if(!resp.ok) return;
+    const routes = await resp.json();
+    if(!Array.isArray(routes)) return;
+    const sel = document.getElementById('planSel');
+    routes.forEach(route => {
+      if(!route.name || !route.prospects || !route.prospects.length) return;
+      PLANS[route.name] = route.prospects;
+      if(route.existing && route.existing.length) NO_VISIT[route.name] = route.existing;
+      if(sel && !sel.querySelector('option[value="'+route.name.replace(/"/g,'&quot;')+'"]')){
+        const o = document.createElement('option');
+        o.value = route.name; o.textContent = route.name; sel.appendChild(o);
+      }
+    });
+  } catch(e){ console.warn('loadPersistedRoutes:', e.message); }
+})();
+
+// ── Route builder open/close ───────────────────────────────────────────────────
 function openRouteBuilder(){ document.getElementById('routeBuilderModal').classList.add('open'); }
 function closeRouteBuilder(){ document.getElementById('routeBuilderModal').classList.remove('open'); }
+
+// ── Generate Route ─────────────────────────────────────────────────────────────
 async function generateRoute(){
-  const name = document.getElementById('rbName').value.trim();
-  const citiesRaw = document.getElementById('rbCities').value;
-  const maxPerDay = parseInt(document.getElementById('rbMax').value)||8;
-  const status = document.getElementById('rbStatus');
-  const btn = document.getElementById('rbGenerateBtn');
+  const name     = document.getElementById('rbName').value.trim();
+  const citiesRaw= document.getElementById('rbCities').value;
+  const maxPerDay= parseInt(document.getElementById('rbMax').value)||8;
+  const statusEl = document.getElementById('rbStatus');
+  const btn      = document.getElementById('rbGenerateBtn');
+
   if(!name||!citiesRaw){ alert('Enter a route name and at least one city.'); return; }
   const cities = citiesRaw.split('\n').map(c=>c.trim().toLowerCase()).filter(Boolean);
+
   btn.textContent='Loading…'; btn.disabled=true;
-  status.textContent='Fetching shops…';
   try {
-    const resp = await fetch('master_prospects.json?t='+Date.now());
-    if(!resp.ok) throw new Error('Could not load shop database ('+resp.status+')');
-    const all = await resp.json();
-    status.textContent='Loaded '+all.length+' shops. Filtering…';
-    const matching = all.filter(s=>cities.includes((s.city||'').trim().toLowerCase()));
-    if(!matching.length){ alert('No shops found.\n\nCheck city spelling — use title case (e.g. "Portland", "Lake Oswego").\nAvailable territories: Oregon, Washington, California.'); return; }
-    matching.sort((a,b)=>{ const ai=cities.indexOf((a.city||'').toLowerCase()),bi=cities.indexOf((b.city||'').toLowerCase()); return ai!==bi?ai-bi:(a.name||'').localeCompare(b.name||''); });
-    const plan = matching.map((s,i)=>({
-      id:'gen-'+i+'-'+Math.random().toString(36).slice(2,6),
-      shop:s.name,
-      day:'Day '+(Math.floor(i/maxPerDay)+1),
-      address:[s.address,s.city,s.state,s.zip].filter(Boolean).join(', '),
-      phone:s.phone||'',
-      tags:s.source?[s.source]:[],
-      stars:null,
-      reviewInfo:(s.source||'')+' member',
-      notes:(s.source||'')+' member · '+s.city+', '+(s.state||'')
-    }));
-    PLANS[name]=plan;
-    const sel=document.getElementById('planSel');
-    if(!sel.querySelector('option[value="'+name.replace(/"/g,'&quot;')+'"]')){ const o=document.createElement('option'); o.value=name; o.textContent=name; sel.appendChild(o); }
-    sel.value=name; sel.dispatchEvent(new Event('change'));
+    statusEl.textContent='Fetching shop databases…';
+    const [masterResp, barResp] = await Promise.all([
+      fetch('master_prospects.json?t='+Date.now()),
+      fetch('ca_bar_prospects.json?t='+Date.now())
+    ]);
+    const allShops = [];
+    if(masterResp.ok){ allShops.push(...await masterResp.json()); }
+    if(barResp.ok){ allShops.push(...await barResp.json()); }
+    statusEl.textContent='Loaded '+allShops.length.toLocaleString()+' shops — filtering…';
+
+    // Filter by requested cities
+    const matching = allShops.filter(s => cities.includes((s.city||'').trim().toLowerCase()));
+    if(!matching.length){
+      alert('No shops found for: '+cities.map(c=>c.charAt(0).toUpperCase()+c.slice(1)).join(', ')+'\n\nThese cities may not be in the database yet.\nTip: Check city spelling (title case). OR cities use NWACA data; CA cities use BAR + ASCCA data.');
+      return;
+    }
+
+    // Deduplicate across databases
+    const seen = new Set();
+    const unique = matching.filter(s=>{
+      const k = tkNorm(s.name)+(s.city||'').toLowerCase();
+      if(seen.has(k)) return false; seen.add(k); return true;
+    });
+
+    // Sort by city order as entered, then alphabetically within city
+    unique.sort((a,b)=>{
+      const ai=cities.indexOf((a.city||'').toLowerCase()), bi=cities.indexOf((b.city||'').toLowerCase());
+      return ai!==bi ? ai-bi : (a.name||'').localeCompare(b.name||'');
+    });
+
+    // Split: prospects vs existing Tekmetric customers
+    const prospects=[], existing=[];
+    let pi=0;
+
+    unique.forEach(s=>{
+      const isTk = TK_SCRUB.has(tkNorm(s.name));
+      const addr = [s.address,s.city,s.state,s.zip].filter(Boolean).join(', ');
+
+      // Signal tags from source
+      const tags = [];
+      if(s.source==='NWACA'||s.source==='ASCCA') tags.push('Assoc');
+      if(s.source==='BG') tags.push('BG Products');
+      if(s.source==='RepairPal') tags.push('RepairPal');
+
+      // reviewInfo: source label + any review data
+      const srcLabel = {NWACA:'NWACA member',ASCCA:'ASCCA member',CA_BAR:'CA BAR Licensed',BG:'BG Shop',Google_Maps:'Google Maps',RepairPal:'RepairPal'}[s.source]||s.source||'';
+      const reviewInfo = s.stars ? s.stars+'★'+(s.reviews?' · '+s.reviews+' reviews':'')+(srcLabel?' · '+srcLabel:'') : srcLabel;
+
+      if(isTk){
+        existing.push({shop:s.name, address:addr, phone:s.phone||'', notes:'Existing Tekmetric customer · '+s.city+', '+(s.state||'')});
+      } else {
+        prospects.push({
+          id:'gen-'+pi+'-'+Math.random().toString(36).slice(2,5),
+          shop:s.name, day:'Day '+(Math.floor(pi/maxPerDay)+1),
+          address:addr, phone:s.phone||'',
+          tags:tags, stars:s.stars?parseFloat(s.stars):null,
+          reviewInfo:reviewInfo,
+          notes:srcLabel+(s.city?(' · '+s.city+', '+(s.state||'')):'')
+        });
+        pi++;
+      }
+    });
+
+    // Wire into tool
+    PLANS[name] = prospects;
+    if(existing.length) NO_VISIT[name] = existing;
+
+    const sel = document.getElementById('planSel');
+    if(sel && !sel.querySelector('option[value="'+name.replace(/"/g,'&quot;')+'"]')){
+      const o=document.createElement('option'); o.value=name; o.textContent=name; sel.appendChild(o);
+    }
+    if(sel){ sel.value=name; sel.dispatchEvent(new Event('change')); }
+
+    // Persist to GitHub
+    statusEl.textContent='Saving route…';
+    const saved = await saveRouteToGitHub(name, prospects, existing);
+
     closeRouteBuilder();
     document.getElementById('rbName').value='';
     document.getElementById('rbCities').value='';
-    status.textContent='';
-  } catch(e){ alert('Error: '+e.message); status.textContent=''; }
-  finally{ btn.textContent='Generate Route'; btn.disabled=false; }
+    if(!saved) alert('Route ready! Note: could not save to GitHub (no token). Set your GitHub token in Settings ⚙ to make routes persist across reloads.');
+
+  } catch(e){ alert('Error: '+e.message); console.error(e); }
+  finally{ btn.textContent='Generate Route'; btn.disabled=false; statusEl.textContent=''; }
+}
+
+// ── Save generated route to routes.json on GitHub ────────────────────────────
+async function saveRouteToGitHub(name, prospects, existing){
+  const tok = (localStorage.getItem('ghToken')||'').trim();
+  if(!tok) return false;
+  try {
+    const rr = await fetch('routes.json?t='+Date.now());
+    const routes = rr.ok ? await rr.json() : [];
+    const idx = routes.findIndex(x=>x.name===name);
+    const entry = {name, prospects, existing, saved: new Date().toISOString()};
+    if(idx>=0) routes[idx]=entry; else routes.push(entry);
+    const meta = await fetch('https://api.github.com/repos/cann-a11y/Fieldprospecting/contents/routes.json',
+      {headers:{Authorization:'token '+tok}});
+    const {sha} = await meta.json();
+    const enc = btoa(unescape(encodeURIComponent(JSON.stringify(routes,null,2))));
+    const push = await fetch('https://api.github.com/repos/cann-a11y/Fieldprospecting/contents/routes.json',{
+      method:'PUT', headers:{Authorization:'token '+tok,'Content-Type':'application/json'},
+      body: JSON.stringify({message:'Route: '+name, content:enc, sha})
+    });
+    return push.ok;
+  } catch(e){ console.error('saveRouteToGitHub:', e); return false; }
 }
 </script>
 </body>
