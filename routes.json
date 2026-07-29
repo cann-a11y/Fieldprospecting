@@ -122,5 +122,51 @@
     ],
     "existing": [],
     "saved": "2026-07-29T01:22:49.279Z"
+  },
+  {
+    "name": "PTown",
+    "prospects": [
+      {
+        "id": "gen-0-p6i",
+        "shop": "All City Autobody",
+        "day": "Day 1",
+        "address": "518 Logan Street, Port Townsend, WA, 98368",
+        "phone": "(360) 385-0634",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA member",
+        "notes": "NWACA member · Port Townsend, WA"
+      },
+      {
+        "id": "gen-1-h0p",
+        "shop": "Autoworks - Port Townsend",
+        "day": "Day 1",
+        "address": "2313 3rd Street, Port Townsend, WA, 98368",
+        "phone": "360-385-5682",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA member",
+        "notes": "NWACA member · Port Townsend, WA"
+      },
+      {
+        "id": "gen-2-67q",
+        "shop": "Pat's Auto Care",
+        "day": "Day 1",
+        "address": "274 Otto St Unit P, Port Townsend, WA, 98368",
+        "phone": "(425) 996-3535",
+        "tags": [
+          "Assoc"
+        ],
+        "stars": null,
+        "reviewInfo": "NWACA member",
+        "notes": "NWACA member · Port Townsend, WA"
+      }
+    ],
+    "existing": [],
+    "saved": "2026-07-29T01:23:51.781Z"
   }
 ]
