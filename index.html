@@ -909,6 +909,7 @@ function tkNorm(s){ return (s||'').toLowerCase().replace(/[^a-z0-9]/g,''); }
       if(!route.name || !route.prospects || !route.prospects.length) return;
       PLANS[route.name] = route.prospects;
       if(route.existing && route.existing.length) NO_VISIT[route.name] = route.existing;
+      if(route.origin && typeof PLAN_ORIGINS !== 'undefined') PLAN_ORIGINS[route.name] = route.origin;
       if(sel && !sel.querySelector('option[value="'+route.name.replace(/"/g,'&quot;')+'"]')){
         const o = document.createElement('option');
         o.value = route.name; o.textContent = route.name; sel.appendChild(o);
