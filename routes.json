@@ -1,6 +1,6 @@
 [
   {
-    "name": "Olympic Peninsula â PT to Bremerton",
+    "name": "Olympic Peninsula Ã¢ÂÂ PT to Bremerton",
     "prospects": [
       {
         "id": "all-city-pt",
@@ -43,7 +43,7 @@
       },
       {
         "id": "evergreen-seq",
-        "shop": "Evergreen Collision Center â Sequim",
+        "shop": "Evergreen Collision Center Ã¢ÂÂ Sequim",
         "day": "Day 1",
         "address": "703 E Washington Street, Sequim, WA 98382",
         "phone": "(360) 683-1128",
@@ -95,7 +95,7 @@
       },
       {
         "id": "evergreen-pa",
-        "shop": "Evergreen Collision Center â Port Angeles",
+        "shop": "Evergreen Collision Center Ã¢ÂÂ Port Angeles",
         "day": "Day 1",
         "address": "820 E Front Street, Port Angeles, WA 98362",
         "phone": "(360) 457-4484",
@@ -216,22 +216,23 @@
         "shop": "Pat's Auto Care",
         "address": "274 Otto Street, Port Townsend, WA 98368",
         "phone": "(425) 996-3535",
-        "notes": "â Tekmetric customer â Port Townsend"
+        "notes": "Ã¢ÂÂ Tekmetric customer Ã¢ÂÂ Port Townsend"
       },
       {
         "shop": "B & B Auto Bremerton",
         "address": "299 S National Avenue, Bremerton, WA 98312",
         "phone": "(360) 381-3637",
-        "notes": "â Tekmetric customer â Bremerton"
+        "notes": "Ã¢ÂÂ Tekmetric customer Ã¢ÂÂ Bremerton"
       },
       {
         "shop": "Aberdeen Automotive",
         "address": "509 W Curtis Street, Aberdeen, WA 98520",
         "phone": "(360) 520-5881",
-        "notes": "â Tekmetric customer â Aberdeen"
+        "notes": "Ã¢ÂÂ Tekmetric customer Ã¢ÂÂ Aberdeen"
       }
     ],
-    "saved": "2026-07-29T01:51:18.830Z"
+    "saved": "2026-07-29T01:51:18.830Z",
+    "origin": "Port Townsend, WA"
   },
   {
     "name": "Portland Event Follow-Up",
@@ -246,8 +247,8 @@
           "NAPA"
         ],
         "stars": null,
-        "reviewInfo": "Registered · Did not attend",
-        "notes": "Contact: Hugo Barajas & Alex Barajas · tvhwyautomotive@outlook.com · NAPA AutoCare"
+        "reviewInfo": "Registered Â· Did not attend",
+        "notes": "Contact: Hugo Barajas & Alex Barajas Â· tvhwyautomotive@outlook.com Â· NAPA AutoCare"
       },
       {
         "id": "vorsprung-salem",
@@ -257,8 +258,8 @@
         "phone": "(971) 382-4916",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Registered · Did not attend",
-        "notes": "Contact: Joseph Lackey · joe@vorsprungautohaus.com · VW/Audi/Porsche specialist"
+        "reviewInfo": "Registered Â· Did not attend",
+        "notes": "Contact: Joseph Lackey Â· joe@vorsprungautohaus.com Â· VW/Audi/Porsche specialist"
       },
       {
         "id": "revlab-bvtn",
@@ -268,8 +269,8 @@
         "phone": "(503) 544-3120",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Registered · Did not attend",
-        "notes": "Contact: Nasim Jabbar · revlabauto@gmail.com"
+        "reviewInfo": "Registered Â· Did not attend",
+        "notes": "Contact: Nasim Jabbar Â· revlabauto@gmail.com"
       },
       {
         "id": "lomelisauto-gr",
@@ -279,8 +280,8 @@
         "phone": "(503) 465-3718",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Carlos Lomeli · lomelisautorepair@gmail.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Carlos Lomeli Â· lomelisautorepair@gmail.com"
       },
       {
         "id": "legacy-auto-pdx",
@@ -290,8 +291,8 @@
         "phone": "(971) 202-7345",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Doug Jones · legacyexhaust@gmail.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Doug Jones Â· legacyexhaust@gmail.com"
       },
       {
         "id": "kandm-pdx",
@@ -301,8 +302,8 @@
         "phone": "(503) 235-1485",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Jacquie Hinze · service@kandmauto.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Jacquie Hinze Â· service@kandmauto.com"
       },
       {
         "id": "salem-exhaust",
@@ -312,8 +313,8 @@
         "phone": "(971) 506-8636",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Jason Carter · jason@salemexhaust.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Jason Carter Â· jason@salemexhaust.com"
       },
       {
         "id": "hometown-auto",
@@ -323,8 +324,8 @@
         "phone": "",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Karen Pierson · hometownauto7205@gmail.com · ⚠ address not found"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Karen Pierson Â· hometownauto7205@gmail.com Â· â  address not found"
       },
       {
         "id": "primo-van",
@@ -334,8 +335,8 @@
         "phone": "(360) 726-5492",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Manuel B · primoautocare1@gmail.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Manuel B Â· primoautocare1@gmail.com"
       },
       {
         "id": "tylers-tig",
@@ -345,8 +346,8 @@
         "phone": "(503) 639-5588",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Demo booked · Did not attend",
-        "notes": "Contact: Tyler Ellenson · tyler@tylersautomotive.com"
+        "reviewInfo": "Demo booked Â· Did not attend",
+        "notes": "Contact: Tyler Ellenson Â· tyler@tylersautomotive.com"
       },
       {
         "id": "totalcarcare-cnby",
@@ -356,8 +357,8 @@
         "phone": "(503) 266-2700",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Adam McGlone · adam@totaltirecare.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Adam McGlone Â· adam@totaltirecare.com"
       },
       {
         "id": "ag-auto-pdx",
@@ -367,8 +368,8 @@
         "phone": "(503) 253-1747",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Andrew Tormanen · team@ag-automotive.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Andrew Tormanen Â· team@ag-automotive.com"
       },
       {
         "id": "millars-cnby",
@@ -378,8 +379,8 @@
         "phone": "(503) 266-4086",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Ben Millar · ben@millarspoints.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Ben Millar Â· ben@millarspoints.com"
       },
       {
         "id": "integrity-pdx",
@@ -389,7 +390,7 @@
         "phone": "(503) 408-6385",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
+        "reviewInfo": "Invited in-person Â· Did not attend",
         "notes": "Contact: Duke"
       },
       {
@@ -400,7 +401,7 @@
         "phone": "(503) 481-0931",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
+        "reviewInfo": "Invited in-person Â· Did not attend",
         "notes": "Contact: Edo Hrustanbegovic"
       },
       {
@@ -411,8 +412,8 @@
         "phone": "(503) 635-8335",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Ethan & Jennifer Micich · dansautocenterlo@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Ethan & Jennifer Micich Â· dansautocenterlo@gmail.com"
       },
       {
         "id": "motorcar-bvtn",
@@ -422,8 +423,8 @@
         "phone": "(503) 626-4810",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Jeff Nootenboom · jeff@clutchdoctor.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Jeff Nootenboom Â· jeff@clutchdoctor.com"
       },
       {
         "id": "alignment-bvtn",
@@ -433,7 +434,7 @@
         "phone": "(503) 642-0998",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
+        "reviewInfo": "Invited in-person Â· Did not attend",
         "notes": "Contact: Judy Boyce"
       },
       {
@@ -444,7 +445,7 @@
         "phone": "(503) 908-0235",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
+        "reviewInfo": "Invited in-person Â· Did not attend",
         "notes": "Contact: Kevin Hannani"
       },
       {
@@ -455,8 +456,8 @@
         "phone": "(503) 526-9619",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Michael · contact@repairimportauto.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Michael Â· contact@repairimportauto.com"
       },
       {
         "id": "amazing-bvtn",
@@ -466,8 +467,8 @@
         "phone": "(503) 649-4664",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Mustafa Al-Said · aascorp2018@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Mustafa Al-Said Â· aascorp2018@gmail.com"
       },
       {
         "id": "crown-pdx",
@@ -477,8 +478,8 @@
         "phone": "(503) 705-7000",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Neil Benaroya · crownpdt@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Neil Benaroya Â· crownpdt@gmail.com"
       },
       {
         "id": "duncan-banks",
@@ -488,8 +489,8 @@
         "phone": "(503) 941-9980",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Nicole Hollenbeck · duncanautomotive97106@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Nicole Hollenbeck Â· duncanautomotive97106@gmail.com"
       },
       {
         "id": "cookes-pdx",
@@ -499,8 +500,8 @@
         "phone": "(503) 232-6440",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Pat Tracy · info@cookesbrakes.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Pat Tracy Â· info@cookesbrakes.com"
       },
       {
         "id": "hillsboro-tire",
@@ -510,8 +511,8 @@
         "phone": "(503) 372-6106",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Ramon · hillsborotireshop23@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Ramon Â· hillsborotireshop23@gmail.com"
       },
       {
         "id": "titan-salem",
@@ -521,8 +522,8 @@
         "phone": "(503) 362-5830",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Rory Judy · titanautorepair510@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Rory Judy Â· titanautorepair510@gmail.com"
       },
       {
         "id": "donerite-pdx",
@@ -532,8 +533,8 @@
         "phone": "(503) 758-0740",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Ryan Owens · automotiverepairdonerite@gmail.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Ryan Owens Â· automotiverepairdonerite@gmail.com"
       },
       {
         "id": "trinity-salem",
@@ -543,8 +544,8 @@
         "phone": "(503) 585-8722",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Steve Galyen · tqac@live.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Steve Galyen Â· tqac@live.com"
       },
       {
         "id": "topperf-bvtn",
@@ -554,8 +555,8 @@
         "phone": "(503) 649-7020",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Tony Martin · motomartin59@aol.com"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Tony Martin Â· motomartin59@aol.com"
       },
       {
         "id": "atomic-pdx",
@@ -565,8 +566,8 @@
         "phone": "(503) 969-3134",
         "tags": [],
         "stars": null,
-        "reviewInfo": "Invited in-person · Did not attend",
-        "notes": "Contact: Travis Decker · travis@atomicauto.bcom"
+        "reviewInfo": "Invited in-person Â· Did not attend",
+        "notes": "Contact: Travis Decker Â· travis@atomicauto.bcom"
       }
     ],
     "existing": [
@@ -574,57 +575,58 @@
         "shop": "SNC Auto",
         "address": "16651 SE McLoughlin Blvd, Oak Grove, OR 97267",
         "phone": "(503) 451-3878",
-        "notes": "✅ Tekmetric Shop #12040 · Registered, did not attend · Contact: Connor Hope · connorhope75@gmail.com"
+        "notes": "â Tekmetric Shop #12040 Â· Registered, did not attend Â· Contact: Connor Hope Â· connorhope75@gmail.com"
       },
       {
         "shop": "TrueTech Automotive",
         "address": "6900 NE Hwy 99 Ste A, Vancouver, WA 98665",
         "phone": "(360) 571-2302",
-        "notes": "✅ Tekmetric Shop #17944 · Registered, did not attend · Contact: Michael Clark · truetechautomotive@comcast.net"
+        "notes": "â Tekmetric Shop #17944 Â· Registered, did not attend Â· Contact: Michael Clark Â· truetechautomotive@comcast.net"
       },
       {
         "shop": "Wally & Son Automotive",
         "address": "9650 SW Canyon Rd, Portland, OR 97225",
         "phone": "(503) 292-1626",
-        "notes": "✅ Tekmetric Shop #14744 · Registered, did not attend · Contact: Tiersa Jergesen · t@wallyandson.com"
+        "notes": "â Tekmetric Shop #14744 Â· Registered, did not attend Â· Contact: Tiersa Jergesen Â· t@wallyandson.com"
       },
       {
         "shop": "Diamond Auto Repair",
         "address": "Portland, OR",
         "phone": "",
-        "notes": "✅ Tekmetric Shop #18373 · Invited in-person, did not attend · Contact: Haider · diamondautoworksllc@gmail.com · ⚠ confirm address"
+        "notes": "â Tekmetric Shop #18373 Â· Invited in-person, did not attend Â· Contact: Haider Â· diamondautoworksllc@gmail.com Â· â  confirm address"
       },
       {
         "shop": "Auto Team Service Center",
         "address": "2305 McGilchrist St SE, Salem, OR 97302",
         "phone": "(503) 585-6266",
-        "notes": "✅ Tekmetric Shop #16626 · Invited in-person, did not attend · Contact: John Domaschofsky · autoteamsalem@gmail.com"
+        "notes": "â Tekmetric Shop #16626 Â· Invited in-person, did not attend Â· Contact: John Domaschofsky Â· autoteamsalem@gmail.com"
       },
       {
         "shop": "Capital Transmission Center",
         "address": "3369 Hawthorne Ave NE, Salem, OR 97301",
         "phone": "(503) 990-6351",
-        "notes": "✅ Tekmetric Shop #8276 · Invited in-person, did not attend · Contact: Jose Gutierrez · capitaltransmissioncenter@gmail.com"
+        "notes": "â Tekmetric Shop #8276 Â· Invited in-person, did not attend Â· Contact: Jose Gutierrez Â· capitaltransmissioncenter@gmail.com"
       },
       {
         "shop": "In His Name Automotive",
         "address": "119 50th Ave NW, Salem, OR 97304",
         "phone": "(971) 428-6446",
-        "notes": "✅ Tekmetric Shop #17405 · Invited in-person, did not attend · Contact: Nathan Nelson · nathan@inhisnameautomotive.com"
+        "notes": "â Tekmetric Shop #17405 Â· Invited in-person, did not attend Â· Contact: Nathan Nelson Â· nathan@inhisnameautomotive.com"
       },
       {
         "shop": "Frontline Automotive Repair",
         "address": "3790 Silverton Rd NE, Salem, OR 97305",
         "phone": "(503) 877-4867",
-        "notes": "✅ Tekmetric Shop #14485 · Invited in-person, did not attend · Contact: Rickey Smith · rickey@frontlineautomotiverepair.com"
+        "notes": "â Tekmetric Shop #14485 Â· Invited in-person, did not attend Â· Contact: Rickey Smith Â· rickey@frontlineautomotiverepair.com"
       },
       {
         "shop": "Nick's Auto Care Milwaukie",
         "address": "12880 SE McLoughlin Blvd, Milwaukie, OR 97222",
         "phone": "(503) 652-2008",
-        "notes": "✅ Tekmetric Shop #3379 · Invited in-person, did not attend"
+        "notes": "â Tekmetric Shop #3379 Â· Invited in-person, did not attend"
       }
     ],
-    "saved": "2026-07-29T15:48:29.094Z"
+    "saved": "2026-07-29T15:48:29.094Z",
+    "origin": "Portland, OR"
   }
 ]
